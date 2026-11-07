@@ -1,0 +1,109 @@
+Blender 게임 캐릭터 제작 준비
+작성일: 2026-10-24
+
+현재 상태
+실제 3D 모델은 Adventurer_Model_v001.blend입니다. 최신 사용법은 Model_Readme.txt를 읽으세요.
+아래 내용은 원화와 참고 파일을 준비한 단계의 기록입니다.
+Blender에서 캐릭터를 만들고, 재질과 관절 움직임을 확인하는 단계까지 준비합니다.
+스타일라이즈드 미형 성인 여성 모험가로 수정했고 정면·측면·후면 AI 원화 v003를 준비했습니다.
+Character_References_v003.blend는 원화 전용 파일이며, 실제 메시가 들어 있는 모델 파일과 구분합니다.
+Unity·Unreal 연결은 이후 단계입니다.
+
+준비된 도구
+- Blender 5.2.3 LTS: 모델링, Sculpt, 리토폴로지, UV, Texture Paint, 렌더링.
+- Blender 기본 포함 Rigify: 골격과 조작 컨트롤 생성. 메시와 연결하는 웨이트 작업은 별도입니다.
+- Open_Blender_Character.cmd: 실제 모델 Adventurer_Model_v001.blend를 엽니다.
+  현재 모델에는 별도 애드온 없이 사용할 수 있는 기본 FK 골격이 연결되어 있습니다.
+- Tripo 웹: 앞서 추천한 AI 메시 초안 생성 후보입니다. 계정 연결이나 생성은 아직 하지 않았습니다.
+- Mixamo: 이전 추천의 자동 리깅·동작 시험 대안입니다. 현재 모델에는 사용하지 않았습니다.
+  Mixamo 자동 리깅은 이족 휴머노이드 대상입니다.
+
+선택한 디자인
+스타일라이즈드 3D의 23세 성인 여성 인간 모험가로 정했습니다.
+여성적인 인상이 뚜렷한 미형 판타지 RPG 주인공이 디자인 목표입니다.
+짙은 갈색의 턱끝 길이 단발에 옆가르마를 두고 한쪽 머리를 귀 뒤로 넘깁니다.
+청록색 셔츠, 갈색 가죽 조끼와 부츠, 짙은 회색 바지, 왼쪽의 작은 허리 주머니를 유지합니다.
+의상은 온전히 입은 상태이며, 체형은 과장 없이 날씬하고 균형 잡힌 운동형 여성 체형입니다.
+검은 몸체와 떨어진 독립 소품으로 제작할 계획이며 이번 원화에는 포함하지 않았습니다.
+작업 기준은 약 7등신·키 1.75m이며 세부 기준은 Character_Design.txt에 있습니다.
+v003에서는 부드러운 타원형 얼굴, 정돈된 턱선, 또렷한 아몬드형 눈과 긴 속눈썹,
+가늘고 정돈된 눈썹, 섬세한 코, 자연스러운 장밋빛 입술로 여성적인 인상을 분명하게 합니다.
+피부는 건강한 인상의 따뜻한 중간 밝기 색입니다.
+첫 제작은 전신 게임 화면과 몸통·팔다리 변형을 우선합니다.
+
+파일 사용
+1. 작업 폴더 루트의 Open_Blender_Character.cmd를 실행합니다.
+   최신 원화가 포함된 Character_References_v003.blend를 엽니다.
+2. File > Save As로 Character_v001.blend를 저장하고 작업합니다.
+3. 01_Reference: 정면·측면 이미지와 크기 참고 자료를 둡니다.
+4. 02_Source_High: AI에서 받은 원본이나 Sculpt 원본을 보관합니다.
+5. 03_Character_Work: 수정할 몸체, 의상, 머리, 소품을 둡니다.
+6. 04_Rig: 최종 형태에 맞춘 메타리그와 생성한 리그를 둡니다.
+7. 05_Studio: 정면·측면·미리보기 카메라와 조명입니다. 뷰포트에서는 숨겨져 있습니다.
+단위는 1 Blender unit = 1m, 위쪽은 Z, 캐릭터 정면은 -Y, 발바닥 높이는 Z=0입니다.
+화면 왼쪽의 2m 눈금은 크기 참고용입니다. 캐릭터 키를 2m로 정한 것이 아닙니다.
+Numpad 1: 정면, Numpad 3: 측면, Numpad 0: 미리보기 카메라.
+Ctrl+Numpad 1: 후면. 측면 이미지는 캐릭터의 왼쪽 옆모습입니다.
+원화는 해당 정렬 직교 시점에서만 나타나며 선택 잠금 상태입니다.
+세 PNG는 .blend 안에 패킹되어 있습니다. References 폴더에도 원본을 보관했습니다.
+원화 크기와 바닥 높이는 대략 정렬했으며 정확한 설계 도면은 아닙니다.
+실제 제작 때는 정면을 기준으로 어깨·골반·무릎 위치와 옷의 경계를 조정합니다.
+숫자 키패드가 없으면 View > Viewpoint 메뉴를 사용합니다.
+
+참고 이미지 준비
+- 전신, 중립 표정, 동일한 A포즈, 발끝과 손끝이 잘리지 않는 구도를 사용합니다.
+- 정면을 먼저 확정하고 같은 인물의 측면·후면을 만듭니다.
+- 각 그림의 키, 머리 크기, 의상, 장식 위치, 팔 각도가 맞는지 직접 비교합니다.
+- 손은 몸통에서, 다리는 서로 떨어뜨립니다. 손가락과 겨드랑이가 보여야 합니다.
+- 단색 배경과 부드럽고 고른 빛을 사용합니다. 강한 원근과 가려진 부위는 피합니다.
+- 이미지 여러 장을 한 장의 시트로 합친 결과는 검토용입니다.
+  AI 3D 입력에는 서비스가 요구하는 각도별 개별 이미지를 사용합니다.
+- 무기·가방 등은 몸체를 가리지 않게 따로 준비합니다.
+AI로 만든 여러 각도가 자동으로 정확히 일치한다고 가정하지 않습니다.
+
+이미지 생성용 프롬프트 틀
+Create an original [STYLE] adult [CHARACTER TYPE / ROLE] for a 3D game.
+[BODY PROPORTIONS], [HAIR], [CLOTHING], [COLOR PALETTE].
+Full body, front orthographic view, neutral expression, relaxed symmetric A-pose.
+Arms angled away from the torso; hands and individual fingers clearly visible;
+legs slightly apart, feet visible, all limbs unobstructed.
+Plain light gray background, soft even lighting, no dramatic shadows,
+no perspective distortion, no cropped limbs, no text, no weapons held in front.
+Keep details readable at gameplay distance.
+For side/back views, preserve exactly the approved character, proportions,
+outfit, colors and pose; change only the viewing direction.
+
+제작 순서와 통과 기준
+1. 디자인·참고 이미지: 각도별 비율과 의상 일치. 이후 3D 초안을 만듭니다.
+2. 큰 형태: Blender Solid 모드에서 실루엣, 얼굴, 손발, 관절, 좌우 균형을 확인합니다.
+   텍스처가 보기 좋아도 형태가 틀렸으면 여기서 고칩니다.
+3. 메시 정리: AI 원본을 보관하고 몸체·의상·장비를 필요한 단위로 분리합니다.
+   관절 주변은 변형에 맞는 면 흐름을 직접 정리합니다. Quad 변환만으로 완료하지 않습니다.
+4. UV·재질: UV 펼치기, 체크 무늬로 늘어짐 확인, Texture Paint 또는 베이크.
+   Base Color와 Roughness를 기본으로 사용하고 필요한 경우 Normal을 추가합니다.
+   삼각형 수·텍스처 해상도는 그림체와 실제 화면 크기를 정한 뒤 예산을 잡습니다.
+5. 리깅: 최종 체형에 메타리그를 맞추고 Generate Rig, 메시 바인딩, 웨이트 수정.
+   Rigify 메타리그는 나중에 다시 생성할 수 있도록 보관합니다.
+6. 동작 검사: 어깨 들기, 팔꿈치 90도, 무릎 90도, 앉기, 몸통 회전, 손 쥐기.
+   관절 찌그러짐과 옷 관통을 고치고 짧은 대기·걷기 동작을 확인합니다.
+7. 완료 기준: 편집 가능한 .blend, 텍스처 파일, 정면·측면·후면 이미지,
+   포즈 검사 결과를 보관합니다. 게임용 적합성은 외관과 변형 둘 다 확인합니다.
+   이번 준비 검사는 캐릭터 품질 검사가 아닙니다.
+
+AI 초안을 사용할 때
+Tripo에서 받은 파일은 Source에 원본 그대로 보관하고 작업용 복사본을 수정합니다.
+웹 기능·크레딧·내보내기 조건은 실제 생성할 때 계정 화면에서 확인합니다.
+이전 조사에서 무료 이용 권리 안내가 일치하지 않았으므로 출시용 권리를 단정하지 않습니다.
+생성 당시 서비스·모델·날짜·사용 조건과 입력 이미지 출처를 함께 기록합니다.
+형태 복구 비용이 크면 AI 메시를 참고물로만 쓰고 Blender에서 새 메시를 만듭니다.
+
+공식 참고 자료
+Tripo 입력 이미지 개선: https://www.tripo3d.ai/help/features/how-to-get-better-image-to-3d-results
+Tripo 여러 각도 입력: https://www.tripo3d.ai/product-doc/model-generation/multi-view-to-3d
+Blender Rigify: https://docs.staging.blender.org/manual/en/latest/addons/rigify/introduction.html
+Blender 리토폴로지: https://docs.blender.org/manual/en/3.3/modeling/meshes/retopology.html
+Mixamo 지원 범위: https://helpx.adobe.com/sg/creative-cloud/faq/mixamo-faq.html
+
+재생성 스크립트 scripts/prepare_character.py는 기존 Character_Start.blend를 덮어쓰지 않습니다.
+Preparation_validation.json에는 저장 파일 재열기와 임시 인체 리그 생성 시험 결과를 기록합니다.
+시험용 인체 리그는 작업 템플릿에 저장하지 않습니다.

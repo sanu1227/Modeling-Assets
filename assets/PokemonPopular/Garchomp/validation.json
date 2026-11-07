@@ -1,0 +1,104 @@
+{
+  "passed": true,
+  "errors": [],
+  "limits": [
+    "Static fan sculpture. No rigging, deformation retopology or engine runtime validation.",
+    "Closed individual components may overlap; not validated as a single printable watertight solid.",
+    "Artistic resemblance assessed against local official-artwork references separately from geometry checks.",
+    "GLB topology is checked after welding a temporary copy at 0.0000001 m; source geometry is untouched."
+  ],
+  "sha256": {
+    "Garchomp.blend": "816f91c9865e3fcef5267d3a708b3f45088a345ab40da6b513e9bf77b0d68e47",
+    "Garchomp.glb": "cf42bc44d8f137127db3995c5d88e6a42706923484bb1a0c46d7b85f5ece78e8"
+  },
+  "source": {
+    "objects": 44,
+    "vertices": 225630,
+    "triangles": 451112,
+    "bounds_m": {
+      "min": [
+        -1.1253974437713623,
+        -0.5135042071342468,
+        0.0
+      ],
+      "max": [
+        1.1253974437713623,
+        0.8954270482063293,
+        1.899999976158142
+      ],
+      "size": [
+        2.2507948875427246,
+        1.4089312553405762,
+        1.899999976158142
+      ]
+    },
+    "materials": [
+      "Garchomp back scale markings",
+      "Garchomp painted skin",
+      "Surface_303D58",
+      "Surface_465475",
+      "Surface_702F37",
+      "Surface_E89789",
+      "Surface_FAF4DF"
+    ],
+    "degenerate_triangles": [],
+    "nonmanifold_edges": 0,
+    "topology_details": [],
+    "objects_without_uv": [],
+    "packed_images": [
+      {
+        "name": "Garchomp painted skin image",
+        "size": [
+          3072,
+          3072
+        ],
+        "packed": true
+      },
+      {
+        "name": "Garchomp back scale markings image",
+        "size": [
+          2048,
+          2048
+        ],
+        "packed": true
+      }
+    ]
+  },
+  "glb": {
+    "objects": 44,
+    "vertices": 233753,
+    "triangles": 451112,
+    "bounds_m": {
+      "min": [
+        -1.1253974437713623,
+        -0.5135042071342468,
+        0.0
+      ],
+      "max": [
+        1.1253974437713623,
+        0.8954270482063293,
+        1.899999976158142
+      ],
+      "size": [
+        2.2507948875427246,
+        1.4089312553405762,
+        1.899999976158142
+      ]
+    },
+    "materials": [
+      "Garchomp back scale markings",
+      "Garchomp painted skin",
+      "Surface_303D58",
+      "Surface_465475",
+      "Surface_702F37",
+      "Surface_E89789",
+      "Surface_FAF4DF"
+    ],
+    "degenerate_triangles": [],
+    "nonmanifold_edges": 0,
+    "topology_details": [],
+    "objects_without_uv": [],
+    "max_bounds_difference_m": 0.0,
+    "file_bytes": 14385696
+  }
+}

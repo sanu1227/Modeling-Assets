@@ -1,0 +1,69 @@
+{
+  "passed": true,
+  "checked_at": "2026-11-04T05:50:49.486936+00:00",
+  "assets": {
+    "blend": {
+      "bytes": 9628321,
+      "sha256": "194608c2be58e1ce990d3937247f2eed2f7ed512e423d4a1e04877482c9eb87c"
+    },
+    "glb": {
+      "bytes": 9574352,
+      "sha256": "d6b1867b2fdb97534f390187988d591d441ffa5998af44dd600277478e4c2011"
+    }
+  },
+  "geometry_validation": "validation.json",
+  "source_triangles": 431368,
+  "source_meshes": 47,
+  "renders": {
+    "preview": {
+      "file": "renders\\Tyranitar_preview.png",
+      "width": 1600,
+      "height": 1600,
+      "current_source": true
+    },
+    "front": {
+      "file": "renders\\Tyranitar_front.png",
+      "width": 1600,
+      "height": 1600,
+      "current_source": true
+    },
+    "back": {
+      "file": "renders\\Tyranitar_back.png",
+      "width": 1600,
+      "height": 1600,
+      "current_source": true
+    },
+    "side": {
+      "file": "renders\\Tyranitar_side.png",
+      "width": 1600,
+      "height": 1600,
+      "current_source": true
+    },
+    "face": {
+      "file": "renders\\Tyranitar_face.png",
+      "width": 1600,
+      "height": 1600,
+      "current_source": true
+    },
+    "clay": {
+      "file": "renders\\Tyranitar_clay.png",
+      "width": 1600,
+      "height": 1600,
+      "current_source": true
+    },
+    "glb_check": {
+      "file": "renders\\Tyranitar_glb_check.png",
+      "width": 800,
+      "height": 800,
+      "current_source": true
+    }
+  },
+  "visual_review": "All six final views and the actual reimported GLB preview were viewed directly.",
+  "limitations": [
+    "Static fan sculpture, no rig or animation",
+    "Closed mesh components overlap; not a single 3D-printable solid",
+    "Generic UV coordinates on untextured parts; no deformation topology claim",
+    "No engine runtime test"
+  ],
+  "errors": []
+}

@@ -1,0 +1,63 @@
+{
+  "passed": true,
+  "source": {
+    "objects": 8,
+    "triangles": 224294,
+    "degenerate_triangles": 0,
+    "nonmanifold_edges": 0,
+    "inconsistent_edges": 0,
+    "missing_uv": [],
+    "missing_material": [],
+    "finite": true,
+    "bounds": {
+      "min": [
+        -0.8398004174232483,
+        -0.46857118606567383,
+        -0.013393249362707138
+      ],
+      "max": [
+        1.3784297704696655,
+        0.45667779445648193,
+        2.771385080218862
+      ],
+      "size": [
+        2.218230187892914,
+        0.9252489805221558,
+        2.7847783295815693
+      ]
+    }
+  },
+  "glb_roundtrip": {
+    "objects": 8,
+    "triangles": 224294,
+    "degenerate_triangles": 0,
+    "nonmanifold_edges": 4220,
+    "inconsistent_edges": 0,
+    "missing_uv": [],
+    "missing_material": [],
+    "finite": true,
+    "bounds": {
+      "min": [
+        -0.8398004174232483,
+        -0.46857118606567383,
+        -0.013393249362707138
+      ],
+      "max": [
+        1.3784297704696655,
+        0.45667779445648193,
+        2.77138502070929
+      ],
+      "size": [
+        2.218230187892914,
+        0.9252489805221558,
+        2.784778270071997
+      ]
+    }
+  },
+  "max_bounds_difference": 5.9509572380989084e-08,
+  "limits": [
+    "Static fan model, not an official extracted game asset.",
+    "Intersecting closed components; not a single printable solid.",
+    "No rigging or engine runtime test. GLB seams may split vertices."
+  ]
+}

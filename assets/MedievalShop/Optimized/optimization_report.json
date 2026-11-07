@@ -1,0 +1,109 @@
+{
+  "source_sha256_before": "9792d28b9c380214d5f3eba21cd467a2bf30eba820270b30f3cd5be6c34213cb",
+  "source_sha256_after": "9792d28b9c380214d5f3eba21cd467a2bf30eba820270b30f3cd5be6c34213cb",
+  "original_triangles": 167792,
+  "original_materials": 21,
+  "original_glb_bytes": 17659780,
+  "lods": {
+    "LOD0": {
+      "triangles": 61172,
+      "vertices": 33774,
+      "materials": 1,
+      "file_bytes": 9052540
+    },
+    "LOD1": {
+      "triangles": 49084,
+      "vertices": 26922,
+      "materials": 1,
+      "file_bytes": 8212348
+    },
+    "LOD2": {
+      "triangles": 20924,
+      "vertices": 11324,
+      "materials": 1,
+      "file_bytes": 5977580
+    }
+  },
+  "collision_hulls": 7,
+  "collision_triangles": 80,
+  "texture_resolution": 2048,
+  "texture_maps": [
+    "Shop_Normal",
+    "Shop_BaseColor",
+    "Shop_ORM",
+    "Shop_Emission"
+  ],
+  "runtime_engine_tested": false,
+  "validation": {
+    "passed": true,
+    "lods": {
+      "LOD0": {
+        "triangles": 61172,
+        "bounds_m": [
+          [
+            -4.519999980926514,
+            -4.416999816894531,
+            0.0
+          ],
+          [
+            5.440386772155762,
+            3.429999828338623,
+            10.310999870300293
+          ]
+        ],
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 0,
+        "inconsistent_normals": 0,
+        "glb_primitives": 1,
+        "glb_roundtrip_passed": true,
+        "file_bytes": 9052540
+      },
+      "LOD1": {
+        "triangles": 49084,
+        "bounds_m": [
+          [
+            -4.519999980926514,
+            -4.416999816894531,
+            0.0
+          ],
+          [
+            5.440386772155762,
+            3.429999828338623,
+            10.310999870300293
+          ]
+        ],
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 0,
+        "inconsistent_normals": 0,
+        "glb_primitives": 1,
+        "glb_roundtrip_passed": true,
+        "file_bytes": 8212348
+      },
+      "LOD2": {
+        "triangles": 20924,
+        "bounds_m": [
+          [
+            -4.519999980926514,
+            -4.416999816894531,
+            0.0
+          ],
+          [
+            5.379429340362549,
+            3.429999828338623,
+            10.310999870300293
+          ]
+        ],
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 0,
+        "inconsistent_normals": 0,
+        "glb_primitives": 1,
+        "glb_roundtrip_passed": true,
+        "file_bytes": 5977580
+      }
+    },
+    "collision_hulls": 7,
+    "fbx_roundtrip_checked": true,
+    "errors": [],
+    "engine_runtime_tested": false
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "passed": true,
+  "checked_at": "2026-11-04T06:17:22.137724+00:00",
+  "source_sha256": "c1ce49a2cb39ad8086856ec2f1b1dcae554de6f043ba0876cc6fee62c71fa1db",
+  "models": [
+    {
+      "name": "Greninja",
+      "meshes": 41,
+      "triangles": 391918,
+      "finite": true,
+      "overview_in_frame": true
+    },
+    {
+      "name": "Lucario",
+      "meshes": 33,
+      "triangles": 537816,
+      "finite": true,
+      "overview_in_frame": true
+    },
+    {
+      "name": "Mimikyu",
+      "meshes": 8,
+      "triangles": 224294,
+      "finite": true,
+      "overview_in_frame": true
+    },
+    {
+      "name": "Charizard",
+      "meshes": 52,
+      "triangles": 319768,
+      "finite": true,
+      "overview_in_frame": true
+    },
+    {
+      "name": "Umbreon",
+      "meshes": 23,
+      "triangles": 396712,
+      "finite": true,
+      "overview_in_frame": true
+    },
+    {
+      "name": "Sylveon",
+      "meshes": 38,
+      "triangles": 392264,
+      "finite": true,
+      "overview_in_frame": true
+    },
+    {
+      "name": "Garchomp",
+      "meshes": 44,
+      "triangles": 451112,
+      "finite": true,
+      "overview_in_frame": true
+    },
+    {
+      "name": "Rayquaza",
+      "meshes": 55,
+      "triangles": 148892,
+      "finite": true,
+      "overview_in_frame": true
+    },
+    {
+      "name": "Gardevoir",
+      "meshes": 18,
+      "triangles": 807876,
+      "finite": true,
+      "overview_in_frame": true
+    },
+    {
+      "name": "Gengar",
+      "meshes": 1,
+      "triangles": 404804,
+      "finite": true,
+      "overview_in_frame": true
+    },
+    {
+      "name": "Tyranitar",
+      "meshes": 47,
+      "triangles": 431368,
+      "finite": true,
+      "overview_in_frame": true
+    },
+    {
+      "name": "Lugia",
+      "meshes": 22,
+      "triangles": 603192,
+      "finite": true,
+      "overview_in_frame": true
+    },
+    {
+      "name": "Pikachu",
+      "meshes": 3,
+      "triangles": 342994,
+      "finite": true,
+      "overview_in_frame": true
+    },
+    {
+      "name": "Eevee",
+      "meshes": 23,
+      "triangles": 1052552,
+      "finite": true,
+      "overview_in_frame": true
+    },
+    {
+      "name": "Luxray",
+      "meshes": 40,
+      "triangles": 1186948,
+      "finite": true,
+      "overview_in_frame": true
+    },
+    {
+      "name": "Snom",
+      "meshes": 19,
+      "triangles": 185526,
+      "finite": true,
+      "overview_in_frame": true
+    },
+    {
+      "name": "Dragonite",
+      "meshes": 36,
+      "triangles": 812408,
+      "finite": true,
+      "overview_in_frame": true
+    },
+    {
+      "name": "Mewtwo",
+      "meshes": 17,
+      "triangles": 770922,
+      "finite": true,
+      "overview_in_frame": true
+    },
+    {
+      "name": "Snorlax",
+      "meshes": 19,
+      "triangles": 365712,
+      "finite": true,
+      "overview_in_frame": true
+    },
+    {
+      "name": "Mew",
+      "meshes": 2,
+      "triangles": 304552,
+      "finite": true,
+      "overview_in_frame": true
+    },
+    {
+      "name": "Chandelure",
+      "meshes": 38,
+      "triangles": 94552,
+      "finite": true,
+      "overview_in_frame": true
+    }
+  ],
+  "model_count": 21,
+  "total_triangles": 10226182,
+  "errors": [],
+  "packed_images": 25,
+  "note": "Saved scene reopened and inspected; no interactive performance claim."
+}

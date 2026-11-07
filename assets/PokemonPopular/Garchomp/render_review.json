@@ -1,0 +1,56 @@
+{
+  "asset": "Garchomp",
+  "checked_utc": "2026-11-04T05:42:15.2193956Z",
+  "source_hashes_match_validation": true,
+  "geometry_validation_passed": true,
+  "source_triangles": 451112,
+  "source_sha256": {
+    "Garchomp.blend": "816f91c9865e3fcef5267d3a708b3f45088a345ab40da6b513e9bf77b0d68e47",
+    "Garchomp.glb": "cf42bc44d8f137127db3995c5d88e6a42706923484bb1a0c46d7b85f5ece78e8"
+  },
+  "views": [
+    {
+      "file": "renders/preview.png",
+      "width": 1600,
+      "height": 1600,
+      "newer_than_source": true,
+      "modified_utc": "2026-11-04T05:35:04.9884220Z"
+    },
+    {
+      "file": "renders/front.png",
+      "width": 1600,
+      "height": 1600,
+      "newer_than_source": true,
+      "modified_utc": "2026-11-04T05:35:38.3674245Z"
+    },
+    {
+      "file": "renders/back.png",
+      "width": 1600,
+      "height": 1600,
+      "newer_than_source": true,
+      "modified_utc": "2026-11-04T05:36:12.5196748Z"
+    },
+    {
+      "file": "renders/side.png",
+      "width": 1600,
+      "height": 1600,
+      "newer_than_source": true,
+      "modified_utc": "2026-11-04T05:36:38.7976056Z"
+    },
+    {
+      "file": "renders/face.png",
+      "width": 1600,
+      "height": 1600,
+      "newer_than_source": true,
+      "modified_utc": "2026-11-04T05:37:06.1751738Z"
+    },
+    {
+      "file": "renders/clay.png",
+      "width": 1600,
+      "height": 1600,
+      "newer_than_source": true,
+      "modified_utc": "2026-11-04T05:37:39.7086537Z"
+    }
+  ],
+  "reference_review": "Compared current front, three-quarter, side and clay views against saved official artwork."
+}

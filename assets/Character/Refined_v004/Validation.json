@@ -1,0 +1,59 @@
+{
+  "passed": true,
+  "saved_file_reopened": true,
+  "source_v003_unchanged": true,
+  "blend": "C:\\Users\\saenu\\Documents\\ChatGPT\\\ubaa8\ub378\ub9c1\\assets\\Character\\Refined_v004\\Adventurer_Refined_v004.blend",
+  "source_sha256": "de6bcf0bce81e510da6a0f4aea65306d40dab8eb773e730384c27c05270c590a",
+  "mesh_vertices": 102798,
+  "base_triangles": 189691,
+  "mesh_objects": 21,
+  "curve_objects": 3,
+  "height_m": 1.7379999160766602,
+  "packed_images": [
+    {
+      "name": "Adventurer_Tripo_v002_basecolor.jpg",
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Adventurer_Tripo_v002_normal.png",
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Adventurer_Tripo_v002_rm.jpg",
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Approved_Front_v003_FaceProjection",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "name": "bob01_diffuse.png",
+      "size": [
+        2048,
+        2048
+      ]
+    }
+  ],
+  "rigged": false,
+  "game_optimized": false,
+  "engine_tested": false,
+  "renders": [
+    "Adventurer_Refined_Face.png",
+    "Adventurer_Refined_Face_ThreeQuarter.png",
+    "Adventurer_Refined_Face_Side.png",
+    "Adventurer_Refined_Front.png",
+    "Adventurer_Refined_Back.png"
+  ]
+}

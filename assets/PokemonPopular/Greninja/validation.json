@@ -1,0 +1,108 @@
+{
+  "passed": true,
+  "errors": [],
+  "limits": [
+    "Static fan sculpture. No rigging, deformation retopology or engine runtime validation.",
+    "Closed individual components may overlap; not validated as a single printable watertight solid.",
+    "Artistic resemblance assessed against local official-artwork references separately from geometry checks.",
+    "GLB topology is checked after welding a temporary copy at 0.0000001 m; source geometry is untouched."
+  ],
+  "sha256": {
+    "Greninja.blend": "138169ed3cc5d0d9b6a346f840c46ae0fb2fce90b80ad99fbbf47c60a8ca714e",
+    "Greninja.glb": "aeecd2618191a3f1b894050a46daf992d1da6b5d126b0989c231576e33ad40bb"
+  },
+  "source": {
+    "objects": 41,
+    "vertices": 196039,
+    "triangles": 391918,
+    "bounds_m": {
+      "min": [
+        -1.1254222393035889,
+        -0.7215564873083852,
+        0.0
+      ],
+      "max": [
+        1.2925286848242483,
+        0.4996093511581421,
+        1.500000011175871
+      ],
+      "size": [
+        2.417950924127837,
+        1.2211658384665274,
+        1.500000011175871
+      ]
+    },
+    "materials": [
+      "Greninja painted face",
+      "Greninja painted hip markings",
+      "Surface_152449",
+      "Surface_24478F",
+      "Surface_3BB2D2",
+      "Surface_6577AD",
+      "Surface_EA839E",
+      "Surface_F5EDAC",
+      "Surface_F7FAF5"
+    ],
+    "degenerate_triangles": [],
+    "nonmanifold_edges": 0,
+    "topology_details": [],
+    "objects_without_uv": [],
+    "packed_images": [
+      {
+        "name": "Greninja painted face image",
+        "size": [
+          2048,
+          2048
+        ],
+        "packed": true
+      },
+      {
+        "name": "Greninja painted hip markings image",
+        "size": [
+          2048,
+          2048
+        ],
+        "packed": true
+      }
+    ]
+  },
+  "glb": {
+    "objects": 41,
+    "vertices": 202834,
+    "triangles": 391918,
+    "bounds_m": {
+      "min": [
+        -1.1254222393035889,
+        -0.721556493167561,
+        0.0
+      ],
+      "max": [
+        1.2925286848242483,
+        0.4996093511581421,
+        1.500000011175871
+      ],
+      "size": [
+        2.417950924127837,
+        1.2211658443257032,
+        1.500000011175871
+      ]
+    },
+    "materials": [
+      "Greninja painted face",
+      "Greninja painted hip markings",
+      "Surface_152449",
+      "Surface_24478F",
+      "Surface_3BB2D2",
+      "Surface_6577AD",
+      "Surface_EA839E",
+      "Surface_F5EDAC",
+      "Surface_F7FAF5"
+    ],
+    "degenerate_triangles": [],
+    "nonmanifold_edges": 0,
+    "topology_details": [],
+    "objects_without_uv": [],
+    "max_bounds_difference_m": 5.8591758111958825e-09,
+    "file_bytes": 11054660
+  }
+}

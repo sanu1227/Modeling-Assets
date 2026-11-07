@@ -1,0 +1,12 @@
+00:00.579  blend            | Read blend: "C:\Users\saenu\Documents\ChatGPT\모델링\assets\PokemonPopular\Lugia\Lugia.blend"
+00:00.657  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+00:34.391  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PokemonPopular\Lugia\renders\preview.png'
+01:06.782  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PokemonPopular\Lugia\renders\front.png'
+01:40.766  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PokemonPopular\Lugia\renders\back.png'
+02:11.735  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PokemonPopular\Lugia\renders\side.png'
+02:39.891  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PokemonPopular\Lugia\renders\face.png'
+03:07.766  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PokemonPopular\Lugia\renders\clay.png'
+LUGIA_BUILD_OK
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

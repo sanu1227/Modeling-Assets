@@ -1,0 +1,15 @@
+C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\SkullWork_v05\preview_source.py:40: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  clay=bpy.data.materials.new('SkullV5_Neutral_Clay');clay.use_nodes=True
+00:00.984  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\SkullWork_v05\preview_source.py:55: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  scene.world.use_nodes=True
+00:07.187  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\SkullWork_v05\source_clay_front.png'
+00:12.406  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\SkullWork_v05\source_clay_three_quarter.png'
+00:17.547  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\SkullWork_v05\source_clay_profile.png'
+00:22.812  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\SkullWork_v05\source_neutral_normal_three_quarter.png'
+00:22.828  image.write      | ERROR OpenImageIO write failed: Could not open file "C:\Users\saenu\.thumbnails\large\blender_34724_85710866c98a7734c9b1e6765409afb5.png.png"
+Info: Saved as "source_anatomy_preview.blend"
+SOURCE_TOPOLOGY {"vertices": 2435, "faces": 2276, "boundary_edges": 250, "wire_edges": 3, "nonmanifold_edges": 253, "noncontiguous_edges": 0, "component_vertices": [911, 534, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 24, 24, 24, 24, 24, 24, 24, 24, 2, 1, 1, 1, 1]}
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

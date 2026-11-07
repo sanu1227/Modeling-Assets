@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "blender_version": "5.2.3 LTS",
+  "template_reopened": true,
+  "unit_scale_m": 1.0,
+  "character_created": false,
+  "rigify_generation_passed": true,
+  "test_metarig_bones": 29,
+  "test_generated_bones": 222,
+  "test_rig_saved_in_template": false,
+  "visual_character_review": "not applicable: no character yet"
+}

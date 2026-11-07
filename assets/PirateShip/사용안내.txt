@@ -1,0 +1,62 @@
+검은 맹세 / BLACK OATH
+
+어두운 판타지 해적선 콘셉트 1번을 바탕으로 Blender에서 제작한 정적 3D 모델입니다.
+외부 3D 에셋을 사용하지 않았습니다. Concepts의 이미지는 디자인 참고이고,
+hero.png 등은 실제 BlackOath.blend에서 렌더링한 결과입니다.
+
+열기
+- 작업 폴더의 Open_Blender_BlackOath.cmd를 실행합니다.
+- 또는 Blender에서 BlackOath.blend를 엽니다.
+- 숫자패드 0: 저장된 전체 카메라. 숫자패드 마침표: 선택한 부품에 초점.
+- Outliner의 90_Presentation을 숨기면 바다와 조명 등의 표시를 정리할 수 있습니다.
+
+수정 가능한 구조
+01_Hull: 곡면 판재, 포문, 하부 선체, 보강 띠.
+02_Decks: 갑판, 이음선, 난간.
+03_Sterncastle: 선장실 외관, 창, 갤러리, 연결 계단.
+04_Artillery: 실제 구멍이 있는 포신 48개, 포가, 포문 덮개.
+05_Masts: 주 돛대 3개, 야드, 망루, 선수 돛대.
+06_Sails: 곡면 돛 9장, 수선 천, 봉제선, 깃발.
+07_Rigging: 밧줄, 슈라우드, 사다리, 연결 줄.
+08_Ornament: 검정·금장 해골 선수상, 교차 뼈, 구슬 장식, 황동 장식, 선명 표찰, 등불.
+09_Deck_Equipment: 닻, 조타륜, 캡스턴, 보급품, 구명정.
+90_Presentation: 바다, 카메라, 조명. GLB에는 포함하지 않습니다.
+
+메시 부품은 Edit Mode에서 수정할 수 있습니다. 밧줄과 장식 곡선도 제어점을 수정할 수 있습니다.
+곡선의 Weld 보정자는 끝마개의 중복 정점을 연결합니다.
+사용하는 Base Color 이미지는 .blend에 포함되어 있습니다.
+기존 선박 재질의 별도 PNG는 Textures에도 보관되어 있습니다.
+
+산출물
+- BlackOath.blend: 개별 부품과 보정자가 유지된 원본.
+- BlackOath.glb: 9개 논리 그룹으로 합친, 텍스처 포함 교환 파일.
+- hero.png: 바다 위 전체 사선 화면.
+- stern_detail.png: 선미와 창, 등불 근접 화면.
+- deck_detail.png: 노출 갑판과 장비 화면.
+- profile.png: 측면 화면.
+- figurehead_detail.png / figurehead_front.png: 수정한 해골 선수상의 사선·정면 화면.
+- manifest.json: 구성 정보.
+- validation.json: 원본 재열기 및 GLB 재임포트 검사 결과.
+- skull_revision_validation.json: 해골 외 부품과 재질을 보존했는지 검사한 결과.
+- Revisions/Skull_v01: 수정 전 원본과 GLB, 비교용 렌더.
+- Revisions/Skull_v02: 금장·교차 뼈 스타일 적용 전 모델과 비교용 렌더.
+- Revisions/Skull_v03: 눈구멍·광대·턱의 사실적 비율 수정 전 모델과 비교용 렌더.
+- Concepts/skull_reference_v03.png: 사용자가 제공한 해골 장식 참고 이미지.
+
+범위와 제한
+- 선체 길이는 약 52m이며 선수 돛대를 포함한 전체 길이는 약 71m입니다.
+- 정적 외관과 노출 갑판 모델입니다. 선장실 내부, 항해/돛 애니메이션, 캐릭터 이동은 없습니다.
+- 부품은 서로 겹쳐 조립됩니다. 단일 일체형 3D 프린팅 모델이 아닙니다.
+- GLB는 Base Color, Metallic, Roughness 등을 보존합니다.
+  Blender 미세 Bump는 별도 베이크하지 않았으므로 GLB에서 미세 표면 표현은 다릅니다.
+- 타일링 UV를 사용합니다. 라이트맵 UV, LOD, 충돌체, 엔진 FPS 검증은 수행하지 않았습니다.
+- 바다는 정적인 프레젠테이션용이며 선박 내보내기에는 포함되지 않습니다.
+
+재생성
+scripts/build_black_oath.py: 원본과 GLB를 다시 만듭니다. 생성한 파일을 덮어쓰므로 직접 수정한 원본은 다른 이름으로 저장하세요.
+scripts/render_black_oath.py: 저장된 원본에서 전체 4개 화면과 해골 근접 2개 화면을 렌더링합니다.
+scripts/verify_black_oath.py: 원본과 GLB, 최종 렌더를 검사합니다.
+scripts/black_oath_skull_v4.py: 눈구멍·광대·턱의 뼈 구조와 낮은 금장 문양을 생성합니다.
+scripts/black_oath_skull_adornments_v4.py: 낡은 교차 뼈와 절제한 구슬·끈, 고정 철물을 생성합니다.
+scripts/refine_black_oath_skull.py: 보관한 v03에서 선수 장식만 교체하고 나머지 부품의 보존을 검사합니다.
+각 스크립트는 작업 폴더의 tools/blender-5.2.3-windows-x64/blender.exe로 실행합니다.

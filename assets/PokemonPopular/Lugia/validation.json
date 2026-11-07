@@ -1,0 +1,104 @@
+{
+  "passed": true,
+  "errors": [],
+  "limits": [
+    "Static fan sculpture. No rigging, deformation retopology or engine runtime validation.",
+    "Closed individual components may overlap; not validated as a single printable watertight solid.",
+    "Artistic resemblance assessed against local official-artwork references separately from geometry checks.",
+    "GLB topology is checked after welding a temporary copy at 0.0000001 m; source geometry is untouched."
+  ],
+  "sha256": {
+    "Lugia.blend": "70cd49af8dd588a6cff31a07d2833921db09407c3d3a2a96679871ba97fca3de",
+    "Lugia.glb": "9a483cade95563834a8eb81da463df37e367a285a6d152e519997aa628755cea"
+  },
+  "source": {
+    "objects": 22,
+    "vertices": 301646,
+    "triangles": 603192,
+    "bounds_m": {
+      "min": [
+        -3.7714264392852783,
+        -2.340481996536255,
+        0.0
+      ],
+      "max": [
+        3.6472251415252686,
+        3.9080654978752136,
+        5.199999928474426
+      ],
+      "size": [
+        7.418651580810547,
+        6.2485474944114685,
+        5.199999928474426
+      ]
+    },
+    "materials": [
+      "Lugia painted eyes",
+      "Lugia pale blue belly",
+      "Surface_354B8B",
+      "Surface_6E4257",
+      "Surface_CF8996",
+      "Surface_EFF3F5"
+    ],
+    "degenerate_triangles": [],
+    "nonmanifold_edges": 0,
+    "topology_details": [],
+    "objects_without_uv": [],
+    "dorsal_plates": 10,
+    "blue_tail_spikes": 2,
+    "packed_images": [
+      {
+        "name": "Lugia pale blue belly image",
+        "size": [
+          3072,
+          3072
+        ],
+        "packed": true
+      },
+      {
+        "name": "Lugia painted eyes image",
+        "size": [
+          2048,
+          2048
+        ],
+        "packed": true
+      }
+    ]
+  },
+  "glb": {
+    "objects": 22,
+    "vertices": 309186,
+    "triangles": 603192,
+    "bounds_m": {
+      "min": [
+        -3.7714264392852783,
+        -2.340481996536255,
+        0.0
+      ],
+      "max": [
+        3.6472251415252686,
+        3.9080654978752136,
+        5.199999928474426
+      ],
+      "size": [
+        7.418651580810547,
+        6.2485474944114685,
+        5.199999928474426
+      ]
+    },
+    "materials": [
+      "Lugia painted eyes",
+      "Lugia pale blue belly",
+      "Surface_354B8B",
+      "Surface_6E4257",
+      "Surface_CF8996",
+      "Surface_EFF3F5"
+    ],
+    "degenerate_triangles": [],
+    "nonmanifold_edges": 0,
+    "topology_details": [],
+    "objects_without_uv": [],
+    "max_bounds_difference_m": 0.0,
+    "file_bytes": 16089976
+  }
+}

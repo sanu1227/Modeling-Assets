@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "objects": 55,
+  "triangles": 145816,
+  "bounds": [
+    [
+      -29.896272659301758,
+      -1.8438289165496826,
+      7.502326965332031
+    ],
+    [
+      -28.107057571411133,
+      1.9843477010726929,
+      11.335711479187012
+    ]
+  ],
+  "bone_connected_components": {
+    "SkullV4_Adornment_Crossbone_A": [
+      32522
+    ],
+    "SkullV4_Adornment_Crossbone_B": [
+      29564
+    ],
+    "SkullV4_Adornment_Crossbone_rear_brace": [
+      56
+    ],
+    "SkullV4_Adornment_Crossbone_rear_brace.001": [
+      56
+    ]
+  },
+  "errors": []
+}

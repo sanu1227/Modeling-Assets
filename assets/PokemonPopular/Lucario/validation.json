@@ -1,0 +1,93 @@
+{
+  "passed": true,
+  "checked_at": "2026-11-04T05:26:37.029765+00:00",
+  "blender_version": "5.2.3 LTS",
+  "source": {
+    "meshes": 33,
+    "vertices": 268974,
+    "triangles": 537816,
+    "materials": [
+      "Lucario_face_markings",
+      "Surface_1C242B",
+      "Surface_20282E",
+      "Surface_343B42.001",
+      "Surface_468FA9.001",
+      "Surface_F0D995.001",
+      "Surface_F6F2DF.001"
+    ],
+    "bounds": {
+      "min": [
+        -0.31293001770973206,
+        -0.24981818953529,
+        0.0002479782560840249
+      ],
+      "max": [
+        0.43577972054481506,
+        0.299519419670105,
+        1.2000000476837158
+      ],
+      "size": [
+        0.7487097382545471,
+        0.549337609205395,
+        1.1997520694276318
+      ]
+    },
+    "degenerate_triangles": 0,
+    "nonfinite_objects": 0,
+    "topology_issues": [],
+    "objects_without_uv": []
+  },
+  "glb": {
+    "meshes": 33,
+    "vertices": 269290,
+    "triangles": 537816,
+    "materials": [
+      "Lucario_face_markings.001",
+      "Surface_1C242B.001",
+      "Surface_20282E.001",
+      "Surface_343B42.002",
+      "Surface_468FA9.002",
+      "Surface_F0D995.002",
+      "Surface_F6F2DF.002"
+    ],
+    "bounds": {
+      "min": [
+        -0.31293001770973206,
+        -0.24981818953529,
+        0.0002479782560840249
+      ],
+      "max": [
+        0.43577972054481506,
+        0.299519419670105,
+        1.2000000476837158
+      ],
+      "size": [
+        0.7487097382545471,
+        0.549337609205395,
+        1.1997520694276318
+      ]
+    },
+    "degenerate_triangles": 0,
+    "nonfinite_objects": 0,
+    "topology_issues": [],
+    "objects_without_uv": []
+  },
+  "bounds_max_difference_m": 0.0,
+  "packed_images": [
+    {
+      "name": "Lucario_face_markings.png",
+      "packed": true,
+      "size": [
+        2048,
+        2048
+      ]
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "Static fan sculpture, no rig or animation",
+    "Closed mesh components overlap; not a single 3D-printable solid",
+    "Generic UV coordinates on untextured parts; no deformation topology claim",
+    "No engine runtime test"
+  ]
+}

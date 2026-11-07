@@ -1,0 +1,18 @@
+{
+  "source_sha256": "a9085940f59054d3209764ce783a9eec3e4a8fb5d7d08eb05cb5df8f91c70ca0",
+  "source": "Mew.blend",
+  "rendered_at": "2026-11-04T06:27:43.785820+00:00",
+  "views": [
+    "hero",
+    "front",
+    "side",
+    "back",
+    "clay"
+  ],
+  "draft": false,
+  "pixels": [
+    1400,
+    1400
+  ],
+  "samples": 48
+}

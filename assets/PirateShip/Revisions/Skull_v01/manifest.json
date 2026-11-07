@@ -1,0 +1,23 @@
+{
+  "name": "Black Oath",
+  "hull_length_m": 52,
+  "masts": 3,
+  "sails": 9,
+  "cannons": 48,
+  "evaluated_triangles": 626634,
+  "collections": [
+    "01_Hull",
+    "02_Decks",
+    "03_Sterncastle",
+    "04_Artillery",
+    "05_Masts",
+    "06_Sails",
+    "07_Rigging",
+    "08_Ornament",
+    "09_Deck_Equipment",
+    "90_Presentation"
+  ],
+  "source": "BlackOath.blend",
+  "export": "BlackOath.glb",
+  "reference": "Concepts/01_dark_fantasy.png"
+}

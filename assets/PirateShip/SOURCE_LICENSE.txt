@@ -1,0 +1,22 @@
+Black Oath v05 — 해골 기초 메시 출처
+
+Title: Skull downloadable / 3D-Schädel eines Menschen
+Author: martinjario
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+License URL: https://creativecommons.org/licenses/by/4.0/
+Source and license record: https://commons.wikimedia.org/wiki/File:3D-Sch%C3%A4del_eines_Menschen.stl
+Original author page: https://sketchfab.com/3d-models/skull-downloadable-1a9db900738d44298b0bc59f68123393
+Download: https://upload.wikimedia.org/wikipedia/commons/9/9c/3D-Sch%C3%A4del_eines_Menschen.stl
+Retrieved: 2026-10-27
+Source SHA-256: D44FE197CE4724D6FDF9729701C723EFB79CCF14A1CCB3AD37475FBFE1B5066D
+
+변경 사항: 원형 두개골의 방향·크기 조정, 뼈·치아 부품 분리와 UV 생성,
+검게 산화된 재질·상아색 치아·금장 문양 추가, 해적선 선수상으로 장착.
+기초 골격의 해부학적 형상을 보존하여 재구성한 파생 모델입니다.
+
+해골 기초 메시와 이를 포함한 파생 모델을 배포할 때 저자, 출처,
+라이선스 링크와 변경 사실을 함께 유지하세요.
+이 출처 표시는 해골 기초 메시에 적용되며, 선박 전체의 출처를 뜻하지 않습니다.
+
+원본 보관 위치: Source/Skull_v05/martinjario_skull.stl
+라이선스는 Wikimedia Commons의 해당 파일 설명 페이지에서 확인했습니다.

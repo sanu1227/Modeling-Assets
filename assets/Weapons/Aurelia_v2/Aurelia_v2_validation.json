@@ -1,0 +1,67 @@
+{
+  "blender_version": "5.2.3 LTS",
+  "render_device": "OPTIX: NVIDIA GeForce RTX 4060",
+  "vertices": 57260,
+  "triangles": 109300,
+  "dimensions_m": [
+    0.3566708266735077,
+    0.049327999353408813,
+    1.3297412395477295
+  ],
+  "pivot_m": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "material_count": 3,
+  "mesh_count": 1,
+  "part_vertex_groups": 356,
+  "texture_resolution": [
+    4096,
+    4096
+  ],
+  "normal_convention": "OpenGL tangent +Y",
+  "uv_overlap": "Intentional surface tiling",
+  "engine_runtime_tested": false,
+  "roundtrip": {
+    "glb": {
+      "passed": true,
+      "dimensions_m": [
+        0.3566708266735077,
+        0.049327999353408813,
+        1.3297412246465683
+      ],
+      "triangles": 109300,
+      "uv_layers": 1,
+      "material_count": 3
+    },
+    "fbx": {
+      "passed": true,
+      "dimensions_m": [
+        0.3566708266735077,
+        0.04932800121605396,
+        1.3297412246465683
+      ],
+      "triangles": 109300,
+      "uv_layers": 1,
+      "material_count": 3
+    }
+  },
+  "nonmanifold_edges": 0,
+  "glb_embedded_images": 3,
+  "export_excludes_studio": true,
+  "saved_blend_reopened": true,
+  "packed_pbr_textures": true,
+  "previous_swords_unchanged": true,
+  "previous_swords_sha256": {
+    "assets\\Weapons\\Blackthorn\\Blackthorn.blend": "c6ef5be72c6af22e1cfdd15fe5e93630b9082dd0cebc11993f8c6a2e9486eb9c",
+    "assets\\Weapons\\Blackthorn\\Blackthorn_game.glb": "98d9c786769c78c8137e656ddf6d6405921132d0774d9a59c042caff36e0cdac",
+    "assets\\Weapons\\Blackthorn\\Blackthorn_game.fbx": "f0665475c32e510496435f883f01f374b2cdecc136b74cfbb83a9ece4a57d9f9",
+    "scripts\\build_blackthorn.py": "2f9217cdcff9c356e001c07ab0cdd8d5d441caf22602fc1c072d895d237fc20b",
+    "assets\\Weapons\\Aurelia\\Aurelia.blend": "38540f3042a2d03018bf94363e317b9cbf9d6ce82d126682fe0eef8ae877a304",
+    "assets\\Weapons\\Aurelia\\Aurelia_game.glb": "cf09eb91142dc19d89c87a5fedb4b3ec6a8336ee436b971b320bf3361fd5cbf6",
+    "assets\\Weapons\\Aurelia\\Aurelia_game.fbx": "3d9c43747d093ebdb8252980df15ef2e66f03c7a14b53e12fbfff5a76c531a1f",
+    "scripts\\build_aurelia.py": "ca713fa90f8fd86c3922d527cbd2cc702585d956624dbbeaaf7cf84603c7c65d"
+  },
+  "passed": true
+}

@@ -1,0 +1,7 @@
+{
+  "source_sha256": "a9085940f59054d3209764ce783a9eec3e4a8fb5d7d08eb05cb5df8f91c70ca0",
+  "glb_sha256": "f8263ce233f6827b805cd0b40066eb69fa449115a4004a79bc68ad00efc9175c",
+  "render": "renders/glb_reimport.png",
+  "source_files_unchanged": true,
+  "note": "Rendered GLB in Blender, not a game-engine runtime test."
+}

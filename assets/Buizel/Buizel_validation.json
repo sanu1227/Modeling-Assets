@@ -1,0 +1,200 @@
+{
+  "passed": true,
+  "checked_at_utc": "2026-11-04T04:37:43.045170+00:00",
+  "errors": [],
+  "warnings": [],
+  "limits": [
+    "Static model; no rigging, animation or game-engine runtime validation.",
+    "Independent component intersections are not tested as a single watertight union.",
+    "Image-textured surfaces require UV coordinates; solid PBR surfaces do not.",
+    "GLB material, UV and normal seams can split vertices; topology counts are reported."
+  ],
+  "preserved_assets": {
+    "assets/Charizard/Charizard.blend": {
+      "expected_sha256": "c2d67c1ce50a66d43ba6f306bf9989fa070715c9d3f6e54883bcb8abf8df6244",
+      "actual_sha256": "c2d67c1ce50a66d43ba6f306bf9989fa070715c9d3f6e54883bcb8abf8df6244",
+      "unchanged": true
+    },
+    "assets/Charizard/Charizard.glb": {
+      "expected_sha256": "d2815c31942dfc88e69d49279acf71e101dfec240b6112c89cda74dcc38fbaca",
+      "actual_sha256": "d2815c31942dfc88e69d49279acf71e101dfec240b6112c89cda74dcc38fbaca",
+      "unchanged": true
+    }
+  },
+  "previous_assets_unchanged": true,
+  "source": {
+    "objects": 18,
+    "triangles": 568080,
+    "materials": [
+      "Buizel_body",
+      "Buizel_face",
+      "Buizel_tail_tips",
+      "Surface_26313B",
+      "Surface_26748E",
+      "Surface_43A9C6",
+      "Surface_B36824",
+      "Surface_FFDA32",
+      "Surface_FFF0B0"
+    ],
+    "bounds_m": {
+      "min": [
+        -0.1786719411611557,
+        -0.17672681482508779,
+        0.0
+      ],
+      "max": [
+        0.1786719411611557,
+        0.3875468373298645,
+        0.7000000358966645
+      ],
+      "size": [
+        0.3573438823223114,
+        0.5642736521549523,
+        0.7000000358966645
+      ]
+    },
+    "degenerate_triangles": [],
+    "nonmanifold_edges": 0,
+    "boundary_edges": 0,
+    "topology_details": [],
+    "objects_without_uv": [
+      "04_Flotation sac • yellow ring",
+      "05_Arm fin L",
+      "05_Fin crease",
+      "05_Fin crease.001",
+      "05_Arm fin R",
+      "05_Fin crease.002",
+      "05_Fin crease.003",
+      "06_Wrist spot",
+      "06_Wrist spot.001",
+      "08_Toe division",
+      "08_Toe division.001",
+      "08_Toe division.002",
+      "08_Toe division.003"
+    ],
+    "armatures": 0,
+    "images": [
+      {
+        "name": "Buizel_body.png",
+        "size": [
+          2048,
+          2048
+        ],
+        "packed": true
+      },
+      {
+        "name": "Buizel_face.png",
+        "size": [
+          2048,
+          2048
+        ],
+        "packed": true
+      },
+      {
+        "name": "Buizel_tail_tips.png",
+        "size": [
+          512,
+          1024
+        ],
+        "packed": true
+      }
+    ],
+    "textured_materials": [
+      "Buizel_body",
+      "Buizel_face",
+      "Buizel_tail_tips"
+    ]
+  },
+  "glb": {
+    "objects": 18,
+    "triangles": 568080,
+    "materials": [
+      "Buizel_body",
+      "Buizel_face",
+      "Buizel_tail_tips",
+      "Surface_26313B",
+      "Surface_26748E",
+      "Surface_43A9C6",
+      "Surface_B36824",
+      "Surface_FFDA32",
+      "Surface_FFF0B0"
+    ],
+    "bounds_m": {
+      "min": [
+        -0.1786719411611557,
+        -0.17672681482508779,
+        0.0
+      ],
+      "max": [
+        0.1786719411611557,
+        0.3875468373298645,
+        0.7000000358966645
+      ],
+      "size": [
+        0.3573438823223114,
+        0.5642736521549523,
+        0.7000000358966645
+      ]
+    },
+    "degenerate_triangles": [],
+    "nonmanifold_edges": 1592,
+    "boundary_edges": 1592,
+    "topology_details": [
+      {
+        "object": "01_Body • seamless torso and limbs",
+        "nonmanifold_edges": 520,
+        "boundary_edges": 520,
+        "inconsistent_winding_edges": 0
+      },
+      {
+        "object": "02_Head • muzzle and ears",
+        "nonmanifold_edges": 708,
+        "boundary_edges": 708,
+        "inconsistent_winding_edges": 0
+      },
+      {
+        "object": "03_Nose • small black oval",
+        "nonmanifold_edges": 164,
+        "boundary_edges": 164,
+        "inconsistent_winding_edges": 0
+      },
+      {
+        "object": "07_Tail L",
+        "nonmanifold_edges": 100,
+        "boundary_edges": 100,
+        "inconsistent_winding_edges": 0
+      },
+      {
+        "object": "07_Tail R",
+        "nonmanifold_edges": 100,
+        "boundary_edges": 100,
+        "inconsistent_winding_edges": 0
+      }
+    ],
+    "objects_without_uv": [
+      "04_Flotation sac • yellow ring",
+      "05_Arm fin L",
+      "05_Arm fin R",
+      "05_Fin crease",
+      "05_Fin crease.001",
+      "05_Fin crease.002",
+      "05_Fin crease.003",
+      "06_Wrist spot",
+      "06_Wrist spot.001",
+      "08_Toe division",
+      "08_Toe division.001",
+      "08_Toe division.002",
+      "08_Toe division.003"
+    ],
+    "file_bytes": 15782684,
+    "embedded_images": 3,
+    "presentation_objects": [],
+    "textured_materials": [
+      "Buizel_body",
+      "Buizel_face",
+      "Buizel_tail_tips"
+    ],
+    "armatures": 0,
+    "max_bounds_difference_m": 0.0
+  }
+}

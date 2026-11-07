@@ -1,0 +1,89 @@
+{
+  "passed": true,
+  "checked_at": "2026-11-04T05:24:08.623745+00:00",
+  "blender_version": "5.2.3 LTS",
+  "source": {
+    "meshes": 18,
+    "vertices": 403974,
+    "triangles": 807876,
+    "materials": [
+      "Gardevoir_face",
+      "Surface_699D69.001",
+      "Surface_87B97C.001",
+      "Surface_DA6C7A.001",
+      "Surface_F3F2EC.001"
+    ],
+    "bounds": {
+      "min": [
+        -0.5265341401100159,
+        -0.20007365942001343,
+        0.0
+      ],
+      "max": [
+        0.46762198209762573,
+        0.24016065895557404,
+        1.6000001430511475
+      ],
+      "size": [
+        0.9941561222076416,
+        0.44023431837558746,
+        1.6000001430511475
+      ]
+    },
+    "degenerate_triangles": 0,
+    "nonfinite_objects": 0,
+    "topology_issues": [],
+    "objects_without_uv": []
+  },
+  "glb": {
+    "meshes": 18,
+    "vertices": 404136,
+    "triangles": 807876,
+    "materials": [
+      "Gardevoir_face.001",
+      "Surface_699D69.002",
+      "Surface_87B97C.002",
+      "Surface_DA6C7A.002",
+      "Surface_F3F2EC.002"
+    ],
+    "bounds": {
+      "min": [
+        -0.5265341401100159,
+        -0.20007365942001343,
+        0.0
+      ],
+      "max": [
+        0.46762198209762573,
+        0.24016065895557404,
+        1.6000001430511475
+      ],
+      "size": [
+        0.9941561222076416,
+        0.44023431837558746,
+        1.6000001430511475
+      ]
+    },
+    "degenerate_triangles": 0,
+    "nonfinite_objects": 0,
+    "topology_issues": [],
+    "objects_without_uv": []
+  },
+  "bounds_max_difference_m": 0.0,
+  "packed_images": [
+    {
+      "name": "Gardevoir_face.png",
+      "packed": true,
+      "size": [
+        2048,
+        2048
+      ]
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "Static fan sculpture, no rig or animation",
+    "Closed mesh components overlap; not a single 3D-printable solid",
+    "Generic UV coordinates on untextured parts; no deformation topology claim",
+    "No engine runtime test"
+  ]
+}

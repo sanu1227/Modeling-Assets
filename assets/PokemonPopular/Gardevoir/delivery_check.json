@@ -1,0 +1,69 @@
+{
+  "passed": true,
+  "checked_at": "2026-11-04T05:50:49.453235+00:00",
+  "assets": {
+    "blend": {
+      "bytes": 18595493,
+      "sha256": "408486517a33b1fb77d678228ee756fab243f2bb2fd242194ed5eb94da275d30"
+    },
+    "glb": {
+      "bytes": 21448952,
+      "sha256": "7e65d86a4676aee91decaf863c5cd7e1fcdf754234cbf37eb1fe5d7421601c56"
+    }
+  },
+  "geometry_validation": "validation.json",
+  "source_triangles": 807876,
+  "source_meshes": 18,
+  "renders": {
+    "preview": {
+      "file": "renders\\Gardevoir_preview.png",
+      "width": 1400,
+      "height": 1600,
+      "current_source": true
+    },
+    "front": {
+      "file": "renders\\Gardevoir_front.png",
+      "width": 1400,
+      "height": 1600,
+      "current_source": true
+    },
+    "back": {
+      "file": "renders\\Gardevoir_back.png",
+      "width": 1400,
+      "height": 1600,
+      "current_source": true
+    },
+    "side": {
+      "file": "renders\\Gardevoir_side.png",
+      "width": 1400,
+      "height": 1600,
+      "current_source": true
+    },
+    "face": {
+      "file": "renders\\Gardevoir_face.png",
+      "width": 1400,
+      "height": 1600,
+      "current_source": true
+    },
+    "clay": {
+      "file": "renders\\Gardevoir_clay.png",
+      "width": 1400,
+      "height": 1600,
+      "current_source": true
+    },
+    "glb_check": {
+      "file": "renders\\Gardevoir_glb_check.png",
+      "width": 700,
+      "height": 800,
+      "current_source": true
+    }
+  },
+  "visual_review": "All six final views and the actual reimported GLB preview were viewed directly.",
+  "limitations": [
+    "Static fan sculpture, no rig or animation",
+    "Closed mesh components overlap; not a single 3D-printable solid",
+    "Generic UV coordinates on untextured parts; no deformation topology claim",
+    "No engine runtime test"
+  ],
+  "errors": []
+}

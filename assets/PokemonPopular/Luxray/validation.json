@@ -1,0 +1,95 @@
+{
+  "passed": true,
+  "errors": [],
+  "source": {
+    "objects": 40,
+    "triangles": 1186948,
+    "nonfinite": 0,
+    "nonfinite_uv": 0,
+    "degenerate": 0,
+    "nonmanifold_edges": 0,
+    "inconsistent_edges": 0,
+    "missing_uv": [],
+    "materials": [
+      "Color_141B23",
+      "Color_282C32",
+      "Color_3D86AA",
+      "Color_54ACD2",
+      "Color_A93649",
+      "Color_D63442",
+      "Color_F7CF32",
+      "Color_FFF9D9"
+    ],
+    "image_textures": {},
+    "details": [],
+    "bounds": {
+      "min": [
+        -0.781078040599823,
+        -1.0753047466278076,
+        0.0
+      ],
+      "max": [
+        0.7810806035995483,
+        2.026146650314331,
+        2.9075980186462402
+      ],
+      "size": [
+        1.5621586441993713,
+        3.1014513969421387,
+        2.9075980186462402
+      ]
+    }
+  },
+  "glb": {
+    "objects": 40,
+    "triangles": 1186948,
+    "nonfinite": 0,
+    "nonfinite_uv": 0,
+    "degenerate": 0,
+    "nonmanifold_edges": 0,
+    "inconsistent_edges": 0,
+    "missing_uv": [],
+    "materials": [
+      "Color_141B23",
+      "Color_282C32",
+      "Color_3D86AA",
+      "Color_54ACD2",
+      "Color_A93649",
+      "Color_D63442",
+      "Color_F7CF32",
+      "Color_FFF9D9"
+    ],
+    "image_textures": {},
+    "details": [],
+    "bounds": {
+      "min": [
+        -0.781078040599823,
+        -1.0753047466278076,
+        0.0
+      ],
+      "max": [
+        0.7810806035995483,
+        2.026146650314331,
+        2.9075980186462402
+      ],
+      "size": [
+        1.5621586441993713,
+        3.1014513969421387,
+        2.9075980186462402
+      ]
+    }
+  },
+  "bounds_max_error_m": 0.0,
+  "glb_topology_note": "GLB material/UV seam splits welded at 1e-6 m only for topology inspection",
+  "saved_blend_reopened": true,
+  "glb_textures_embedded": true,
+  "sha256": {
+    "blend": "fcaefb34d012312697a14db6ac9487c3eff5fc28dec03485f48e2281a37c1715",
+    "glb": "128c42c6641b06199b823ac82bc0daf20db156edf16eb6abe66294b6fadbbd99"
+  },
+  "limitations": [
+    "Static model; no rig or animation",
+    "Separate closed overlapping parts; not a single printable volume",
+    "No game-engine runtime verification"
+  ]
+}

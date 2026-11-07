@@ -1,0 +1,45 @@
+{
+  "asset": "MakeHuman system bob01",
+  "license": "CC0-1.0 Universal",
+  "downloaded_utc": "2026-10-24T10:55:14.111125+00:00",
+  "catalog_url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+  "archive_url": "https://files2.makehumancommunity.org/asset_packs/makehuman_system_assets/makehuman_system_assets_cc0.zip",
+  "archive_last_modified": "Sun, 14 Apr 2024 13:28:46 GMT",
+  "archive_etag": "\"10bbb7ea-6160e7c0d7996\"",
+  "archive_bytes": 280737770,
+  "retrieval": "HTTP byte ranges; extracted only hair/bob01. ZIP CRC validation passed via Python zipfile. Full ZIP not retained.",
+  "license_original_url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/LICENSE.ASSETS.md",
+  "license_local": "LICENSE.ASSETS.md",
+  "files": [
+    {
+      "path": "hair/bob01/bob01.mhclo",
+      "bytes": 352019,
+      "sha256": "a295b11ab6c7808afa1e01d0c79fb595bbbd7885f65252766486c9fcf6d158c5"
+    },
+    {
+      "path": "hair/bob01/bob01.mhmat",
+      "bytes": 1312,
+      "sha256": "9c3015044a832fb9a72a5d2f28218914ebfbdf6725cfd237cc53a3d95f054e3b"
+    },
+    {
+      "path": "hair/bob01/bob01.obj",
+      "bytes": 396190,
+      "sha256": "d7fb73806f47ee37ba3c37bcfadff40a91ba99635d08c3e02d94b4acbf97c231"
+    },
+    {
+      "path": "hair/bob01/bob01.thumb",
+      "bytes": 53628,
+      "sha256": "f354364f4fbd0d83982ba77d1e8e63e15a3f73a04bd43538d076237602965336"
+    },
+    {
+      "path": "hair/bob01/bob01_diffuse.png",
+      "bytes": 4243598,
+      "sha256": "2b38bc7a028e06e8e633accb7fe2dd1b2bacbb9d32463df73f39f82e63ef9009"
+    }
+  ],
+  "rendering_notes": [
+    "bob01_diffuse.png is the sole hair UV texture referenced by diffuseTexture. Use its alpha channel with double-sided rendering.",
+    "Legacy shaderParam litsphereTexture litspheres/lit_refl_sharp_aniso_hard.png is a MakeHuman GLSL viewport matcap, not a hair UV texture; it is not bundled in the downloaded bob01 directory. Rebuild the Blender material with Principled BSDF."
+  ],
+  "visual_assessment": "Closest of 6 visually reviewed official bob candidates: asymmetrical side part and chin-length silhouette. Reference curl, ear tuck and chestnut color still need adjustment. No Blender edits made."
+}

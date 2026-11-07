@@ -1,0 +1,44 @@
+00:00.781  blend            | Read blend: "C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\BlackOath.blend"
+{
+  "passed": true,
+  "objects": 55,
+  "triangles": 145816,
+  "bounds": [
+    [
+      -29.802152633666992,
+      -1.567254662513733,
+      7.782477855682373
+    ],
+    [
+      -27.82120132446289,
+      1.6866955757141113,
+      11.040854454040527
+    ]
+  ],
+  "bone_connected_components": {
+    "SkullV5_Adornment_Crossbone_A": [
+      32522
+    ],
+    "SkullV5_Adornment_Crossbone_B": [
+      29564
+    ],
+    "SkullV5_Adornment_Crossbone_rear_brace": [
+      56
+    ],
+    "SkullV5_Adornment_Crossbone_rear_brace.001": [
+      56
+    ]
+  },
+  "errors": []
+}
+00:05.141  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\SkullAdornmentWork_v05\preview_adornments.py:67: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world=bpy.data.worlds.new('Adornment_preview_world');world.use_nodes=True
+00:13.735  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\SkullAdornmentWork_v05\adornment_front.png'
+00:20.594  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\SkullAdornmentWork_v05\adornment_three_quarter.png'
+00:20.625  image.write      | ERROR OpenImageIO write failed: Could not open file "C:\Users\saenu\.thumbnails\large\blender_11872_8570864da2b2565c102bf3a8ff6277b5.png.png"
+Info: Saved as "adornment_preview.blend"
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+Timer 'STL Import' took 6.64 ms
+
+Blender quit

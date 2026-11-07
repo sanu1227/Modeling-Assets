@@ -1,0 +1,12 @@
+tools/
+logs/
+**/Library/
+**/Temp/
+**/Obj/
+**/Logs/
+**/UserSettings/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+**/Binaries/
+*.blend1

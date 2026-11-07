@@ -1,0 +1,9 @@
+{
+  "recorded_at": "2026-11-04T14:40:00+09:00",
+  "note": "The initial snapshot remains intact. Buizel was rebuilt at 13:17:50 after the 13:14:57 snapshot, as recorded in the existing build log. The completed current files are retained. This is a documented preservation exception, not a claim that the initial bytes were preserved.",
+  "evidence": ["logs/buizel_build.log", "assets/Buizel/Buizel_validation.json", "assets/Buizel/README.md"],
+  "sha256": {
+    "assets\\Buizel\\Buizel.blend": "009f7a566b4522b1d15d0d27175a7739490eac849d1cd501c1a2b5b296c3ffc2",
+    "assets\\Buizel\\Buizel.glb": "a973a81826a1b1c929ccfdc29ed8c419885427b39b889ac07c9d0217ef6c850a"
+  }
+}

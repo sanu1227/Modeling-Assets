@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Bulbasaur",
+    "korean": "이상해씨",
+    "dex": 1,
+    "generation": 1,
+    "group": "gen1",
+    "type": "Grass",
+    "gallery_position": [
+      -13.75,
+      0.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Bulbasaur.glb"
+  },
+  {
+    "name": "Charmander",
+    "korean": "파이리",
+    "dex": 4,
+    "generation": 1,
+    "group": "gen1",
+    "type": "Fire",
+    "gallery_position": [
+      -10.5,
+      0.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Charmander.glb"
+  },
+  {
+    "name": "Squirtle",
+    "korean": "꼬부기",
+    "dex": 7,
+    "generation": 1,
+    "group": "gen1",
+    "type": "Water",
+    "gallery_position": [
+      -7.25,
+      0.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Squirtle.glb"
+  },
+  {
+    "name": "Chikorita",
+    "korean": "치코리타",
+    "dex": 152,
+    "generation": 2,
+    "group": "gen2",
+    "type": "Grass",
+    "gallery_position": [
+      -3.25,
+      0.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Chikorita.glb"
+  },
+  {
+    "name": "Cyndaquil",
+    "korean": "브케인",
+    "dex": 155,
+    "generation": 2,
+    "group": "gen2",
+    "type": "Fire",
+    "gallery_position": [
+      0.0,
+      0.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Cyndaquil.glb"
+  },
+  {
+    "name": "Totodile",
+    "korean": "리아코",
+    "dex": 158,
+    "generation": 2,
+    "group": "gen2",
+    "type": "Water",
+    "gallery_position": [
+      3.25,
+      0.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Totodile.glb"
+  },
+  {
+    "name": "Treecko",
+    "korean": "나무지기",
+    "dex": 252,
+    "generation": 3,
+    "group": "gen3",
+    "type": "Grass",
+    "gallery_position": [
+      7.25,
+      0.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Treecko.glb"
+  },
+  {
+    "name": "Torchic",
+    "korean": "아차모",
+    "dex": 255,
+    "generation": 3,
+    "group": "gen3",
+    "type": "Fire",
+    "gallery_position": [
+      10.5,
+      0.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Torchic.glb"
+  },
+  {
+    "name": "Mudkip",
+    "korean": "물짱이",
+    "dex": 258,
+    "generation": 3,
+    "group": "gen3",
+    "type": "Water",
+    "gallery_position": [
+      13.75,
+      0.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Mudkip.glb"
+  },
+  {
+    "name": "Turtwig",
+    "korean": "모부기",
+    "dex": 387,
+    "generation": 4,
+    "group": "gen4",
+    "type": "Grass",
+    "gallery_position": [
+      -13.75,
+      5.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Turtwig.glb"
+  },
+  {
+    "name": "Chimchar",
+    "korean": "불꽃숭이",
+    "dex": 390,
+    "generation": 4,
+    "group": "gen4",
+    "type": "Fire",
+    "gallery_position": [
+      -10.5,
+      5.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Chimchar.glb"
+  },
+  {
+    "name": "Piplup",
+    "korean": "팽도리",
+    "dex": 393,
+    "generation": 4,
+    "group": "gen4",
+    "type": "Water",
+    "gallery_position": [
+      -7.25,
+      5.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Piplup.glb"
+  },
+  {
+    "name": "Snivy",
+    "korean": "주리비얀",
+    "dex": 495,
+    "generation": 5,
+    "group": "gen5",
+    "type": "Grass",
+    "gallery_position": [
+      -3.25,
+      5.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Snivy.glb"
+  },
+  {
+    "name": "Tepig",
+    "korean": "뚜꾸리",
+    "dex": 498,
+    "generation": 5,
+    "group": "gen5",
+    "type": "Fire",
+    "gallery_position": [
+      0.0,
+      5.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Tepig.glb"
+  },
+  {
+    "name": "Oshawott",
+    "korean": "수댕이",
+    "dex": 501,
+    "generation": 5,
+    "group": "gen5",
+    "type": "Water",
+    "gallery_position": [
+      3.25,
+      5.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Oshawott.glb"
+  },
+  {
+    "name": "Chespin",
+    "korean": "도치마론",
+    "dex": 650,
+    "generation": 6,
+    "group": "gen6",
+    "type": "Grass",
+    "gallery_position": [
+      7.25,
+      5.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Chespin.glb"
+  },
+  {
+    "name": "Fennekin",
+    "korean": "푸호꼬",
+    "dex": 653,
+    "generation": 6,
+    "group": "gen6",
+    "type": "Fire",
+    "gallery_position": [
+      10.5,
+      5.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Fennekin.glb"
+  },
+  {
+    "name": "Froakie",
+    "korean": "개구마르",
+    "dex": 656,
+    "generation": 6,
+    "group": "gen6",
+    "type": "Water",
+    "gallery_position": [
+      13.75,
+      5.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Froakie.glb"
+  },
+  {
+    "name": "Rowlet",
+    "korean": "나몰빼미",
+    "dex": 722,
+    "generation": 7,
+    "group": "gen7",
+    "type": "Grass",
+    "gallery_position": [
+      -13.75,
+      10.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Rowlet.glb"
+  },
+  {
+    "name": "Litten",
+    "korean": "냐오불",
+    "dex": 725,
+    "generation": 7,
+    "group": "gen7",
+    "type": "Fire",
+    "gallery_position": [
+      -10.5,
+      10.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Litten.glb"
+  },
+  {
+    "name": "Popplio",
+    "korean": "누리공",
+    "dex": 728,
+    "generation": 7,
+    "group": "gen7",
+    "type": "Water",
+    "gallery_position": [
+      -7.25,
+      10.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Popplio.glb"
+  },
+  {
+    "name": "Grookey",
+    "korean": "흥나숭",
+    "dex": 810,
+    "generation": 8,
+    "group": "gen8",
+    "type": "Grass",
+    "gallery_position": [
+      -3.25,
+      10.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Grookey.glb"
+  },
+  {
+    "name": "Scorbunny",
+    "korean": "염버니",
+    "dex": 813,
+    "generation": 8,
+    "group": "gen8",
+    "type": "Fire",
+    "gallery_position": [
+      0.0,
+      10.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Scorbunny.glb"
+  },
+  {
+    "name": "Sobble",
+    "korean": "울머기",
+    "dex": 816,
+    "generation": 8,
+    "group": "gen8",
+    "type": "Water",
+    "gallery_position": [
+      3.25,
+      10.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Sobble.glb"
+  },
+  {
+    "name": "Sprigatito",
+    "korean": "나오하",
+    "dex": 906,
+    "generation": 9,
+    "group": "gen9",
+    "type": "Grass",
+    "gallery_position": [
+      7.25,
+      10.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Sprigatito.glb"
+  },
+  {
+    "name": "Fuecoco",
+    "korean": "뜨아거",
+    "dex": 909,
+    "generation": 9,
+    "group": "gen9",
+    "type": "Fire",
+    "gallery_position": [
+      10.5,
+      10.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Fuecoco.glb"
+  },
+  {
+    "name": "Quaxly",
+    "korean": "꾸왁스",
+    "dex": 912,
+    "generation": 9,
+    "group": "gen9",
+    "type": "Water",
+    "gallery_position": [
+      13.75,
+      10.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Quaxly.glb"
+  },
+  {
+    "name": "Browt",
+    "korean": "초로삐",
+    "dex": null,
+    "generation": 10,
+    "group": "gen10",
+    "type": "Grass",
+    "gallery_position": [
+      -13.75,
+      15.0,
+      0
+    ],
+    "status": "announced_2027",
+    "glb": "models/Browt.glb"
+  },
+  {
+    "name": "Pombon",
+    "korean": "포뭉이",
+    "dex": null,
+    "generation": 10,
+    "group": "gen10",
+    "type": "Fire",
+    "gallery_position": [
+      -10.5,
+      15.0,
+      0
+    ],
+    "status": "announced_2027",
+    "glb": "models/Pombon.glb"
+  },
+  {
+    "name": "Gecqua",
+    "korean": "미초리",
+    "dex": null,
+    "generation": 10,
+    "group": "gen10",
+    "type": "Water",
+    "gallery_position": [
+      -7.25,
+      15.0,
+      0
+    ],
+    "status": "announced_2027",
+    "glb": "models/Gecqua.glb"
+  },
+  {
+    "name": "Pikachu",
+    "korean": "피카츄",
+    "dex": 25,
+    "generation": null,
+    "group": "special",
+    "type": "Special",
+    "gallery_position": [
+      -1.625,
+      15.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Pikachu.glb"
+  },
+  {
+    "name": "Eevee",
+    "korean": "이브이",
+    "dex": 133,
+    "generation": null,
+    "group": "special",
+    "type": "Special",
+    "gallery_position": [
+      1.625,
+      15.0,
+      0
+    ],
+    "status": "released",
+    "glb": "models/Eevee.glb"
+  }
+]

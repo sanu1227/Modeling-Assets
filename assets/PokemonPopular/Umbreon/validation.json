@@ -1,0 +1,89 @@
+{
+  "passed": true,
+  "errors": [],
+  "source": {
+    "objects": 23,
+    "triangles": 396712,
+    "nonfinite": 0,
+    "nonfinite_uv": 0,
+    "degenerate": 0,
+    "nonmanifold_edges": 0,
+    "inconsistent_edges": 0,
+    "missing_uv": [],
+    "materials": [
+      "Color_101821",
+      "Color_303A3D",
+      "Color_DB263E",
+      "Color_EFD43B",
+      "Color_FFFDF1"
+    ],
+    "image_textures": {},
+    "details": [],
+    "bounds": {
+      "min": [
+        -1.0404423475265503,
+        -1.0,
+        0.0
+      ],
+      "max": [
+        0.6421520709991455,
+        1.8925238847732544,
+        2.8087100982666016
+      ],
+      "size": [
+        1.6825944185256958,
+        2.8925238847732544,
+        2.8087100982666016
+      ]
+    }
+  },
+  "glb": {
+    "objects": 23,
+    "triangles": 396712,
+    "nonfinite": 0,
+    "nonfinite_uv": 0,
+    "degenerate": 0,
+    "nonmanifold_edges": 0,
+    "inconsistent_edges": 0,
+    "missing_uv": [],
+    "materials": [
+      "Color_101821",
+      "Color_303A3D",
+      "Color_DB263E",
+      "Color_EFD43B",
+      "Color_FFFDF1"
+    ],
+    "image_textures": {},
+    "details": [],
+    "bounds": {
+      "min": [
+        -1.0404423475265503,
+        -1.0,
+        0.0
+      ],
+      "max": [
+        0.6421520709991455,
+        1.8925238847732544,
+        2.8087100982666016
+      ],
+      "size": [
+        1.6825944185256958,
+        2.8925238847732544,
+        2.8087100982666016
+      ]
+    }
+  },
+  "bounds_max_error_m": 0.0,
+  "glb_topology_note": "GLB material/UV seam splits welded at 1e-6 m only for topology inspection",
+  "saved_blend_reopened": true,
+  "glb_textures_embedded": true,
+  "sha256": {
+    "blend": "d55354d4ba20e9ca78dd4e3cf71c46b1b08ad71b14971754d8722125583f6d60",
+    "glb": "3fe80b062459b936f24a8f7c440c4b4a7e357b97b16f08359f5fae7629400908"
+  },
+  "limitations": [
+    "Static model; no rig or animation",
+    "Separate closed overlapping parts; not a single printable volume",
+    "No game-engine runtime verification"
+  ]
+}

@@ -1,0 +1,27 @@
+C:\Users\saenu\Documents\ChatGPT\모델링\scripts\create_crate.py:73: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  wood.use_nodes = True
+C:\Users\saenu\Documents\ChatGPT\모델링\scripts\create_crate.py:87: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  iron.use_nodes = True
+00:01.500  image.write      | ERROR OpenImageIO write failed: Could not open file "C:\Users\saenu\.thumbnails\large\blender_14924_5ce15f7aec9f8f319936f5507601eaa5.png.png"
+00:01.625  image.write      | ERROR OpenImageIO write failed: Could not open file "C:\Users\saenu\.thumbnails\large\blender_14924_8a6779c41fe9d1a2df2012d85036853b.png.png"
+Info: Saved as "Crate_source.blend"
+Info: Saved as "Crate_work.blend"
+INFO Draco is available, use library at C:\Users\saenu\Documents\ChatGPT\모델링\tools\blender-5.2.3-windows-x64\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at C:\Users\saenu\Documents\ChatGPT\모델링\tools\blender-5.2.3-windows-x64\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+20:52:18 | INFO: Starting glTF 2.0 export
+20:52:18 | INFO: Extracting primitive: Cube.002
+20:52:18 | INFO: Primitives created: 2
+20:52:18 | INFO: Finished glTF 2.0 export in 0.09782695770263672 s
+00:18.656  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\Crate\Crate_preview.png'
+
+
+FBX export starting... 'C:\\Users\\saenu\\Documents\\ChatGPT\\모델링\\assets\\Crate\\Crate_game.fbx'
+export finished in 0.0159 sec.
+20:52:35 | INFO: Data are loaded, start creating Blender stuff
+20:52:35 | INFO: Blender create Mesh node Cube.002
+20:52:35 | INFO: glTF import finished in 0.03s
+FBX version: 7400
+CRATE_VALIDATION_OK {"blender_version": "5.2.3 LTS", "creation_method": "AI-authored Blender Python; no external generative 3D service", "asset_mesh_count": 1, "vertices": 2704, "triangles": 5192, "materials": ["M_Crate_Wood", "M_Crate_Iron"], "uv_layers": ["UVMap"], "dimensions_m": [1.0, 1.0, 1.0], "world_bounds_min_m": [-0.5, -0.5, 0.0], "world_bounds_max_m": [0.5, 0.5, 1.0], "origin_m": [0.0, 0.0, 0.0], "scale": [1.0, 1.0, 1.0], "texture_resolution": [1024, 1024], "export_excludes_preview_objects": true, "files": [{"path": "Crate_game.fbm\\Crate_Wood_BaseColor.png", "bytes": 1430390}, {"path": "Crate_game.fbm\\Crate_Wood_Roughness.png", "bytes": 842892}, {"path": "Crate_game.fbx", "bytes": 112860}, {"path": "Crate_game.glb", "bytes": 2590812}, {"path": "Crate_preview.png", "bytes": 1275824}, {"path": "Crate_source.blend", "bytes": 2355959}, {"path": "Crate_validation.json", "bytes": 1585}, {"path": "Crate_work.blend", "bytes": 2449408}, {"path": "creation.log", "bytes": 1464}, {"path": "Textures\\Crate_Wood_BaseColor.png", "bytes": 1430390}, {"path": "Textures\\Crate_Wood_Roughness.png", "bytes": 842892}], "glb_embedded_images": 2, "roundtrip": {"glb": {"mesh_count": 1, "dimensions_m": [1.0, 1.0, 1.0], "bottom_z_m": 0.0, "uv_layers": 1, "material_count": 2, "passed": true}, "fbx": {"mesh_count": 1, "dimensions_m": [1.0, 1.0000001788139343, 1.000000200669625], "bottom_z_m": -8.146033536604591e-08, "uv_layers": 1, "material_count": 2, "passed": true}}}
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

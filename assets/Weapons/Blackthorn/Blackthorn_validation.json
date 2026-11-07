@@ -1,0 +1,56 @@
+{
+  "blender_version": "5.2.3 LTS",
+  "render_device": "OPTIX: NVIDIA GeForce RTX 4060",
+  "vertices": 6182,
+  "triangles": 12268,
+  "dimensions_m": [
+    0.28999999165534973,
+    0.03400000184774399,
+    1.2369999885559082
+  ],
+  "pivot_m": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "material_count": 1,
+  "mesh_count": 1,
+  "part_vertex_groups": 20,
+  "texture_resolution": [
+    2048,
+    2048
+  ],
+  "normal_convention": "OpenGL tangent +Y",
+  "uv_overlap": "Intentional surface tiling",
+  "engine_runtime_tested": false,
+  "roundtrip": {
+    "glb": {
+      "passed": true,
+      "dimensions_m": [
+        0.28999999165534973,
+        0.03400000184774399,
+        1.2370000332593918
+      ],
+      "triangles": 12268,
+      "uv_layers": 1,
+      "material_count": 1
+    },
+    "fbx": {
+      "passed": true,
+      "dimensions_m": [
+        0.28999999165534973,
+        0.034000203013420105,
+        1.2370000332593918
+      ],
+      "triangles": 12268,
+      "uv_layers": 1,
+      "material_count": 1
+    }
+  },
+  "nonmanifold_edges": 0,
+  "glb_embedded_images": 3,
+  "export_excludes_studio": true,
+  "saved_blend_reopened": true,
+  "packed_pbr_textures": true,
+  "passed": true
+}

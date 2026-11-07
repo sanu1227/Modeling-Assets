@@ -1,0 +1,56 @@
+{
+  "asset": "Greninja",
+  "checked_utc": "2026-11-04T05:42:14.9921425Z",
+  "source_hashes_match_validation": true,
+  "geometry_validation_passed": true,
+  "source_triangles": 391918,
+  "source_sha256": {
+    "Greninja.blend": "138169ed3cc5d0d9b6a346f840c46ae0fb2fce90b80ad99fbbf47c60a8ca714e",
+    "Greninja.glb": "aeecd2618191a3f1b894050a46daf992d1da6b5d126b0989c231576e33ad40bb"
+  },
+  "views": [
+    {
+      "file": "renders/preview.png",
+      "width": 1600,
+      "height": 1600,
+      "newer_than_source": true,
+      "modified_utc": "2026-11-04T05:06:08.3570325Z"
+    },
+    {
+      "file": "renders/front.png",
+      "width": 1600,
+      "height": 1600,
+      "newer_than_source": true,
+      "modified_utc": "2026-11-04T05:06:34.7817625Z"
+    },
+    {
+      "file": "renders/back.png",
+      "width": 1600,
+      "height": 1600,
+      "newer_than_source": true,
+      "modified_utc": "2026-11-04T05:07:02.4802610Z"
+    },
+    {
+      "file": "renders/side.png",
+      "width": 1600,
+      "height": 1600,
+      "newer_than_source": true,
+      "modified_utc": "2026-11-04T05:07:31.3723213Z"
+    },
+    {
+      "file": "renders/face.png",
+      "width": 1600,
+      "height": 1600,
+      "newer_than_source": true,
+      "modified_utc": "2026-11-04T05:08:05.5832594Z"
+    },
+    {
+      "file": "renders/clay.png",
+      "width": 1600,
+      "height": 1600,
+      "newer_than_source": true,
+      "modified_utc": "2026-11-04T05:08:39.6782066Z"
+    }
+  ],
+  "reference_review": "Compared current front, three-quarter, side and clay views against saved official artwork."
+}

@@ -1,0 +1,208 @@
+{
+  "passed": true,
+  "errors": [],
+  "warnings": [],
+  "limits": [
+    "Static model; no rigging, animation or game-engine runtime validation.",
+    "Independent component intersections are not tested as a single watertight union.",
+    "Only image-textured surfaces need UV coordinates; most surfaces use solid PBR materials.",
+    "Topology counts are reported; GLB material and normal seams can split vertices."
+  ],
+  "source": {
+    "objects": 52,
+    "triangles": 319768,
+    "materials": [
+      "01 • Orange skin",
+      "02 • Warm cream belly",
+      "03 • Teal wing membrane",
+      "04 • Ivory claws and fangs",
+      "05 • Mouth and nostrils",
+      "06 • Painted eye",
+      "09 • Flame orange",
+      "10 • Flame gold",
+      "11 • Flame heart"
+    ],
+    "bounds_m": {
+      "min": [
+        -1.1860203742980957,
+        -0.5117796063423157,
+        0.0027298692148178816
+      ],
+      "max": [
+        1.1860203742980957,
+        0.6012777090072632,
+        1.6486703157424927
+      ],
+      "size": [
+        2.3720407485961914,
+        1.1130573153495789,
+        1.6459404465276748
+      ]
+    },
+    "degenerate_triangles": [],
+    "nonmanifold_edges": 0,
+    "topology_details": [],
+    "objects_without_uv": [
+      "01_Body • sculpted skin",
+      "02_Belly • cream inset",
+      "03_Fang",
+      "03_Fang.001",
+      "03_Fang.002",
+      "03_Fang.003",
+      "04_Brow ridge",
+      "04_Brow ridge.001",
+      "05_Foot claw",
+      "05_Hand claw",
+      "05_Foot claw.001",
+      "05_Hand claw.001",
+      "05_Foot claw.002",
+      "05_Hand claw.002",
+      "05_Foot claw.003",
+      "05_Hand claw.003",
+      "05_Foot claw.004",
+      "05_Hand claw.004",
+      "05_Foot claw.005",
+      "05_Hand claw.005",
+      "06_Tail • curled",
+      "07_Wing membrane L0",
+      "07_Wing membrane L1",
+      "07_Wing arm",
+      "07_Leading wing finger",
+      "07_Middle wing finger",
+      "07_Wing thumb",
+      "07_Trailing wing edge",
+      "07_Trailing wing edge.001",
+      "07_Wing membrane R0",
+      "07_Wing membrane R1",
+      "07_Wing arm.001",
+      "07_Leading wing finger.001",
+      "07_Middle wing finger.001",
+      "07_Wing thumb.001",
+      "07_Trailing wing edge.002",
+      "07_Trailing wing edge.003",
+      "08_Flame outer",
+      "08_Flame fork left",
+      "08_Flame fork right",
+      "08_Flame golden center",
+      "08_Flame golden fork",
+      "08_Flame bright heart",
+      "08_Flame rear gold",
+      "08_Flame rear fork",
+      "08_Flame rear heart"
+    ],
+    "armatures": 0,
+    "packed_eye_images": [
+      {
+        "name": "Charizard_eyes.png",
+        "size": [
+          1024,
+          512
+        ],
+        "packed": true
+      }
+    ]
+  },
+  "glb": {
+    "objects": 52,
+    "triangles": 319768,
+    "materials": [
+      "01 • Orange skin",
+      "02 • Warm cream belly",
+      "03 • Teal wing membrane",
+      "04 • Ivory claws and fangs",
+      "05 • Mouth and nostrils",
+      "06 • Painted eye",
+      "09 • Flame orange",
+      "10 • Flame gold",
+      "11 • Flame heart"
+    ],
+    "bounds_m": {
+      "min": [
+        -1.1860203742980957,
+        -0.5117796063423157,
+        0.0027298692148178816
+      ],
+      "max": [
+        1.1860203742980957,
+        0.6012777090072632,
+        1.6486703157424927
+      ],
+      "size": [
+        2.3720407485961914,
+        1.1130573153495789,
+        1.6459404465276748
+      ]
+    },
+    "degenerate_triangles": [],
+    "nonmanifold_edges": 684,
+    "topology_details": [
+      {
+        "object": "03_Jaw",
+        "nonmanifold_edges": 204,
+        "inconsistent_winding_edges": 0
+      },
+      {
+        "object": "03_Mouth • dark opening",
+        "nonmanifold_edges": 204,
+        "inconsistent_winding_edges": 0
+      },
+      {
+        "object": "06_Tail • curled",
+        "nonmanifold_edges": 276,
+        "inconsistent_winding_edges": 0
+      }
+    ],
+    "objects_without_uv": [
+      "01_Body • sculpted skin",
+      "02_Belly • cream inset",
+      "03_Fang",
+      "03_Fang.001",
+      "03_Fang.002",
+      "03_Fang.003",
+      "04_Brow ridge",
+      "04_Brow ridge.001",
+      "05_Foot claw",
+      "05_Foot claw.001",
+      "05_Foot claw.002",
+      "05_Foot claw.003",
+      "05_Foot claw.004",
+      "05_Foot claw.005",
+      "05_Hand claw",
+      "05_Hand claw.001",
+      "05_Hand claw.002",
+      "05_Hand claw.003",
+      "05_Hand claw.004",
+      "05_Hand claw.005",
+      "06_Tail • curled",
+      "07_Leading wing finger",
+      "07_Leading wing finger.001",
+      "07_Middle wing finger",
+      "07_Middle wing finger.001",
+      "07_Trailing wing edge",
+      "07_Trailing wing edge.001",
+      "07_Trailing wing edge.002",
+      "07_Trailing wing edge.003",
+      "07_Wing arm",
+      "07_Wing arm.001",
+      "07_Wing membrane L0",
+      "07_Wing membrane L1",
+      "07_Wing membrane R0",
+      "07_Wing membrane R1",
+      "07_Wing thumb",
+      "07_Wing thumb.001",
+      "08_Flame bright heart",
+      "08_Flame fork left",
+      "08_Flame fork right",
+      "08_Flame golden center",
+      "08_Flame golden fork",
+      "08_Flame outer",
+      "08_Flame rear fork",
+      "08_Flame rear gold",
+      "08_Flame rear heart"
+    ],
+    "file_bytes": 6868596,
+    "embedded_eye_texture": true,
+    "armatures": 0,
+    "max_bounds_difference_m": 0.0
+  }
+}

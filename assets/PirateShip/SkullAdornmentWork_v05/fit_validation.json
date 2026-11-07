@@ -1,0 +1,98 @@
+{
+  "passed": true,
+  "contact_checks": [
+    {
+      "objects": [
+        "SkullV5_Cranium",
+        "SkullV5_Adornment_Long_embedded_eyelet_pin"
+      ],
+      "surface_intersections": 16
+    },
+    {
+      "objects": [
+        "SkullV5_Adornment_Long_embedded_eyelet_pin",
+        "SkullV5_Adornment_Long_seated_eyelet"
+      ],
+      "surface_intersections": 30
+    },
+    {
+      "objects": [
+        "SkullV5_Adornment_Long_seated_eyelet",
+        "SkullV5_Adornment_Long_temple_tassel_braid_0"
+      ],
+      "surface_intersections": 15
+    },
+    {
+      "objects": [
+        "SkullV5_Cranium",
+        "SkullV5_Adornment_Short_embedded_eyelet_pin"
+      ],
+      "surface_intersections": 19
+    },
+    {
+      "objects": [
+        "SkullV5_Adornment_Short_embedded_eyelet_pin",
+        "SkullV5_Adornment_Short_seated_eyelet"
+      ],
+      "surface_intersections": 30
+    },
+    {
+      "objects": [
+        "SkullV5_Adornment_Short_seated_eyelet",
+        "SkullV5_Adornment_Short_temple_braid_braid_0"
+      ],
+      "surface_intersections": 19
+    },
+    {
+      "objects": [
+        "SkullV5_Cranium",
+        "SkullV5_Adornment_Rear_mount_rivet"
+      ],
+      "surface_intersections": 21
+    },
+    {
+      "objects": [
+        "SkullV5_Adornment_Rear_mount_rivet",
+        "SkullV5_Adornment_Skull_rear_brace"
+      ],
+      "surface_intersections": 23
+    },
+    {
+      "objects": [
+        "SkullV5_Adornment_Crossbone_A",
+        "SkullV5_Adornment_Crossbone_rear_brace"
+      ],
+      "surface_intersections": 48
+    },
+    {
+      "objects": [
+        "SkullV5_Cranium",
+        "SkullV5_Adornment_Rear_mount_rivet.001"
+      ],
+      "surface_intersections": 25
+    },
+    {
+      "objects": [
+        "SkullV5_Adornment_Rear_mount_rivet.001",
+        "SkullV5_Adornment_Skull_rear_brace.001"
+      ],
+      "surface_intersections": 25
+    },
+    {
+      "objects": [
+        "SkullV5_Adornment_Crossbone_B",
+        "SkullV5_Adornment_Crossbone_rear_brace.001"
+      ],
+      "surface_intersections": 70
+    }
+  ],
+  "stem_clamp_fit": {
+    "stem_radius": 0.23,
+    "clamp_inner_radius": 0.231,
+    "radial_clearance": 0.0010000000000000009,
+    "centers_on_original_poly_segment_at_z": [
+      8.9,
+      9.55
+    ]
+  }
+}

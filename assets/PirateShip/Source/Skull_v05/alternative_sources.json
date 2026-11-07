@@ -1,0 +1,47 @@
+{
+  "retrieved": "2026-10-27",
+  "candidates": [
+    {
+      "title": "3D-Schadel eines Menschen / Skull downloadable",
+      "author": "martinjario",
+      "source": "https://commons.wikimedia.org/wiki/File:3D-Sch%C3%A4del_eines_Menschen.stl",
+      "original_author_page": "https://sketchfab.com/3d-models/skull-downloadable-1a9db900738d44298b0bc59f68123393",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/9/9c/3D-Sch%C3%A4del_eines_Menschen.stl",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "bytes": 1550884,
+      "triangles": 31016,
+      "local_file": "martinjario_skull.stl",
+      "inspection": "Skull, mandible, upper and lower teeth visible. Natural orbital, zygomatic and jaw silhouettes in local clay renders. Artist model; medical validation not established. No UV or textures in STL. Rotate X +90 degrees for Z-up and face -Y."
+    },
+    {
+      "title": "BodyParts3D 4.0 PART-OF skull",
+      "author": "The Database Center for Life Science (DBCLS)",
+      "source": "https://dbarchive.biosciencedbc.jp/en/bodyparts3d/download.html",
+      "download": "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/partof_BP3D_4.0_obj_99.zip",
+      "license": "CC BY 4.0; official license updated 2025-02-27",
+      "license_url": "https://dbarchive.biosciencedbc.jp/en/bodyparts3d/lic.html",
+      "credit": "BodyParts3D, © The Database Center for Life Science licensed under CC Attribution 4.0 International",
+      "archive_bytes": 64888505,
+      "extracted_bytes": 23004267,
+      "extracted_meshes": 43,
+      "local_folder": "bodyparts_skull",
+      "compound_id": "FMA46565",
+      "mandible_file": "FJ3289.obj",
+      "inspection": "Detailed anatomical bones and mandible, but this PART-OF set includes eyeballs and surrounding soft tissues and lacks visible teeth. Requires filtering and separate teeth; reserve anatomical base rather than immediate finished skull."
+    },
+    {
+      "title": "Human Skull",
+      "author": "CDmir",
+      "source": "https://opengameart.org/content/human-skull-0",
+      "download": "https://opengameart.org/sites/default/files/skull-obj.zip",
+      "blend_download": "https://opengameart.org/sites/default/files/skull-Low4K.blend",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_reported_triangles": 4538,
+      "source_reported_zip_size": "9.7 MB",
+      "source_reported_blend_size": "14.8 MB",
+      "inspection": "Textured game-ready candidate. Root agent owns actual download and visual evaluation; not independently downloaded by this reviewer."
+    }
+  ]
+}

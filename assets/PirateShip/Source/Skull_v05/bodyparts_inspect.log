@@ -1,0 +1,51 @@
+C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\Source\Skull_v05\inspect_alternative.py:29: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world=bpy.data.worlds.new('gray');scene.world=world;world.use_nodes=True
+00:04.625  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\Source\Skull_v05\bodyparts_front.png'
+00:08.016  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\Source\Skull_v05\bodyparts_quarter.png'
+00:11.047  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\Source\Skull_v05\bodyparts_back.png'
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+OBJ import of 'FJ1282.obj' took 6.90 ms
+OBJ import of 'FJ1285.obj' took 15.40 ms
+OBJ import of 'FJ1286.obj' took 4.64 ms
+OBJ import of 'FJ1289.obj' took 2.91 ms
+OBJ import of 'FJ1297.obj' took 2.61 ms
+OBJ import of 'FJ1299.obj' took 1.67 ms
+OBJ import of 'FJ1305.obj' took 1.57 ms
+OBJ import of 'FJ1317.obj' took 19.74 ms
+OBJ import of 'FJ1320.obj' took 4.84 ms
+OBJ import of 'FJ1331.obj' took 3.19 ms
+OBJ import of 'FJ1336.obj' took 3.69 ms
+OBJ import of 'FJ1337.obj' took 13.18 ms
+OBJ import of 'FJ1340.obj' took 3.37 ms
+OBJ import of 'FJ1348.obj' took 2.37 ms
+OBJ import of 'FJ1350.obj' took 2.14 ms
+OBJ import of 'FJ1356.obj' took 1.44 ms
+OBJ import of 'FJ1368.obj' took 18.34 ms
+OBJ import of 'FJ1371.obj' took 5.22 ms
+OBJ import of 'FJ1382.obj' took 3.05 ms
+OBJ import of 'FJ2772.obj' took 1.27 ms
+OBJ import of 'FJ3199.obj' took 11.63 ms
+OBJ import of 'FJ3200.obj' took 7.36 ms
+OBJ import of 'FJ3201.obj' took 1.41 ms
+OBJ import of 'FJ3263.obj' took 1.09 ms
+OBJ import of 'FJ3265.obj' took 1.11 ms
+OBJ import of 'FJ3269.obj' took 3.36 ms
+OBJ import of 'FJ3272.obj' took 0.90 ms
+OBJ import of 'FJ3273.obj' took 2.08 ms
+OBJ import of 'FJ3274.obj' took 7.84 ms
+OBJ import of 'FJ3281.obj' took 3.06 ms
+OBJ import of 'FJ3287.obj' took 1.59 ms
+OBJ import of 'FJ3289.obj' took 3.47 ms
+OBJ import of 'FJ3309.obj' took 6.53 ms
+OBJ import of 'FJ3369.obj' took 1.52 ms
+OBJ import of 'FJ3371.obj' took 1.23 ms
+OBJ import of 'FJ3375.obj' took 3.34 ms
+OBJ import of 'FJ3378.obj' took 0.97 ms
+OBJ import of 'FJ3379.obj' took 1.50 ms
+OBJ import of 'FJ3380.obj' took 6.72 ms
+OBJ import of 'FJ3386.obj' took 3.64 ms
+OBJ import of 'FJ3392.obj' took 1.56 ms
+OBJ import of 'FJ3394.obj' took 4.71 ms
+OBJ import of 'FJ3395.obj' took 4.15 ms
+
+Blender quit

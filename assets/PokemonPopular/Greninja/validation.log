@@ -1,0 +1,50 @@
+00:00.672  blend            | Read blend: "C:\Users\saenu\Documents\ChatGPT\모델링\assets\PokemonPopular\Greninja\Greninja.blend"
+C:\Users\saenu\Documents\ChatGPT\모델링\scripts\greninja_validate.py:75: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  for material in obj.data.materials if material and material.use_nodes
+13:44:04 | INFO: Data are loaded, start creating Blender stuff
+13:44:04 | INFO: Blender create Mesh node 01_Torso • tapered athletic core
+13:44:04 | INFO: Blender create Mesh node 02_Cream chest • pointed central bib
+13:44:04 | INFO: Blender create Mesh node 03_Cyan hip marking 1
+13:44:04 | INFO: Blender create Mesh node 03_Cyan hip marking -1
+13:44:04 | INFO: Blender create Mesh node 03_Hip pointed fin 1
+13:44:04 | INFO: Blender create Mesh node 03_Hip pointed fin -1
+13:44:04 | INFO: Blender create Mesh node Sphere.003
+13:44:04 | INFO: Blender create Mesh node Sphere.004
+13:44:04 | INFO: Blender create Mesh node 07_Pale foot web L0
+13:44:04 | INFO: Blender create Mesh node 07_Pale foot web L1
+13:44:04 | INFO: Blender create Mesh node 07_Pale foot web R0
+13:44:04 | INFO: Blender create Mesh node 07_Pale foot web R1
+13:44:04 | INFO: Blender create Mesh node Sphere.006
+13:44:04 | INFO: Blender create Mesh node Sphere.007
+13:44:04 | INFO: Blender create Mesh node Sphere.008
+13:44:04 | INFO: Blender create Mesh node Sphere.010
+13:44:04 | INFO: Blender create Mesh node Sphere.011
+13:44:04 | INFO: Blender create Mesh node Sphere.012
+13:44:04 | INFO: Blender create Mesh node Sphere.013
+13:44:04 | INFO: Blender create Mesh node Sphere.014
+13:44:04 | INFO: Blender create Mesh node Sphere.020
+13:44:04 | INFO: Blender create Mesh node Sphere.021
+13:44:04 | INFO: Blender create Mesh node Sphere.022
+13:44:04 | INFO: Blender create Mesh node Sphere.016
+13:44:04 | INFO: Blender create Mesh node Sphere.017
+13:44:04 | INFO: Blender create Mesh node Sphere.018
+13:44:04 | INFO: Blender create Mesh node 10_Pale hand web High0
+13:44:04 | INFO: Blender create Mesh node 10_Pale hand web High1
+13:44:04 | INFO: Blender create Mesh node 10_Pale hand web Low0
+13:44:04 | INFO: Blender create Mesh node 10_Pale hand web Low1
+13:44:04 | INFO: Blender create Mesh node 11_Head • tapered frog skull
+13:44:05 | INFO: Blender create Mesh node 12_Cyan inner head sail 1
+13:44:05 | INFO: Blender create Mesh node 12_Cyan inner head sail -1
+13:44:05 | INFO: Blender create Mesh node 12_Swept lateral head fin 1
+13:44:05 | INFO: Blender create Mesh node 12_Swept lateral head fin -1
+13:44:05 | INFO: Blender create Mesh node 14_Central diamond blade crest
+13:44:05 | INFO: Blender create Mesh node 14_Subtle mouth seam
+13:44:05 | INFO: Blender create Mesh node 15_Pink tongue scarf • flowing free end
+13:44:05 | INFO: Blender create Mesh node 15_Pink tongue scarf • neck wrap
+13:44:05 | INFO: Blender create Mesh node 16_Rear hip spur 1
+13:44:05 | INFO: Blender create Mesh node 16_Rear hip spur -1
+13:44:05 | INFO: glTF import finished in 0.61s
+{"passed": true, "errors": [], "source_triangles": 391918}
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

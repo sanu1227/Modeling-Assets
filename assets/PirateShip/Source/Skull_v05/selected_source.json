@@ -1,0 +1,17 @@
+{
+  "title": "Skull downloadable / 3D-Schädel eines Menschen",
+  "author": "martinjario",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "source_url": "https://commons.wikimedia.org/wiki/File:3D-Sch%C3%A4del_eines_Menschen.stl",
+  "original_author_page": "https://sketchfab.com/3d-models/skull-downloadable-1a9db900738d44298b0bc59f68123393",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/3D-Sch%C3%A4del_eines_Menschen.stl",
+  "local_file": "martinjario_skull.stl",
+  "retrieved": "2026-10-27",
+  "sha256": "D44FE197CE4724D6FDF9729701C723EFB79CCF14A1CCB3AD37475FBFE1B5066D",
+  "bytes": 1550884,
+  "source_triangles": 31016,
+  "source_vertices": 15572,
+  "license_verification": "Wikimedia Commons file description; original Sketchfab page returned HTTP 403 during retrieval.",
+  "adaptation": "Orientation and uniform scale, component separation, UV mapping, new blackened and ivory materials, gold relief, and mounting on the Black Oath ship."
+}

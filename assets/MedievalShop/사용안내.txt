@@ -1,0 +1,66 @@
+MOSS & OAK — 중세 판타지 약초 상점
+
+열기
+프로젝트 루트의 Open_Blender_MedievalShop.cmd를 실행하거나,
+Blender 5.2.3에서 MedievalShop.blend를 연다.
+처음 열 때 이미지 재질을 준비하므로 잠시 기다릴 수 있다.
+숫자패드 0은 저장된 촬영 카메라, 가운데 마우스 드래그는 시점 회전이다.
+숫자패드가 없으면 View > Cameras > Active Camera를 사용한다.
+
+파일
+- 작업계획.txt: 참고한 실제 아티스트 제작 사례와 단계별 계획.
+- MedievalShop_blockout.blend: 처음 만든 큰 덩어리와 문 크기 기준.
+- MedievalShop.blend: 부품별 수정이 가능한 완성 원본과 촬영 장면.
+- MedievalShop.glb: 건물과 소품을 여섯 그룹으로 합친 재사용 파일.
+- preview_front.png / preview_back.png: 실제 Blender Cycles 렌더.
+- preview_blockout.png: 디테일을 넣기 전 비례와 덩어리 구성.
+- Textures: 직접 생성한 512×512 타일형 Base Color 이미지 13개.
+- validation.json: 형상 검사와 GLB 재임포트 결과.
+
+편집 구조
+01_Structure: 본체, 회벽, 돌 기단과 옆채.
+02_Timber: 기둥, 보, 대각 버팀대, 2층 돌출부 받침.
+03_Roof: 기와, 용마루, 처마, 굴뚝.
+04_Doors_Windows: 아치 문, 창문, 덧문, 다락 환기창.
+05_Shop_Details: 차양, 간판, 랜턴.
+06_Props: 진열대, 통, 상자, 약병, 화분.
+90_Presentation: 촬영용 바닥, 포장석, 카메라와 조명.
+
+배경 장면에 가져오기
+Blender에서는 File > Append로 MedievalShop.blend의 필요한 Collection을 가져온다.
+촬영용 바닥이 필요 없으면 90_Presentation을 제외한다.
+MOSS_AND_OAK_ROOT는 건물과 소품의 공통 부모이며 바닥 중앙에 있다.
+이 루트를 이동하거나 회전하면 건물과 소품을 함께 배치할 수 있다.
+
+원본은 메시 오브젝트 1,600개, 고유 기본 메시 376개이다. 동일 부품 1,224개는
+메시 데이터를 공유한다. Edit Mode에서 공유 메시를 바꾸면 다른 복사본에도
+적용된다. 하나만 수정하려면 Object > Relations > Make Single User에서
+Object & Data를 선택한 뒤 편집한다. Object Mode의 위치 변경은 개별 적용된다.
+
+내보낸 GLB는 수정용 원본의 평가된 형상을 여섯 그룹으로 합친 파일이다.
+촬영용 바닥과 조명, 카메라는 들어 있지 않다. 미터 단위를 사용하며 본체는
+약 6.4×5.2m, 간판·옆채·소품을 포함한 전체 범위는 약 9.96×7.85×10.31m이다.
+베벨 적용 후 삼각형 167,792개, 재질 21개이다. 중근거리 배경 외관용이며
+여러 건물을 대량 배치하거나 모바일 게임에서 쓰려면 별도 최적화가 필요하다.
+
+재질과 사용 범위
+이미지 재질은 .blend에 패킹되어 있고 GLB에도 포함된다.
+GLB에는 Base Color, Metallic, Roughness, Emission 정보가 포함된다.
+Blender의 미세 Bump는 노멀 맵으로 베이크하지 않았으므로 GLB 표면 표현은
+원본 렌더와 약간 다를 수 있다. 저장된 렌더는 Cycles와 AgX 기준이다.
+UV는 타일형 표면 재질용이며 의도적인 중첩이 있다. 라이트맵 전용 UV가 아니다.
+실내, 통행 가능한 문, 충돌 메시, LOD, 엔진별 재질 조정과 실행 검증은 포함하지 않는다.
+각 부품은 닫힌 메시이지만 조립된 건물 전체를 단일 수밀 메시로 합친 모델은 아니다.
+
+재생성
+scripts/build_medieval_shop.py를 Blender의 Python으로 실행하면 이 폴더의
+생성 결과를 다시 쓴다. 직접 수정한 모델은 반드시 다른 이름으로 저장한다.
+
+프로젝트 루트 PowerShell 명령:
+& '.\tools\blender-5.2.3-windows-x64\blender.exe' --background --factory-startup --python-exit-code 1 --python '.\scripts\build_medieval_shop.py'
+& '.\tools\blender-5.2.3-windows-x64\blender.exe' --background --factory-startup --python-exit-code 1 --python '.\scripts\verify_medieval_shop.py'
+
+제작 방식
+실제 아티스트의 단계별 작업 원리를 참고하고 Blender Python API로 메시를 제작했다.
+클릭 작업을 수작업으로 수행했다고 주장하지 않는다. 외부 생성형 3D 모델,
+유료 에셋, 다운로드한 재질은 사용하지 않았다.

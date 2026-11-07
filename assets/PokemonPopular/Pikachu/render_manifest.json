@@ -1,0 +1,18 @@
+{
+  "source_sha256": "116d8db7815fc82c6b48d444e5520aa970dea3dd7e118f8fa72a14359756933f",
+  "source": "Pikachu.blend",
+  "rendered_at": "2026-11-04T06:25:30.530479+00:00",
+  "views": [
+    "hero",
+    "front",
+    "side",
+    "back",
+    "clay"
+  ],
+  "draft": false,
+  "pixels": [
+    1400,
+    1400
+  ],
+  "samples": 48
+}

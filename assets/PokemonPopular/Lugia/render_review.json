@@ -1,0 +1,56 @@
+{
+  "asset": "Lugia",
+  "checked_utc": "2026-11-04T05:42:15.4033824Z",
+  "source_hashes_match_validation": true,
+  "geometry_validation_passed": true,
+  "source_triangles": 603192,
+  "source_sha256": {
+    "Lugia.blend": "70cd49af8dd588a6cff31a07d2833921db09407c3d3a2a96679871ba97fca3de",
+    "Lugia.glb": "9a483cade95563834a8eb81da463df37e367a285a6d152e519997aa628755cea"
+  },
+  "views": [
+    {
+      "file": "renders/preview.png",
+      "width": 1600,
+      "height": 1600,
+      "newer_than_source": true,
+      "modified_utc": "2026-11-04T05:38:14.3206829Z"
+    },
+    {
+      "file": "renders/front.png",
+      "width": 1600,
+      "height": 1600,
+      "newer_than_source": true,
+      "modified_utc": "2026-11-04T05:38:46.7087274Z"
+    },
+    {
+      "file": "renders/back.png",
+      "width": 1600,
+      "height": 1600,
+      "newer_than_source": true,
+      "modified_utc": "2026-11-04T05:39:20.6866961Z"
+    },
+    {
+      "file": "renders/side.png",
+      "width": 1600,
+      "height": 1600,
+      "newer_than_source": true,
+      "modified_utc": "2026-11-04T05:39:51.6562742Z"
+    },
+    {
+      "file": "renders/face.png",
+      "width": 1600,
+      "height": 1600,
+      "newer_than_source": true,
+      "modified_utc": "2026-11-04T05:40:19.8158097Z"
+    },
+    {
+      "file": "renders/clay.png",
+      "width": 1600,
+      "height": 1600,
+      "newer_than_source": true,
+      "modified_utc": "2026-11-04T05:40:47.6876452Z"
+    }
+  ],
+  "reference_review": "Compared current front, three-quarter, side and clay views against saved official artwork."
+}

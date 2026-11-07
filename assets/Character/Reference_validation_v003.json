@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "version": "v003",
+  "file_reopened": true,
+  "reference_images_packed": 3,
+  "references": [
+    "REF_Front",
+    "REF_Side",
+    "REF_Back"
+  ],
+  "target_height_m": 1.75,
+  "registration": "approximate; manual landmark review needed during blockout",
+  "character_mesh_created": false,
+  "generator": "built-in image_gen"
+}

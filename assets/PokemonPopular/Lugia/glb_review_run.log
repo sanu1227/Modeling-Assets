@@ -1,0 +1,125 @@
+00:00.657  blend            | Read blend: "C:\Users\saenu\Documents\ChatGPT\모델링\assets\PokemonPopular\Greninja\Greninja.blend"
+14:42:05 | INFO: Data are loaded, start creating Blender stuff
+14:42:05 | INFO: Blender create Mesh node 01_Torso • tapered athletic core
+14:42:06 | INFO: Blender create Mesh node 02_Cream chest • pointed central bib
+14:42:06 | INFO: Blender create Mesh node 03_Cyan hip marking 1
+14:42:06 | INFO: Blender create Mesh node 03_Cyan hip marking -1
+14:42:06 | INFO: Blender create Mesh node 03_Hip pointed fin 1
+14:42:06 | INFO: Blender create Mesh node 03_Hip pointed fin -1
+14:42:06 | INFO: Blender create Mesh node Sphere.003
+14:42:06 | INFO: Blender create Mesh node Sphere.004
+14:42:06 | INFO: Blender create Mesh node 07_Pale foot web L0
+14:42:06 | INFO: Blender create Mesh node 07_Pale foot web L1
+14:42:06 | INFO: Blender create Mesh node 07_Pale foot web R0
+14:42:06 | INFO: Blender create Mesh node 07_Pale foot web R1
+14:42:06 | INFO: Blender create Mesh node Sphere.006
+14:42:06 | INFO: Blender create Mesh node Sphere.007
+14:42:06 | INFO: Blender create Mesh node Sphere.008
+14:42:06 | INFO: Blender create Mesh node Sphere.010
+14:42:06 | INFO: Blender create Mesh node Sphere.011
+14:42:06 | INFO: Blender create Mesh node Sphere.012
+14:42:06 | INFO: Blender create Mesh node Sphere.013
+14:42:06 | INFO: Blender create Mesh node Sphere.014
+14:42:06 | INFO: Blender create Mesh node Sphere.020
+14:42:06 | INFO: Blender create Mesh node Sphere.021
+14:42:06 | INFO: Blender create Mesh node Sphere.022
+14:42:06 | INFO: Blender create Mesh node Sphere.016
+14:42:06 | INFO: Blender create Mesh node Sphere.017
+14:42:06 | INFO: Blender create Mesh node Sphere.018
+14:42:06 | INFO: Blender create Mesh node 10_Pale hand web High0
+14:42:06 | INFO: Blender create Mesh node 10_Pale hand web High1
+14:42:06 | INFO: Blender create Mesh node 10_Pale hand web Low0
+14:42:06 | INFO: Blender create Mesh node 10_Pale hand web Low1
+14:42:06 | INFO: Blender create Mesh node 11_Head • tapered frog skull
+14:42:06 | INFO: Blender create Mesh node 12_Cyan inner head sail 1
+14:42:06 | INFO: Blender create Mesh node 12_Cyan inner head sail -1
+14:42:06 | INFO: Blender create Mesh node 12_Swept lateral head fin 1
+14:42:06 | INFO: Blender create Mesh node 12_Swept lateral head fin -1
+14:42:06 | INFO: Blender create Mesh node 14_Central diamond blade crest
+14:42:06 | INFO: Blender create Mesh node 14_Subtle mouth seam
+14:42:06 | INFO: Blender create Mesh node 15_Pink tongue scarf • flowing free end
+14:42:06 | INFO: Blender create Mesh node 15_Pink tongue scarf • neck wrap
+14:42:06 | INFO: Blender create Mesh node 16_Rear hip spur 1
+14:42:06 | INFO: Blender create Mesh node 16_Rear hip spur -1
+14:42:06 | INFO: glTF import finished in 0.58s
+00:22.922  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PokemonPopular\Greninja\renders\glb_reimport.png'
+GLB_REVIEW_RENDER Greninja
+00:23.360  blend            | Read blend: "C:\Users\saenu\Documents\ChatGPT\모델링\assets\PokemonPopular\Garchomp\Garchomp.blend"
+14:42:28 | INFO: Data are loaded, start creating Blender stuff
+14:42:28 | INFO: Blender create Mesh node Continuous torso and long neck
+14:42:29 | INFO: Blender create Mesh node Sphere.004
+14:42:29 | INFO: Blender create Mesh node Sphere.003
+14:42:29 | INFO: Blender create Mesh node 06_Lower shark tooth 1_0
+14:42:29 | INFO: Blender create Mesh node 06_Lower shark tooth 1_1
+14:42:29 | INFO: Blender create Mesh node 06_Lower shark tooth 1_2
+14:42:29 | INFO: Blender create Mesh node 06_Lower shark tooth -1_0
+14:42:29 | INFO: Blender create Mesh node 06_Lower shark tooth -1_1
+14:42:29 | INFO: Blender create Mesh node 06_Lower shark tooth -1_2
+14:42:29 | INFO: Blender create Mesh node 06_Upper shark tooth 1_0
+14:42:29 | INFO: Blender create Mesh node 06_Upper shark tooth 1_1
+14:42:29 | INFO: Blender create Mesh node 06_Upper shark tooth 1_2
+14:42:29 | INFO: Blender create Mesh node 06_Upper shark tooth -1_0
+14:42:29 | INFO: Blender create Mesh node 06_Upper shark tooth -1_1
+14:42:29 | INFO: Blender create Mesh node 06_Upper shark tooth -1_2
+14:42:29 | INFO: Blender create Mesh node 08_Horn seam inner 1
+14:42:29 | INFO: Blender create Mesh node 08_Horn seam inner -1
+14:42:29 | INFO: Blender create Mesh node 08_Horn seam outer 1
+14:42:29 | INFO: Blender create Mesh node 08_Horn seam outer -1
+14:42:29 | INFO: Blender create Mesh node 09_Arm fin 1
+14:42:29 | INFO: Blender create Mesh node 09_Arm fin -1
+14:42:29 | INFO: Blender create Mesh node 10_Single scythe hand claw 1
+14:42:29 | INFO: Blender create Mesh node 10_Single scythe hand claw -1
+14:42:29 | INFO: Blender create Mesh node 11_Arm fin spine 1_0
+14:42:29 | INFO: Blender create Mesh node 11_Arm fin spine 1_1
+14:42:29 | INFO: Blender create Mesh node 11_Arm fin spine 1_2
+14:42:29 | INFO: Blender create Mesh node 11_Arm fin spine -1_0
+14:42:29 | INFO: Blender create Mesh node 11_Arm fin spine -1_1
+14:42:29 | INFO: Blender create Mesh node 11_Arm fin spine -1_2
+14:42:29 | INFO: Blender create Mesh node 11_Hip spine 1_0
+14:42:29 | INFO: Blender create Mesh node 11_Hip spine 1_1
+14:42:29 | INFO: Blender create Mesh node 11_Hip spine -1_0
+14:42:29 | INFO: Blender create Mesh node 11_Hip spine -1_1
+14:42:29 | INFO: Blender create Mesh node 12_Toe claw 1_0
+14:42:29 | INFO: Blender create Mesh node 12_Toe claw 1_1
+14:42:29 | INFO: Blender create Mesh node 12_Toe claw 1_-1
+14:42:29 | INFO: Blender create Mesh node 12_Toe claw -1_0
+14:42:29 | INFO: Blender create Mesh node 12_Toe claw -1_1
+14:42:29 | INFO: Blender create Mesh node 12_Toe claw -1_-1
+14:42:29 | INFO: Blender create Mesh node 13_Dorsal shark fin
+14:42:29 | INFO: Blender create Mesh node 14_Tail terminal fin
+14:42:29 | INFO: Blender create Mesh node 15_Tail scale ring 0
+14:42:29 | INFO: Blender create Mesh node 15_Tail scale ring 1
+14:42:29 | INFO: Blender create Mesh node 15_Tail scale ring 2
+14:42:29 | INFO: glTF import finished in 0.89s
+00:47.391  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PokemonPopular\Garchomp\renders\glb_reimport.png'
+GLB_REVIEW_RENDER Garchomp
+00:47.907  blend            | Read blend: "C:\Users\saenu\Documents\ChatGPT\모델링\assets\PokemonPopular\Lugia\Lugia.blend"
+14:42:53 | INFO: Data are loaded, start creating Blender stuff
+14:42:53 | INFO: Blender create Mesh node Sphere
+14:42:54 | INFO: Blender create Mesh node Water bird skull and hooked beak
+14:42:54 | INFO: Blender create Mesh node 03_Long swept blue eye crest 1
+14:42:54 | INFO: Blender create Mesh node 03_Long swept blue eye crest -1
+14:42:54 | INFO: Blender create Mesh node Sphere.003
+14:42:54 | INFO: Blender create Mesh node Sphere.004
+14:42:54 | INFO: Blender create Mesh node 04_Small beak tooth 1 0
+14:42:54 | INFO: Blender create Mesh node 04_Small beak tooth 1 1
+14:42:54 | INFO: Blender create Mesh node 04_Small beak tooth -1 0
+14:42:54 | INFO: Blender create Mesh node 04_Small beak tooth -1 1
+14:42:54 | INFO: Blender create Mesh node 05_Dorsal plate pair 1 1
+14:42:54 | INFO: Blender create Mesh node 05_Dorsal plate pair 1 -1
+14:42:54 | INFO: Blender create Mesh node 05_Dorsal plate pair 2 1
+14:42:54 | INFO: Blender create Mesh node 05_Dorsal plate pair 2 -1
+14:42:54 | INFO: Blender create Mesh node 05_Dorsal plate pair 3 1
+14:42:54 | INFO: Blender create Mesh node 05_Dorsal plate pair 3 -1
+14:42:54 | INFO: Blender create Mesh node 05_Dorsal plate pair 4 1
+14:42:54 | INFO: Blender create Mesh node 05_Dorsal plate pair 4 -1
+14:42:54 | INFO: Blender create Mesh node 05_Dorsal plate pair 5 1
+14:42:54 | INFO: Blender create Mesh node 05_Dorsal plate pair 5 -1
+14:42:54 | INFO: Blender create Mesh node 06_Left blue tail spike
+14:42:54 | INFO: Blender create Mesh node 06_Right blue tail spike
+14:42:54 | INFO: glTF import finished in 1.18s
+01:12.000  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PokemonPopular\Lugia\renders\glb_reimport.png'
+GLB_REVIEW_RENDER Lugia
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

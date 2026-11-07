@@ -1,0 +1,63 @@
+{
+  "blender_version": "5.2.3 LTS",
+  "render_device": "OPTIX: NVIDIA GeForce RTX 4060",
+  "vertices": 17007,
+  "triangles": 33422,
+  "dimensions_m": [
+    0.3554134666919708,
+    0.05040000006556511,
+    1.3297412395477295
+  ],
+  "pivot_m": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "material_count": 2,
+  "mesh_count": 1,
+  "part_vertex_groups": 138,
+  "texture_resolution": [
+    2048,
+    2048
+  ],
+  "normal_convention": "OpenGL tangent +Y",
+  "uv_overlap": "Intentional surface tiling",
+  "engine_runtime_tested": false,
+  "roundtrip": {
+    "glb": {
+      "passed": true,
+      "dimensions_m": [
+        0.3554134666919708,
+        0.05040000006556511,
+        1.3297412246465683
+      ],
+      "triangles": 33422,
+      "uv_layers": 1,
+      "material_count": 2
+    },
+    "fbx": {
+      "passed": true,
+      "dimensions_m": [
+        0.3554134666919708,
+        0.05040000379085541,
+        1.3297412246465683
+      ],
+      "triangles": 33422,
+      "uv_layers": 1,
+      "material_count": 2
+    }
+  },
+  "nonmanifold_edges": 0,
+  "glb_embedded_images": 3,
+  "export_excludes_studio": true,
+  "saved_blend_reopened": true,
+  "packed_pbr_textures": true,
+  "blackthorn_unchanged": true,
+  "blackthorn_sha256": {
+    "assets\\Weapons\\Blackthorn\\Blackthorn.blend": "c6ef5be72c6af22e1cfdd15fe5e93630b9082dd0cebc11993f8c6a2e9486eb9c",
+    "assets\\Weapons\\Blackthorn\\Blackthorn_game.glb": "98d9c786769c78c8137e656ddf6d6405921132d0774d9a59c042caff36e0cdac",
+    "assets\\Weapons\\Blackthorn\\Blackthorn_game.fbx": "f0665475c32e510496435f883f01f374b2cdecc136b74cfbb83a9ece4a57d9f9",
+    "scripts\\build_blackthorn.py": "2f9217cdcff9c356e001c07ab0cdd8d5d441caf22602fc1c072d895d237fc20b"
+  },
+  "passed": true
+}

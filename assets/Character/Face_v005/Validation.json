@@ -1,0 +1,101 @@
+{
+  "passed": true,
+  "saved_file_reopened": true,
+  "source_v004_unchanged": true,
+  "body_and_hair_geometry_unchanged": true,
+  "source_sha256": "75582feb9a8d57d5cdc5be667f91ed01bb904da4e20884c7b161dea740794b00",
+  "blend": "C:\\Users\\saenu\\Documents\\ChatGPT\\모델링\\assets\\Character\\Face_v005\\Adventurer_Face_v005.blend",
+  "face_vertices": 4544,
+  "geometry": {
+    "changed_vertices": 404,
+    "maximum_displacement_m": 0.005503124080498442,
+    "eye_geometry_unchanged": true,
+    "source": "v001 source_vertex_id upper-cheek coordinates"
+  },
+  "features": {
+    "method": "verified_quad_lip_rings",
+    "changed_vertices": 152,
+    "max_displacement_mm": 1.1389311578751204,
+    "rings": [
+      {
+        "upper_source": 537,
+        "count": 38,
+        "strength": 0.96
+      },
+      {
+        "upper_source": 520,
+        "count": 38,
+        "strength": 0.92
+      },
+      {
+        "upper_source": 474,
+        "count": 38,
+        "strength": 0.75
+      },
+      {
+        "upper_source": 468,
+        "count": 38,
+        "strength": 0.18
+      }
+    ],
+    "eyes_changed": false,
+    "uv_changed": false
+  },
+  "materials": {
+    "skin_linear_rgb": [
+      0.66,
+      0.34,
+      0.205
+    ],
+    "cheek_blush_max": 0.12,
+    "skin_roughness": 0.52,
+    "lip_roughness": 0.34,
+    "approved_eye_texture_preserved": true,
+    "geometry_unchanged": true
+  },
+  "packed_images": [
+    {
+      "name": "Adventurer_Tripo_v002_basecolor.jpg",
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Adventurer_Tripo_v002_normal.png",
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Adventurer_Tripo_v002_rm.jpg",
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Approved_Front_v003_FaceProjection",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "name": "bob01_diffuse.png",
+      "size": [
+        2048,
+        2048
+      ]
+    }
+  ],
+  "renders": [
+    "Face_Front.png",
+    "Face_ThreeQuarter.png",
+    "Face_Profile.png",
+    "Face_Clay_ThreeQuarter.png"
+  ],
+  "rigged": false,
+  "engine_tested": false
+}

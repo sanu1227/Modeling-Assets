@@ -1,0 +1,175 @@
+{
+  "blender_version": "5.2.3 LTS",
+  "render_device": "OPTIX: NVIDIA GeForce RTX 4060",
+  "mesh_count": 2,
+  "shared_material_count": 1,
+  "texture_resolution": [
+    4096,
+    2048
+  ],
+  "normal_convention": "OpenGL tangent +Y",
+  "uv_overlap": "Intentional surface tiling",
+  "engine_runtime_tested": false,
+  "cord_rigged": false,
+  "roundtrip": {
+    "glb": {
+      "SM_Kokuren_Katana": {
+        "passed": true,
+        "triangles": 76058,
+        "bounds_m": [
+          [
+            -0.05143999680876732,
+            -0.04405499994754791,
+            -0.12699998915195465
+          ],
+          [
+            0.07699999958276749,
+            0.04405499994754791,
+            0.8949999809265137
+          ]
+        ]
+      },
+      "SM_Kokuren_Saya": {
+        "passed": true,
+        "triangles": 41836,
+        "bounds_m": [
+          [
+            0.14192430675029755,
+            -0.007927348837256432,
+            0.14300000667572021
+          ],
+          [
+            0.25620001554489136,
+            0.025600001215934753,
+            0.9199999570846558
+          ]
+        ]
+      }
+    },
+    "fbx": {
+      "SM_Kokuren_Katana": {
+        "passed": true,
+        "triangles": 76058,
+        "bounds_m": [
+          [
+            -0.05143999680876732,
+            -0.04405497759580612,
+            -0.12699998915195465
+          ],
+          [
+            0.07699999958276749,
+            0.0440550222992897,
+            0.8949999809265137
+          ]
+        ]
+      },
+      "SM_Kokuren_Saya": {
+        "passed": true,
+        "triangles": 41836,
+        "bounds_m": [
+          [
+            0.14192430675029755,
+            -0.00792732648551464,
+            0.14299999177455902
+          ],
+          [
+            0.25620001554489136,
+            0.025600017979741096,
+            0.9199999570846558
+          ]
+        ]
+      }
+    }
+  },
+  "meshes": {
+    "SM_Kokuren_Katana": {
+      "vertices": 39143,
+      "triangles": 76058,
+      "bounds_m": [
+        [
+          -0.05143999680876732,
+          -0.04405499994754791,
+          -0.12699998915195465
+        ],
+        [
+          0.07699999958276749,
+          0.04405499994754791,
+          0.8949999809265137
+        ]
+      ],
+      "dimensions_m": [
+        0.1284399963915348,
+        0.08810999989509583,
+        1.0219999700784683
+      ],
+      "origin_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nonmanifold_edges": 0,
+      "vertex_groups": 27,
+      "material_count": 1
+    },
+    "SM_Kokuren_Saya": {
+      "vertices": 21120,
+      "triangles": 41836,
+      "bounds_m": [
+        [
+          0.14192430675029755,
+          -0.007927348837256432,
+          0.14300000667572021
+        ],
+        [
+          0.25620001554489136,
+          0.025600001215934753,
+          0.9199999570846558
+        ]
+      ],
+      "dimensions_m": [
+        0.11427570879459381,
+        0.033527350053191185,
+        0.7769999504089355
+      ],
+      "origin_m": [
+        0.17000000178813934,
+        0.012000000104308128,
+        0.14000000059604645
+      ],
+      "nonmanifold_edges": 0,
+      "vertex_groups": 11,
+      "material_count": 1
+    }
+  },
+  "triangles": 117894,
+  "blade_fits_saya": true,
+  "max_bore_normalized_radius_squared": 0.6228472700711247,
+  "glb_embedded_images": 3,
+  "export_excludes_studio": true,
+  "saved_blend_reopened": true,
+  "packed_pbr_textures": true,
+  "previous_swords_unchanged": true,
+  "previous_swords_sha256": {
+    "assets\\Weapons\\Blackthorn\\Blackthorn.blend": "0df0743c161b87919879f0cd47533ad1d727f06df5e2c7a1d44d1bd4842e2b01",
+    "assets\\Weapons\\Blackthorn\\Blackthorn_game.glb": "98d9c786769c78c8137e656ddf6d6405921132d0774d9a59c042caff36e0cdac",
+    "assets\\Weapons\\Blackthorn\\Blackthorn_game.fbx": "f0665475c32e510496435f883f01f374b2cdecc136b74cfbb83a9ece4a57d9f9",
+    "scripts\\build_blackthorn.py": "2f9217cdcff9c356e001c07ab0cdd8d5d441caf22602fc1c072d895d237fc20b",
+    "assets\\Weapons\\Aurelia\\Aurelia.blend": "38540f3042a2d03018bf94363e317b9cbf9d6ce82d126682fe0eef8ae877a304",
+    "assets\\Weapons\\Aurelia\\Aurelia_game.glb": "cf09eb91142dc19d89c87a5fedb4b3ec6a8336ee436b971b320bf3361fd5cbf6",
+    "assets\\Weapons\\Aurelia\\Aurelia_game.fbx": "3d9c43747d093ebdb8252980df15ef2e66f03c7a14b53e12fbfff5a76c531a1f",
+    "scripts\\build_aurelia.py": "ca713fa90f8fd86c3922d527cbd2cc702585d956624dbbeaaf7cf84603c7c65d",
+    "assets\\Weapons\\Aurelia_v2\\Aurelia_v2.blend": "3acc24fabdc125340a754283ddb830304866475b856b8f8aee98b86b937e0b7d",
+    "assets\\Weapons\\Aurelia_v2\\Aurelia_v2_game.glb": "60984a5e5730b30a871b280ca4c92ca7095e15acac30a642f9e17a4511917a99",
+    "assets\\Weapons\\Aurelia_v2\\Aurelia_v2_game.fbx": "b6648746c66c30bb8d20a3a369ac8354bd28814cd87b313186c6810b52d262c2",
+    "scripts\\build_aurelia_v2.py": "b37f602676d9541374452536f25b7a01cec2436a875542939915af02e0005a5f",
+    "assets\\Weapons\\AzureDragon\\AzureDragon.blend": "1a81f4e97a33fdb0c8a1a1c70d3f2231411509eca042d654432d5102e36fc4d9",
+    "assets\\Weapons\\AzureDragon\\AzureDragon_game.glb": "ce7c18321f1deaccddedb356c69c832a59acd8f286363566d967e954abcbc197",
+    "assets\\Weapons\\AzureDragon\\AzureDragon_game.fbx": "07543e98b2c450225a0f52b35c2dd61f5b7435ef79763d4c0c1d4722927035d0",
+    "scripts\\build_azure_dragon.py": "5d31240ce43bddadbc5a7dede88c3aae500f632a089e1e8ccfebd6ec2d88d472",
+    "assets\\Weapons\\AzureDragon_v2\\AzureDragon_v2.blend": "0ad3ba5dbcdd66e508ecec5b4e2df521e976cfa20317ea629fded8dea002860a",
+    "assets\\Weapons\\AzureDragon_v2\\AzureDragon_v2_game.glb": "819de921a04c1eccdb3b52c4c15466a4ea440b0a170050afc614255ac97c90a7",
+    "assets\\Weapons\\AzureDragon_v2\\AzureDragon_v2_game.fbx": "bebc65249c357e34d28c166e7d842b4ef6c05484d34259571feed1e9031b78ac",
+    "scripts\\build_azure_dragon_v2.py": "ef802e0cf7fe7cc5923046a1c504215dbc4c05cf3461a08f9e3cda76622aabf6"
+  },
+  "passed": true
+}

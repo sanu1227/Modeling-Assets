@@ -1,0 +1,160 @@
+{
+  "objects": [
+    {
+      "name": "Camera",
+      "type": "CAMERA",
+      "location": [
+        1.8416061401367188,
+        -6.81785774230957,
+        0.47595858573913574
+      ],
+      "rotation": [
+        1.4675841331481934,
+        -4.385529166484048e-07,
+        0.30499929189682007
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Lamp",
+      "type": "LIGHT",
+      "location": [
+        4.076245307922363,
+        -10.191173553466797,
+        5.903861999511719
+      ],
+      "rotation": [
+        0.8024641871452332,
+        -0.2777053415775299,
+        0.37249496579170227
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Skull",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "modifiers": [],
+      "vertices": 2435,
+      "triangles": 4548,
+      "uvs": [
+        "UVMap"
+      ],
+      "materials": [
+        "Material.003"
+      ],
+      "nonmanifold_edges": 253,
+      "bounds_min": [
+        -0.9602502584457397,
+        -1.0644346475601196,
+        -1.7830214500427246
+      ],
+      "bounds_max": [
+        0.9602502584457397,
+        1.4822195768356323,
+        1.0686923265457153
+      ]
+    }
+  ],
+  "images": [
+    {
+      "name": "Render Result",
+      "path": "",
+      "size": [
+        0,
+        0
+      ],
+      "packed": false
+    },
+    {
+      "name": "Skull",
+      "path": "//tex\\Skull.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "Skull-AO",
+      "path": "//tex\\Skull-AO.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "packed": true
+    },
+    {
+      "name": "Skull-Low",
+      "path": "//tex\\Skull-Low-normal.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "Skull-Low.png",
+      "path": "//tex\\Skull-Low.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "Skull-Low_m.png",
+      "path": "//tex\\AwB\\Skull-Low_m.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "packed": true
+    },
+    {
+      "name": "Skull-Low_r.png",
+      "path": "//tex\\AwB\\Skull-Low_r.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "packed": true
+    },
+    {
+      "name": "Skull-Norm",
+      "path": "//tex\\Skull-Low-normal.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    }
+  ],
+  "texts": [
+    "Text"
+  ]
+}

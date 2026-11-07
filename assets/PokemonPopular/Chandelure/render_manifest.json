@@ -1,0 +1,13 @@
+{
+  "source_sha256": "457762b3c365c88fe9456f8859d11a3214f4491c30860a45792dadcdcaa79e17",
+  "source": "Chandelure.blend",
+  "rendered_at": "2026-11-04T06:08:34.007212+00:00",
+  "views": [
+    "hero",
+    "front",
+    "side",
+    "back",
+    "clay"
+  ],
+  "draft": false
+}

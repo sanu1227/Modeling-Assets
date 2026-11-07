@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "blender_version": "5.2.3 LTS",
+  "file_reopened": true,
+  "character_mesh_created": true,
+  "visible_character_mesh_objects": 94,
+  "control_mesh_triangles": 94048,
+  "bounds_min_m": [
+    -0.476790189743042,
+    -0.22547350823879242,
+    0.0020000000949949026
+  ],
+  "bounds_max_m": [
+    0.476790189743042,
+    0.11123164743185043,
+    1.7196415662765503
+  ],
+  "body_vertices": 13380,
+  "body_uv_layers": 1,
+  "bones": 54,
+  "body_weight_sums": [
+    0.9999999552965164,
+    1.0000000447034836
+  ],
+  "max_body_influences": 4,
+  "forearm_pose_changed_geometry": true,
+  "pose_max_vertex_displacement_m": 0.30187494279311017,
+  "pose_all_vertices_finite": true,
+  "engine_tested": false,
+  "production_deformation_review_complete": false,
+  "preview": "Adventurer_Preview.png",
+  "face_preview": "Adventurer_Face.png",
+  "pose_preview": "Adventurer_PoseCheck.png",
+  "side_preview": "Adventurer_Side.png",
+  "source": "MakeHuman CC0 core mesh and targets; original Blender modeling scripts"
+}

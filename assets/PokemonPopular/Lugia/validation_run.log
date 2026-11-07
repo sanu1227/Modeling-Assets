@@ -1,0 +1,31 @@
+00:00.766  blend            | Read blend: "C:\Users\saenu\Documents\ChatGPT\모델링\assets\PokemonPopular\Lugia\Lugia.blend"
+C:\Users\saenu\Documents\ChatGPT\모델링\scripts\lugia_validate.py:80: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  for material in obj.data.materials if material and material.use_nodes
+14:27:36 | INFO: Data are loaded, start creating Blender stuff
+14:27:36 | INFO: Blender create Mesh node Sphere
+14:27:36 | INFO: Blender create Mesh node Water bird skull and hooked beak
+14:27:37 | INFO: Blender create Mesh node 03_Long swept blue eye crest 1
+14:27:37 | INFO: Blender create Mesh node 03_Long swept blue eye crest -1
+14:27:37 | INFO: Blender create Mesh node Sphere.003
+14:27:37 | INFO: Blender create Mesh node Sphere.004
+14:27:37 | INFO: Blender create Mesh node 04_Small beak tooth 1 0
+14:27:37 | INFO: Blender create Mesh node 04_Small beak tooth 1 1
+14:27:37 | INFO: Blender create Mesh node 04_Small beak tooth -1 0
+14:27:37 | INFO: Blender create Mesh node 04_Small beak tooth -1 1
+14:27:37 | INFO: Blender create Mesh node 05_Dorsal plate pair 1 1
+14:27:37 | INFO: Blender create Mesh node 05_Dorsal plate pair 1 -1
+14:27:37 | INFO: Blender create Mesh node 05_Dorsal plate pair 2 1
+14:27:37 | INFO: Blender create Mesh node 05_Dorsal plate pair 2 -1
+14:27:37 | INFO: Blender create Mesh node 05_Dorsal plate pair 3 1
+14:27:37 | INFO: Blender create Mesh node 05_Dorsal plate pair 3 -1
+14:27:37 | INFO: Blender create Mesh node 05_Dorsal plate pair 4 1
+14:27:37 | INFO: Blender create Mesh node 05_Dorsal plate pair 4 -1
+14:27:37 | INFO: Blender create Mesh node 05_Dorsal plate pair 5 1
+14:27:37 | INFO: Blender create Mesh node 05_Dorsal plate pair 5 -1
+14:27:37 | INFO: Blender create Mesh node 06_Left blue tail spike
+14:27:37 | INFO: Blender create Mesh node 06_Right blue tail spike
+14:27:37 | INFO: glTF import finished in 0.89s
+{"passed": true, "errors": [], "source_triangles": 603192}
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

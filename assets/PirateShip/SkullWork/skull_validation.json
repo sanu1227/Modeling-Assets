@@ -1,0 +1,18 @@
+{
+  "objects": 26,
+  "triangles": 162556,
+  "degenerate_triangles": 0,
+  "nonmanifold_edges": 0,
+  "inconsistent_winding": 0,
+  "bounds_min": [
+    -30.119773864746094,
+    -1.0036128759384155,
+    7.93117618560791
+  ],
+  "bounds_max": [
+    -28.403182983398438,
+    1.003612756729126,
+    10.448492050170898
+  ],
+  "passed": true
+}

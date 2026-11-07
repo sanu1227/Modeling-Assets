@@ -1,0 +1,56 @@
+{
+  "passed": true,
+  "contact_checks": [
+    {
+      "objects": [
+        "SkullV4_Cranium",
+        "SkullV4_Adornment_Long_embedded_eyelet_pin"
+      ],
+      "surface_intersections": 31
+    },
+    {
+      "objects": [
+        "SkullV4_Adornment_Long_embedded_eyelet_pin",
+        "SkullV4_Adornment_Long_seated_eyelet"
+      ],
+      "surface_intersections": 32
+    },
+    {
+      "objects": [
+        "SkullV4_Adornment_Long_seated_eyelet",
+        "SkullV4_Adornment_Long_temple_tassel_braid_0"
+      ],
+      "surface_intersections": 14
+    },
+    {
+      "objects": [
+        "SkullV4_Cranium",
+        "SkullV4_Adornment_Short_embedded_eyelet_pin"
+      ],
+      "surface_intersections": 31
+    },
+    {
+      "objects": [
+        "SkullV4_Adornment_Short_embedded_eyelet_pin",
+        "SkullV4_Adornment_Short_seated_eyelet"
+      ],
+      "surface_intersections": 31
+    },
+    {
+      "objects": [
+        "SkullV4_Adornment_Short_seated_eyelet",
+        "SkullV4_Adornment_Short_temple_braid_braid_0"
+      ],
+      "surface_intersections": 16
+    }
+  ],
+  "stem_clamp_fit": {
+    "stem_radius": 0.23,
+    "clamp_inner_radius": 0.231,
+    "radial_clearance": 0.0010000000000000009,
+    "centers_on_original_poly_segment_at_z": [
+      8.9,
+      9.55
+    ]
+  }
+}

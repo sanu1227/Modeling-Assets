@@ -1,0 +1,41 @@
+{
+  "passed": true,
+  "source": {
+    "mesh_objects": 6675,
+    "unique_evaluated_meshes": 180,
+    "triangles": 475900,
+    "materials": 20,
+    "bounds_m": [
+      [
+        -22.04071044921875,
+        -19.441791534423828,
+        0.0
+      ],
+      [
+        21.6978816986084,
+        13.109999656677246,
+        64.80500030517578
+      ]
+    ],
+    "size_m": [
+      43.73859214782715,
+      32.551791191101074,
+      64.80500030517578
+    ]
+  },
+  "glb": {
+    "mesh_objects": 6,
+    "triangles": 475900,
+    "max_bounds_difference_m": 1.9073486328125e-06,
+    "embedded_images": 5,
+    "transmission_materials": 4,
+    "file_bytes": 49354976
+  },
+  "errors": [],
+  "limits": [
+    "Architectural visualization exterior; only limited visible interior detail.",
+    "No structural engineering, collision, LOD or target-engine runtime validation.",
+    "GLB supports transmission; target engine/importer must support the extension.",
+    "Procedural image-based bump remains in Blender; not baked as a GLB normal map."
+  ]
+}

@@ -1,0 +1,11 @@
+{"objects": 26, "triangles": 162556, "degenerate_triangles": 0, "nonmanifold_edges": 0, "inconsistent_winding": 0, "bounds_min": [-30.119773864746094, -1.0036128759384155, 7.93117618560791], "bounds_max": [-28.403182983398438, 1.003612756729126, 10.448492050170898], "passed": true}
+00:04.468  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\SkullWork\preview_skull.py:28: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  scene.world.use_nodes=True
+00:13.015  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\SkullWork\skull_three_quarter.png'
+00:20.421  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\SkullWork\skull_front.png'
+00:20.453  image.write      | ERROR OpenImageIO write failed: Could not open file "C:\Users\saenu\.thumbnails\large\blender_12820_ea5a9ab349640e0f2892272bde986baf.png.png"
+Info: Saved as "skull_preview.blend"
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

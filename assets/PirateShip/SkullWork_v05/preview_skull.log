@@ -1,0 +1,13 @@
+{"objects": 40, "triangles": 59688, "degenerate_triangles": 0, "nonmanifold_edges": 0, "inconsistent_winding": 0, "missing_uv": [], "components": {"SkullV5_Cranium": 1, "SkullV5_Mandible": 1, "SkullV5_Tooth_01": 1, "SkullV5_Tooth_02": 1, "SkullV5_Tooth_03": 1, "SkullV5_Tooth_04": 1, "SkullV5_Tooth_05": 1, "SkullV5_Tooth_06": 1, "SkullV5_Tooth_07": 1, "SkullV5_Tooth_08": 1, "SkullV5_Tooth_09": 1, "SkullV5_Tooth_10": 1, "SkullV5_Tooth_11": 1, "SkullV5_Tooth_12": 1, "SkullV5_Tooth_13": 1, "SkullV5_Tooth_14": 1, "SkullV5_Tooth_15": 1, "SkullV5_Tooth_16": 1, "SkullV5_Tooth_17": 1, "SkullV5_Tooth_18": 1, "SkullV5_Tooth_19": 1, "SkullV5_Tooth_20": 1, "SkullV5_Tooth_21": 1, "SkullV5_Tooth_22": 1, "SkullV5_Tooth_23": 1, "SkullV5_Tooth_24": 1, "SkullV5_Tooth_25": 1, "SkullV5_Tooth_26": 1, "SkullV5_Tooth_27": 1, "SkullV5_Tooth_28": 1, "SkullV5_Tooth_29": 1, "SkullV5_Tooth_30": 1, "SkullV5_Tooth_31": 1, "SkullV5_Tooth_32": 1, "SkullV5_Gold_Forehead_Flame": 1, "SkullV5_Gold_Brow_-1": 1, "SkullV5_Gold_Malar_-1": 1, "SkullV5_Gold_Brow_1": 1, "SkullV5_Gold_Malar_1": 1, "SkullV5_Gold_Chin_Keel": 1}, "bounds_min": [-30.297056198120117, -0.8198131918907166, 8.144999504089355], "bounds_max": [-28.10294532775879, 0.8198131918907166, 10.595000267028809], "source_anatomy_vertices": 15572, "source_anatomy_triangles": 31016, "passed": true}
+00:01.703  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\SkullWork_v05\preview_skull.py:25: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  scene.world.use_nodes=True;scene.world.node_tree.nodes.get('Background').inputs['Color'].default_value=(.20,.23,.26,1);scene.world.node_tree.nodes.get('Background').inputs['Strength'].default_value=.35
+00:07.047  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\SkullWork_v05\skull_front.png'
+00:11.578  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\SkullWork_v05\skull_three_quarter.png'
+00:16.110  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\SkullWork_v05\skull_profile.png'
+00:16.125  image.write      | ERROR OpenImageIO write failed: Could not open file "C:\Users\saenu\.thumbnails\large\blender_4680_b94a55ab32aeb015614f35aa8311595f.png.png"
+Info: Saved as "skull_preview.blend"
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+Timer 'STL Import' took 6.43 ms
+
+Blender quit

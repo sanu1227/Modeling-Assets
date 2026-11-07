@@ -1,0 +1,9 @@
+{
+  "source_sha256": "138169ed3cc5d0d9b6a346f840c46ae0fb2fce90b80ad99fbbf47c60a8ca714e",
+  "glb_sha256": "aeecd2618191a3f1b894050a46daf992d1da6b5d126b0989c231576e33ad40bb",
+  "render": "renders/glb_reimport.png",
+  "source_files_unchanged": true,
+  "note": "Rendered GLB in Blender, not a game-engine runtime test.",
+  "visual_review_passed": true,
+  "visual_review_note": "Inspected the rendered reimport: eyes, painted color regions and component materials are present and consistent with the saved-source render."
+}

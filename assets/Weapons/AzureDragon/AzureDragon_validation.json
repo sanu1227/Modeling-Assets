@@ -1,0 +1,73 @@
+{
+  "blender_version": "5.2.3 LTS",
+  "render_device": "OPTIX: NVIDIA GeForce RTX 4060",
+  "vertices": 39034,
+  "triangles": 75520,
+  "dimensions_m": [
+    0.22699597477912903,
+    0.0411258339881897,
+    1.351084589958191
+  ],
+  "pivot_m": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "material_count": 1,
+  "mesh_count": 1,
+  "part_vertex_groups": 54,
+  "texture_resolution": [
+    4096,
+    4096
+  ],
+  "normal_convention": "OpenGL tangent +Y",
+  "uv_overlap": "Intentional surface tiling",
+  "engine_runtime_tested": false,
+  "roundtrip": {
+    "glb": {
+      "passed": true,
+      "dimensions_m": [
+        0.22699596732854843,
+        0.0411258339881897,
+        1.3510846197605133
+      ],
+      "triangles": 75520,
+      "uv_layers": 1,
+      "material_count": 1
+    },
+    "fbx": {
+      "passed": true,
+      "dimensions_m": [
+        0.22699596732854843,
+        0.041125835850834846,
+        1.3510846197605133
+      ],
+      "triangles": 75520,
+      "uv_layers": 1,
+      "material_count": 1
+    }
+  },
+  "tassel_rigged": false,
+  "sword_body_length_m": 1.100000038743019,
+  "nonmanifold_edges": 0,
+  "glb_embedded_images": 3,
+  "export_excludes_studio": true,
+  "saved_blend_reopened": true,
+  "packed_pbr_textures": true,
+  "previous_swords_unchanged": true,
+  "previous_swords_sha256": {
+    "assets\\Weapons\\Blackthorn\\Blackthorn.blend": "c6ef5be72c6af22e1cfdd15fe5e93630b9082dd0cebc11993f8c6a2e9486eb9c",
+    "assets\\Weapons\\Blackthorn\\Blackthorn_game.glb": "98d9c786769c78c8137e656ddf6d6405921132d0774d9a59c042caff36e0cdac",
+    "assets\\Weapons\\Blackthorn\\Blackthorn_game.fbx": "f0665475c32e510496435f883f01f374b2cdecc136b74cfbb83a9ece4a57d9f9",
+    "scripts\\build_blackthorn.py": "2f9217cdcff9c356e001c07ab0cdd8d5d441caf22602fc1c072d895d237fc20b",
+    "assets\\Weapons\\Aurelia\\Aurelia.blend": "38540f3042a2d03018bf94363e317b9cbf9d6ce82d126682fe0eef8ae877a304",
+    "assets\\Weapons\\Aurelia\\Aurelia_game.glb": "cf09eb91142dc19d89c87a5fedb4b3ec6a8336ee436b971b320bf3361fd5cbf6",
+    "assets\\Weapons\\Aurelia\\Aurelia_game.fbx": "3d9c43747d093ebdb8252980df15ef2e66f03c7a14b53e12fbfff5a76c531a1f",
+    "scripts\\build_aurelia.py": "ca713fa90f8fd86c3922d527cbd2cc702585d956624dbbeaaf7cf84603c7c65d",
+    "assets\\Weapons\\Aurelia_v2\\Aurelia_v2.blend": "3acc24fabdc125340a754283ddb830304866475b856b8f8aee98b86b937e0b7d",
+    "assets\\Weapons\\Aurelia_v2\\Aurelia_v2_game.glb": "60984a5e5730b30a871b280ca4c92ca7095e15acac30a642f9e17a4511917a99",
+    "assets\\Weapons\\Aurelia_v2\\Aurelia_v2_game.fbx": "b6648746c66c30bb8d20a3a369ac8354bd28814cd87b313186c6810b52d262c2",
+    "scripts\\build_aurelia_v2.py": "b37f602676d9541374452536f25b7a01cec2436a875542939915af02e0005a5f"
+  },
+  "passed": true
+}

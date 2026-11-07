@@ -1,0 +1,27 @@
+{
+  "objects": 19,
+  "triangles": 185526,
+  "degenerate_triangles": 0,
+  "nonmanifold_edges": 0,
+  "inconsistent_edges": 0,
+  "missing_uv": [],
+  "missing_material": [],
+  "finite": true,
+  "bounds": {
+    "min": [
+      -0.611342191696167,
+      -0.7592481970787048,
+      0.0
+    ],
+    "max": [
+      0.611047089099884,
+      0.7899999767541885,
+      1.0365906953811646
+    ],
+    "size": [
+      1.222389280796051,
+      1.5492481738328934,
+      1.0365906953811646
+    ]
+  }
+}

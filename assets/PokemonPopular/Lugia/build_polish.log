@@ -1,0 +1,62 @@
+C:\Users\saenu\Documents\ChatGPT\모델링\scripts\popular_lugia.py:288: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world=bpy.data.worlds.new('Studio world');world.use_nodes=True;scene.world=world
+Info: Saved as "Lugia.blend"
+INFO Draco is available, use library at C:\Users\saenu\Documents\ChatGPT\모델링\tools\blender-5.2.3-windows-x64\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at C:\Users\saenu\Documents\ChatGPT\모델링\tools\blender-5.2.3-windows-x64\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+14:13:49 | INFO: Starting glTF 2.0 export
+14:13:49 | INFO: Extracting primitive: Sphere
+14:13:50 | INFO: Primitives created: 2
+14:13:50 | INFO: Extracting primitive: Water bird skull and hooked beak
+14:13:50 | INFO: Primitives created: 2
+14:13:50 | INFO: Extracting primitive: 03_Long swept blue eye crest 1
+14:13:50 | INFO: Primitives created: 1
+14:13:50 | INFO: Extracting primitive: 03_Long swept blue eye crest -1
+14:13:50 | INFO: Primitives created: 1
+14:13:50 | INFO: Extracting primitive: Sphere.003
+14:13:50 | INFO: Primitives created: 1
+14:13:50 | INFO: Extracting primitive: Sphere.004
+14:13:50 | INFO: Primitives created: 1
+14:13:50 | INFO: Extracting primitive: 04_Small beak tooth 1 0
+14:13:50 | INFO: Primitives created: 1
+14:13:50 | INFO: Extracting primitive: 04_Small beak tooth 1 1
+14:13:50 | INFO: Primitives created: 1
+14:13:50 | INFO: Extracting primitive: 04_Small beak tooth -1 0
+14:13:50 | INFO: Primitives created: 1
+14:13:50 | INFO: Extracting primitive: 04_Small beak tooth -1 1
+14:13:50 | INFO: Primitives created: 1
+14:13:50 | INFO: Extracting primitive: 05_Dorsal plate pair 1 1
+14:13:50 | INFO: Primitives created: 1
+14:13:50 | INFO: Extracting primitive: 05_Dorsal plate pair 1 -1
+14:13:50 | INFO: Primitives created: 1
+14:13:50 | INFO: Extracting primitive: 05_Dorsal plate pair 2 1
+14:13:50 | INFO: Primitives created: 1
+14:13:50 | INFO: Extracting primitive: 05_Dorsal plate pair 2 -1
+14:13:50 | INFO: Primitives created: 1
+14:13:50 | INFO: Extracting primitive: 05_Dorsal plate pair 3 1
+14:13:50 | INFO: Primitives created: 1
+14:13:50 | INFO: Extracting primitive: 05_Dorsal plate pair 3 -1
+14:13:50 | INFO: Primitives created: 1
+14:13:50 | INFO: Extracting primitive: 05_Dorsal plate pair 4 1
+14:13:50 | INFO: Primitives created: 1
+14:13:50 | INFO: Extracting primitive: 05_Dorsal plate pair 4 -1
+14:13:50 | INFO: Primitives created: 1
+14:13:50 | INFO: Extracting primitive: 05_Dorsal plate pair 5 1
+14:13:50 | INFO: Primitives created: 1
+14:13:50 | INFO: Extracting primitive: 05_Dorsal plate pair 5 -1
+14:13:50 | INFO: Primitives created: 1
+14:13:50 | INFO: Extracting primitive: 06_Left blue tail spike
+14:13:50 | INFO: Primitives created: 1
+14:13:50 | INFO: Extracting primitive: 06_Right blue tail spike
+14:13:50 | INFO: Primitives created: 1
+14:13:50 | INFO: Finished glTF 2.0 export in 0.8188962936401367 s
+00:35.328  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PokemonPopular\Lugia\renders\preview_draft.png'
+00:46.438  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PokemonPopular\Lugia\renders\front_draft.png'
+01:01.906  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PokemonPopular\Lugia\renders\back_draft.png'
+01:18.266  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PokemonPopular\Lugia\renders\side_draft.png'
+01:35.344  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PokemonPopular\Lugia\renders\face_draft.png'
+01:50.125  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PokemonPopular\Lugia\renders\clay_draft.png'
+
+LUGIA_BUILD_OK
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

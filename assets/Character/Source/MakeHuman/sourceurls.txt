@@ -1,0 +1,26 @@
+Official MakeHuman core graphical assets; CC0-1.0 (see LICENSE.md and LICENSE.ASSETS.md).
+Pinned repository tree: 
+a8bc2d54ff0ac92e78ff71431b1023eda42bf482
+Retrieved: 2026-10-24
+https://www.makehumancommunity.org/about/license.html
+
+LICENSE.md https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/LICENSE.md
+LICENSE.ASSETS.md https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/LICENSE.ASSETS.md
+base.obj https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/3dobjs/base.obj
+african-female-young.target https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/targets/macrodetails/african-female-young.target
+asian-female-young.target https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/targets/macrodetails/asian-female-young.target
+caucasian-female-young.target https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/targets/macrodetails/caucasian-female-young.target
+universal-female-young-averagemuscle-averageweight.target https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/targets/macrodetails/universal-female-young-averagemuscle-averageweight.target
+universal-female-young-averagemuscle-minweight.target https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/targets/macrodetails/universal-female-young-averagemuscle-minweight.target
+universal-female-young-maxmuscle-averageweight.target https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/targets/macrodetails/universal-female-young-maxmuscle-averageweight.target
+female-young-averagemuscle-averageweight-idealproportions.target https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/targets/macrodetails/proportions/female-young-averagemuscle-averageweight-idealproportions.target
+l-eye-scale-incr.target https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/targets/eyes/l-eye-scale-incr.target
+r-eye-scale-incr.target https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/targets/eyes/r-eye-scale-incr.target
+chin-width-decr.target https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/targets/chin/chin-width-decr.target
+chin-height-decr.target https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/targets/chin/chin-height-decr.target
+high-poly.obj https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/eyes/high-poly/high-poly.obj
+high-poly.mhclo https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/eyes/high-poly/high-poly.mhclo
+basemesh_vertex_groups.json https://raw.githubusercontent.com/makehumancommunity/mpfb2/b1a2dc98776da9d1eea751b159d42cf61778fe2e/src/mpfb/data/mesh_metadata/basemesh_vertex_groups.json
+MPFB_LICENSE.md https://raw.githubusercontent.com/makehumancommunity/mpfb2/b1a2dc98776da9d1eea751b159d42cf61778fe2e/LICENSE.md
+MPFB_LICENSE.ASSETS.md https://raw.githubusercontent.com/makehumancommunity/mpfb2/b1a2dc98776da9d1eea751b159d42cf61778fe2e/LICENSE.ASSETS.md
+hm08_config.json https://raw.githubusercontent.com/makehumancommunity/mpfb2/b1a2dc98776da9d1eea751b159d42cf61778fe2e/src/mpfb/data/mesh_metadata/hm08_config.json

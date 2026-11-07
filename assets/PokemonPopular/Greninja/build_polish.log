@@ -1,0 +1,95 @@
+C:\Users\saenu\Documents\ChatGPT\모델링\scripts\popular_greninja.py:432: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world=bpy.data.worlds.new('Studio world');world.use_nodes=True;scene.world=world
+Info: Saved as "Greninja.blend"
+INFO Draco is available, use library at C:\Users\saenu\Documents\ChatGPT\모델링\tools\blender-5.2.3-windows-x64\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at C:\Users\saenu\Documents\ChatGPT\모델링\tools\blender-5.2.3-windows-x64\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+13:42:28 | INFO: Starting glTF 2.0 export
+13:42:28 | INFO: Extracting primitive: 01_Torso • tapered athletic core
+13:42:28 | INFO: Primitives created: 2
+13:42:28 | INFO: Extracting primitive: 02_Cream chest • pointed central bib
+13:42:28 | INFO: Primitives created: 1
+13:42:28 | INFO: Extracting primitive: 03_Cyan hip marking 1
+13:42:28 | INFO: Primitives created: 1
+13:42:28 | INFO: Extracting primitive: 03_Cyan hip marking -1
+13:42:28 | INFO: Primitives created: 1
+13:42:28 | INFO: Extracting primitive: 03_Hip pointed fin 1
+13:42:28 | INFO: Primitives created: 1
+13:42:28 | INFO: Extracting primitive: 03_Hip pointed fin -1
+13:42:28 | INFO: Primitives created: 1
+13:42:28 | INFO: Extracting primitive: Sphere.003
+13:42:28 | INFO: Primitives created: 1
+13:42:28 | INFO: Extracting primitive: Sphere.004
+13:42:28 | INFO: Primitives created: 1
+13:42:28 | INFO: Extracting primitive: 07_Pale foot web L0
+13:42:28 | INFO: Primitives created: 1
+13:42:28 | INFO: Extracting primitive: 07_Pale foot web L1
+13:42:28 | INFO: Primitives created: 1
+13:42:28 | INFO: Extracting primitive: 07_Pale foot web R0
+13:42:28 | INFO: Primitives created: 1
+13:42:28 | INFO: Extracting primitive: 07_Pale foot web R1
+13:42:28 | INFO: Primitives created: 1
+13:42:28 | INFO: Extracting primitive: Sphere.006
+13:42:28 | INFO: Primitives created: 1
+13:42:28 | INFO: Extracting primitive: Sphere.007
+13:42:28 | INFO: Primitives created: 1
+13:42:28 | INFO: Extracting primitive: Sphere.008
+13:42:28 | INFO: Primitives created: 1
+13:42:28 | INFO: Extracting primitive: Sphere.010
+13:42:28 | INFO: Primitives created: 1
+13:42:28 | INFO: Extracting primitive: Sphere.011
+13:42:28 | INFO: Primitives created: 1
+13:42:28 | INFO: Extracting primitive: Sphere.012
+13:42:28 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: Sphere.013
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: Sphere.014
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: Sphere.020
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: Sphere.021
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: Sphere.022
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: Sphere.016
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: Sphere.017
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: Sphere.018
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: 10_Pale hand web High0
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: 10_Pale hand web High1
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: 10_Pale hand web Low0
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: 10_Pale hand web Low1
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: 11_Head • tapered frog skull
+13:42:29 | INFO: Primitives created: 2
+13:42:29 | INFO: Extracting primitive: 12_Cyan inner head sail 1
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: 12_Cyan inner head sail -1
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: 12_Swept lateral head fin 1
+13:42:29 | INFO: Primitives created: 2
+13:42:29 | INFO: Extracting primitive: 12_Swept lateral head fin -1
+13:42:29 | INFO: Primitives created: 2
+13:42:29 | INFO: Extracting primitive: 14_Central diamond blade crest
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: 14_Subtle mouth seam
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: 15_Pink tongue scarf • flowing free end
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: 15_Pink tongue scarf • neck wrap
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: 16_Rear hip spur 1
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: 16_Rear hip spur -1
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Finished glTF 2.0 export in 0.5389199256896973 s
+00:32.422  render           | Saved: 'C:\Users\saenu\Documents\ChatGPT\모델링\assets\PokemonPopular\Greninja\renders\back_draft.png'
+
+GRENINJA_BUILD_OK
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

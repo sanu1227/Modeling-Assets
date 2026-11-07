@@ -1,0 +1,119 @@
+{
+  "passed": true,
+  "errors": [],
+  "source": {
+    "objects": 36,
+    "triangles": 812408,
+    "nonfinite": 0,
+    "nonfinite_uv": 0,
+    "degenerate": 0,
+    "nonmanifold_edges": 0,
+    "inconsistent_edges": 0,
+    "missing_uv": [],
+    "materials": [
+      "Color_188A89",
+      "Color_1F2A22",
+      "Color_229F9C",
+      "Color_27322E",
+      "Color_65502C",
+      "Color_7B6339",
+      "Color_A99A6F",
+      "Color_EFA139",
+      "Color_F8E9AE",
+      "Color_FFF9E6",
+      "Color_FFFFFF",
+      "Dragonite | painted segmented belly"
+    ],
+    "image_textures": {
+      "Dragonite_belly.png": {
+        "size": [
+          2048,
+          2048
+        ],
+        "packed": true
+      }
+    },
+    "details": [],
+    "bounds": {
+      "min": [
+        -1.4391313791275024,
+        -0.7713832855224609,
+        -1.6763806343078613e-08
+      ],
+      "max": [
+        1.4391313791275024,
+        2.422616720199585,
+        3.3492751121520996
+      ],
+      "size": [
+        2.878262758255005,
+        3.194000005722046,
+        3.349275128915906
+      ]
+    }
+  },
+  "glb": {
+    "objects": 36,
+    "triangles": 812408,
+    "nonfinite": 0,
+    "nonfinite_uv": 0,
+    "degenerate": 0,
+    "nonmanifold_edges": 0,
+    "inconsistent_edges": 0,
+    "missing_uv": [],
+    "materials": [
+      "Color_188A89",
+      "Color_1F2A22",
+      "Color_229F9C",
+      "Color_27322E",
+      "Color_65502C",
+      "Color_7B6339",
+      "Color_A99A6F",
+      "Color_EFA139",
+      "Color_F8E9AE",
+      "Color_FFF9E6",
+      "Color_FFFFFF",
+      "Dragonite | painted segmented belly"
+    ],
+    "image_textures": {
+      "Dragonite_belly": {
+        "size": [
+          2048,
+          2048
+        ],
+        "packed": true
+      }
+    },
+    "details": [],
+    "bounds": {
+      "min": [
+        -1.4391313791275024,
+        -0.7713832855224609,
+        -1.6298145055770874e-08
+      ],
+      "max": [
+        1.4391313791275024,
+        2.422616720199585,
+        3.3492751121520996
+      ],
+      "size": [
+        2.878262758255005,
+        3.194000005722046,
+        3.3492751284502447
+      ]
+    }
+  },
+  "bounds_max_error_m": 4.656612873077393e-10,
+  "glb_topology_note": "GLB material/UV seam splits welded at 1e-6 m only for topology inspection",
+  "saved_blend_reopened": true,
+  "glb_textures_embedded": true,
+  "sha256": {
+    "blend": "95625d222c190b0d3c8868081fc69a72ff39eb235db57b4debc51a041f195f7d",
+    "glb": "8760ea8ecba51dd30c6a1b56206dff6e819349ebbc22c4236b8dcf2ba1fc6878"
+  },
+  "limitations": [
+    "Static model; no rig or animation",
+    "Separate closed overlapping parts; not a single printable volume",
+    "No game-engine runtime verification"
+  ]
+}

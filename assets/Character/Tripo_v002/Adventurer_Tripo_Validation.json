@@ -1,0 +1,66 @@
+{
+  "passed": true,
+  "blender_version": "5.2.3 LTS",
+  "blend_file": "C:\\Users\\saenu\\Documents\\ChatGPT\\\ubaa8\ub378\ub9c1\\assets\\Character\\Tripo_v002\\Adventurer_Tripo_v002.blend",
+  "source_glb": "C:\\Users\\saenu\\Documents\\ChatGPT\\\ubaa8\ub378\ub9c1\\assets\\Character\\Tripo_v002\\Source\\Adventurer_Tripo_source.glb",
+  "source_sha256": "904237ff82315fa100bc6bb881213f4eab25cd7915555d71ccbd572f20ab760e",
+  "source_materials_preserved": true,
+  "rotation_z_degrees": 0.0,
+  "mesh_objects": 1,
+  "vertices": 116362,
+  "triangles": 211614,
+  "bounds_min_m": [
+    -0.5169301629066467,
+    -0.156343474984169,
+    0.0
+  ],
+  "bounds_max_m": [
+    0.5169301629066467,
+    0.156343474984169,
+    1.75
+  ],
+  "mesh_uv_layers": {
+    "tripo_node_65341970-3bfc-4e43-a14e-1dc249dbc9e5": 1
+  },
+  "materials": [
+    "tripo_material_65341970-3bfc-4e43-a14e-1dc249dbc9e5"
+  ],
+  "textures": [
+    {
+      "name": "Adventurer_Tripo_v002_basecolor.jpg",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "Adventurer_Tripo_v002_normal.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "Adventurer_Tripo_v002_rm.jpg",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    }
+  ],
+  "armatures": 0,
+  "bones": 0,
+  "rig_added": false,
+  "retopology_performed": false,
+  "game_engine_tested": false,
+  "likeness_review": "Needs visual comparison against Adventurer_Front_v003.png; not a numerical similarity score",
+  "renders": [
+    "Adventurer_Tripo_Front.png",
+    "Adventurer_Tripo_ThreeQuarter.png",
+    "Adventurer_Tripo_Face.png",
+    "Adventurer_Tripo_Side.png"
+  ]
+}

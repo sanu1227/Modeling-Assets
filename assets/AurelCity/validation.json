@@ -1,0 +1,94 @@
+{
+  "passed": true,
+  "city": "AUREL CITY",
+  "building_count": 34,
+  "design_count": 8,
+  "source": {
+    "renderable_objects": 402,
+    "unique_evaluated_meshes": 42,
+    "unique_triangles": 1417912,
+    "placed_triangles": 5950512,
+    "bounds_m": [
+      [
+        -240.0,
+        -194.0,
+        -0.3700000047683716
+      ],
+      [
+        240.0,
+        194.0,
+        120.5
+      ]
+    ],
+    "building_design_counts": {
+      "Arcade": 7,
+      "Civic": 6,
+      "Terra": 8,
+      "Lumen": 9,
+      "Aurel": 1,
+      "Harbor": 1,
+      "Library": 1,
+      "Vela": 1
+    },
+    "building_heights_m": {
+      "B01_Arcade": 20.29,
+      "B02_Civic": 34.141,
+      "B03_Civic": 39.226,
+      "B04_Arcade": 27.212,
+      "B05_Arcade": 22.438,
+      "B06_Civic": 36.32,
+      "B07_Civic": 41.405,
+      "B08_Arcade": 20.29,
+      "B09_Arcade": 23.87,
+      "B10_Civic": 39.226,
+      "B11_Terra": 50.779,
+      "B12_Lumen": 80.12,
+      "B13_Aurel": 64.805,
+      "B14_Civic": 30.872,
+      "B15_Terra": 50.779,
+      "B16_Terra": 58.342,
+      "B17_Lumen": 91.337,
+      "B18_Lumen": 80.12,
+      "B19_Arcade": 25.78,
+      "B20_Harbor": 90.52,
+      "B21_Library": 12.52,
+      "B22_Vela": 120.27,
+      "B23_Lumen": 91.337,
+      "B24_Arcade": 20.29,
+      "B25_Lumen": 86.53,
+      "B26_Terra": 61.583,
+      "B27_Terra": 50.779,
+      "B28_Lumen": 80.12,
+      "B29_Lumen": 91.337,
+      "B30_Terra": 45.917,
+      "B31_Terra": 54.02,
+      "B32_Lumen": 86.53,
+      "B33_Lumen": 68.102,
+      "B34_Terra": 50.779
+    }
+  },
+  "glb": {
+    "bytes": 123335756,
+    "unique_meshes": 42,
+    "placed_mesh_objects": 402,
+    "triangles": 5950512,
+    "max_bounds_difference_m": 0.0,
+    "embedded_images": 5
+  },
+  "kit_collections": [
+    "KIT_Vela",
+    "KIT_Terra",
+    "KIT_Lumen",
+    "KIT_Library",
+    "KIT_Harbor",
+    "KIT_Civic",
+    "KIT_Aurel_Office",
+    "KIT_Arcade"
+  ],
+  "errors": [],
+  "limits": [
+    "Static exterior city. New buildings use shallow window bays, not walkable complete interiors.",
+    "No engine-specific LOD, collisions, traffic simulation or FPS benchmark.",
+    "GLB glass appearance depends on importer support for KHR_materials_transmission."
+  ]
+}

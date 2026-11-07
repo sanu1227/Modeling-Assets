@@ -1,0 +1,90 @@
+{
+  "blend": "C:\\Users\\saenu\\Documents\\ChatGPT\\\ubaa8\ub378\ub9c1\\assets\\Character\\Refined_v003\\Adventurer_Refined_v003.blend",
+  "passed": true,
+  "vertices": 98292,
+  "base_triangles": 182119,
+  "bounds_min": [
+    -0.5169301629066467,
+    -0.156343474984169,
+    0.0
+  ],
+  "bounds_max": [
+    0.5169301629066467,
+    0.1551164835691452,
+    1.7397894859313965
+  ],
+  "meshes": {
+    "Body_Clothing_Tripo_Refined": {
+      "vertices": 87080,
+      "uv_layers": 1
+    },
+    "Head_Sculpted_ReferenceUV": {
+      "vertices": 4544,
+      "uv_layers": 2
+    },
+    "Eyes_ReferenceUV": {
+      "vertices": 1064,
+      "uv_layers": 2
+    },
+    "Hair_Bob01_Chestnut": {
+      "vertices": 5604,
+      "uv_layers": 1
+    }
+  },
+  "rig_added": false,
+  "retopology_performed": false,
+  "engine_tested": false,
+  "face_texture": "Approved reference front projection with side blend; painted lighting remains",
+  "neck": "Locally fitted neck join; head and body remain separately editable",
+  "neck_repair": {
+    "body_neck_vertices_inset": 1428,
+    "new_neck_faces": 200,
+    "neck_root_z": 1.425
+  },
+  "hair": "CC0 MakeHuman bob01 fitted and sculpted; alpha texture",
+  "renders": [
+    "Adventurer_Refined_Face.png",
+    "Adventurer_Refined_Face_ThreeQuarter.png",
+    "Adventurer_Refined_Face_Side.png",
+    "Adventurer_Refined_Front.png",
+    "Adventurer_Refined_Side.png"
+  ],
+  "saved_file_reopened": true,
+  "packed_images": [
+    {
+      "name": "Adventurer_Tripo_v002_basecolor.jpg",
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Adventurer_Tripo_v002_normal.png",
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Adventurer_Tripo_v002_rm.jpg",
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Approved_Front_v003_FaceProjection",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "name": "bob01_diffuse.png",
+      "size": [
+        2048,
+        2048
+      ]
+    }
+  ]
+}

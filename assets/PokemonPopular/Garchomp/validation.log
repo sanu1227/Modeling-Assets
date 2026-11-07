@@ -1,0 +1,53 @@
+00:00.734  blend            | Read blend: "C:\Users\saenu\Documents\ChatGPT\모델링\assets\PokemonPopular\Garchomp\Garchomp.blend"
+C:\Users\saenu\Documents\ChatGPT\모델링\scripts\garchomp_validate.py:75: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  for material in obj.data.materials if material and material.use_nodes
+13:51:08 | INFO: Data are loaded, start creating Blender stuff
+13:51:08 | INFO: Blender create Mesh node Continuous torso and long neck
+13:51:09 | INFO: Blender create Mesh node Sphere.004
+13:51:09 | INFO: Blender create Mesh node Sphere.003
+13:51:09 | INFO: Blender create Mesh node 06_Lower shark tooth 1_0
+13:51:09 | INFO: Blender create Mesh node 06_Lower shark tooth 1_1
+13:51:09 | INFO: Blender create Mesh node 06_Lower shark tooth 1_2
+13:51:09 | INFO: Blender create Mesh node 06_Lower shark tooth -1_0
+13:51:09 | INFO: Blender create Mesh node 06_Lower shark tooth -1_1
+13:51:09 | INFO: Blender create Mesh node 06_Lower shark tooth -1_2
+13:51:09 | INFO: Blender create Mesh node 06_Upper shark tooth 1_0
+13:51:09 | INFO: Blender create Mesh node 06_Upper shark tooth 1_1
+13:51:09 | INFO: Blender create Mesh node 06_Upper shark tooth 1_2
+13:51:09 | INFO: Blender create Mesh node 06_Upper shark tooth -1_0
+13:51:09 | INFO: Blender create Mesh node 06_Upper shark tooth -1_1
+13:51:09 | INFO: Blender create Mesh node 06_Upper shark tooth -1_2
+13:51:09 | INFO: Blender create Mesh node 08_Horn seam inner 1
+13:51:09 | INFO: Blender create Mesh node 08_Horn seam inner -1
+13:51:09 | INFO: Blender create Mesh node 08_Horn seam outer 1
+13:51:09 | INFO: Blender create Mesh node 08_Horn seam outer -1
+13:51:09 | INFO: Blender create Mesh node 09_Arm fin 1
+13:51:09 | INFO: Blender create Mesh node 09_Arm fin -1
+13:51:09 | INFO: Blender create Mesh node 10_Single scythe hand claw 1
+13:51:09 | INFO: Blender create Mesh node 10_Single scythe hand claw -1
+13:51:09 | INFO: Blender create Mesh node 11_Arm fin spine 1_0
+13:51:09 | INFO: Blender create Mesh node 11_Arm fin spine 1_1
+13:51:09 | INFO: Blender create Mesh node 11_Arm fin spine 1_2
+13:51:09 | INFO: Blender create Mesh node 11_Arm fin spine -1_0
+13:51:09 | INFO: Blender create Mesh node 11_Arm fin spine -1_1
+13:51:09 | INFO: Blender create Mesh node 11_Arm fin spine -1_2
+13:51:09 | INFO: Blender create Mesh node 11_Hip spine 1_0
+13:51:09 | INFO: Blender create Mesh node 11_Hip spine 1_1
+13:51:09 | INFO: Blender create Mesh node 11_Hip spine -1_0
+13:51:09 | INFO: Blender create Mesh node 11_Hip spine -1_1
+13:51:09 | INFO: Blender create Mesh node 12_Toe claw 1_0
+13:51:09 | INFO: Blender create Mesh node 12_Toe claw 1_1
+13:51:09 | INFO: Blender create Mesh node 12_Toe claw 1_-1
+13:51:09 | INFO: Blender create Mesh node 12_Toe claw -1_0
+13:51:09 | INFO: Blender create Mesh node 12_Toe claw -1_1
+13:51:09 | INFO: Blender create Mesh node 12_Toe claw -1_-1
+13:51:09 | INFO: Blender create Mesh node 13_Dorsal shark fin
+13:51:09 | INFO: Blender create Mesh node 14_Tail terminal fin
+13:51:09 | INFO: Blender create Mesh node 15_Tail scale ring 0
+13:51:09 | INFO: Blender create Mesh node 15_Tail scale ring 1
+13:51:09 | INFO: Blender create Mesh node 15_Tail scale ring 2
+13:51:09 | INFO: glTF import finished in 0.71s
+{"passed": true, "errors": [], "source_triangles": 457102}
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

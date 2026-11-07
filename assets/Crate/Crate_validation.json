@@ -1,0 +1,117 @@
+{
+  "blender_version": "5.2.3 LTS",
+  "creation_method": "AI-authored Blender Python; no external generative 3D service",
+  "asset_mesh_count": 1,
+  "vertices": 2704,
+  "triangles": 5192,
+  "materials": [
+    "M_Crate_Wood",
+    "M_Crate_Iron"
+  ],
+  "uv_layers": [
+    "UVMap"
+  ],
+  "dimensions_m": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "world_bounds_min_m": [
+    -0.5,
+    -0.5,
+    0.0
+  ],
+  "world_bounds_max_m": [
+    0.5,
+    0.5,
+    1.0
+  ],
+  "origin_m": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "scale": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "texture_resolution": [
+    1024,
+    1024
+  ],
+  "export_excludes_preview_objects": true,
+  "files": [
+    {
+      "path": "Crate_game.fbm\\Crate_Wood_BaseColor.png",
+      "bytes": 1430390
+    },
+    {
+      "path": "Crate_game.fbm\\Crate_Wood_Roughness.png",
+      "bytes": 842892
+    },
+    {
+      "path": "Crate_game.fbx",
+      "bytes": 112860
+    },
+    {
+      "path": "Crate_game.glb",
+      "bytes": 2590812
+    },
+    {
+      "path": "Crate_preview.png",
+      "bytes": 1275824
+    },
+    {
+      "path": "Crate_source.blend",
+      "bytes": 2355959
+    },
+    {
+      "path": "Crate_validation.json",
+      "bytes": 1585
+    },
+    {
+      "path": "Crate_work.blend",
+      "bytes": 2449408
+    },
+    {
+      "path": "creation.log",
+      "bytes": 1464
+    },
+    {
+      "path": "Textures\\Crate_Wood_BaseColor.png",
+      "bytes": 1430390
+    },
+    {
+      "path": "Textures\\Crate_Wood_Roughness.png",
+      "bytes": 842892
+    }
+  ],
+  "glb_embedded_images": 2,
+  "roundtrip": {
+    "glb": {
+      "mesh_count": 1,
+      "dimensions_m": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bottom_z_m": 0.0,
+      "uv_layers": 1,
+      "material_count": 2,
+      "passed": true
+    },
+    "fbx": {
+      "mesh_count": 1,
+      "dimensions_m": [
+        1.0,
+        1.0000001788139343,
+        1.000000200669625
+      ],
+      "bottom_z_m": -8.146033536604591e-08,
+      "uv_layers": 1,
+      "material_count": 2,
+      "passed": true
+    }
+  }
+}

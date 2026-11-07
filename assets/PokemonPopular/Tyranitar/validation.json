@@ -1,0 +1,119 @@
+{
+  "passed": true,
+  "checked_at": "2026-11-04T05:23:04.117095+00:00",
+  "blender_version": "5.2.3 LTS",
+  "source": {
+    "meshes": 47,
+    "vertices": 215778,
+    "triangles": 431368,
+    "materials": [
+      "Surface_45383E.001",
+      "Surface_93A86D.001",
+      "Surface_C88890.001",
+      "Surface_F4F0DF.001",
+      "Tyranitar_body",
+      "Tyranitar_face",
+      "Tyranitar_thigh_L",
+      "Tyranitar_thigh_R"
+    ],
+    "bounds": {
+      "min": [
+        -0.5420863628387451,
+        -0.42352941632270813,
+        0.0004003473150078207
+      ],
+      "max": [
+        0.7107669711112976,
+        1.2673134803771973,
+        2.001100540161133
+      ],
+      "size": [
+        1.2528533339500427,
+        1.6908428966999054,
+        2.000700192846125
+      ]
+    },
+    "degenerate_triangles": 0,
+    "nonfinite_objects": 0,
+    "topology_issues": [],
+    "objects_without_uv": []
+  },
+  "glb": {
+    "meshes": 47,
+    "vertices": 216120,
+    "triangles": 431368,
+    "materials": [
+      "Surface_45383E.002",
+      "Surface_93A86D.002",
+      "Surface_C88890.002",
+      "Surface_F4F0DF.002",
+      "Tyranitar_body.001",
+      "Tyranitar_face.001",
+      "Tyranitar_thigh_L.001",
+      "Tyranitar_thigh_R.001"
+    ],
+    "bounds": {
+      "min": [
+        -0.5420863628387451,
+        -0.42352941632270813,
+        0.0004003473150078207
+      ],
+      "max": [
+        0.7107669711112976,
+        1.2673134803771973,
+        2.001100540161133
+      ],
+      "size": [
+        1.2528533339500427,
+        1.6908428966999054,
+        2.000700192846125
+      ]
+    },
+    "degenerate_triangles": 0,
+    "nonfinite_objects": 0,
+    "topology_issues": [],
+    "objects_without_uv": []
+  },
+  "bounds_max_difference_m": 0.0,
+  "packed_images": [
+    {
+      "name": "Tyranitar_body.png",
+      "packed": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "Tyranitar_face.png",
+      "packed": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "Tyranitar_thigh_L.png",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Tyranitar_thigh_R.png",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "Static fan sculpture, no rig or animation",
+    "Closed mesh components overlap; not a single 3D-printable solid",
+    "Generic UV coordinates on untextured parts; no deformation topology claim",
+    "No engine runtime test"
+  ]
+}

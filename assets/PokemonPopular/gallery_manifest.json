@@ -1,0 +1,366 @@
+{
+  "built_at": "2026-11-04T06:17:15.427640+00:00",
+  "models": [
+    {
+      "name": "Greninja",
+      "korean": "개굴닌자",
+      "dex": 658,
+      "vote_2020_rank": 1,
+      "row": 0,
+      "slot": 0,
+      "source": "assets\\PokemonPopular\\Greninja\\Greninja.blend",
+      "source_sha256": "138169ed3cc5d0d9b6a346f840c46ae0fb2fce90b80ad99fbbf47c60a8ca714e",
+      "triangles": 391918,
+      "display_scale": 1.3730634658897232,
+      "display_position": [
+        -11.5,
+        0.0,
+        0.3100000023841858
+      ]
+    },
+    {
+      "name": "Lucario",
+      "korean": "루카리오",
+      "dex": 448,
+      "vote_2020_rank": 2,
+      "row": 0,
+      "slot": 1,
+      "source": "assets\\PokemonPopular\\Lucario\\Lucario.blend",
+      "source_sha256": "d06c28a763ebab8b7bd34ac0608bf863d4191c1e85a78e7fe8db0e33f56839f2",
+      "triangles": 537816,
+      "display_scale": 2.708892962714559,
+      "display_position": [
+        -6.900000095367432,
+        0.0,
+        0.3100000023841858
+      ]
+    },
+    {
+      "name": "Mimikyu",
+      "korean": "따라큐",
+      "dex": 778,
+      "vote_2020_rank": 3,
+      "row": 0,
+      "slot": 2,
+      "source": "assets\\PokemonPopular\\Mimikyu\\Mimikyu.blend",
+      "source_sha256": "cbdd8d2ac547825e23845d639a331b6dc281276207b7300d477d81f837d595f1",
+      "triangles": 224294,
+      "display_scale": 1.1670587687358622,
+      "display_position": [
+        -2.299999952316284,
+        0.0,
+        0.3100000023841858
+      ]
+    },
+    {
+      "name": "Charizard",
+      "korean": "리자몽",
+      "dex": 6,
+      "vote_2020_rank": 4,
+      "row": 0,
+      "slot": 3,
+      "source": "assets\\Charizard\\Charizard.blend",
+      "source_sha256": "c2d67c1ce50a66d43ba6f306bf9989fa070715c9d3f6e54883bcb8abf8df6244",
+      "triangles": 319768,
+      "display_scale": 1.3996386874739926,
+      "display_position": [
+        2.299999952316284,
+        0.0,
+        0.3100000023841858
+      ]
+    },
+    {
+      "name": "Umbreon",
+      "korean": "블래키",
+      "dex": 197,
+      "vote_2020_rank": 5,
+      "row": 0,
+      "slot": 4,
+      "source": "assets\\PokemonPopular\\Umbreon\\Umbreon.blend",
+      "source_sha256": "d55354d4ba20e9ca78dd4e3cf71c46b1b08ad71b14971754d8722125583f6d60",
+      "triangles": 396712,
+      "display_scale": 1.157114791592675,
+      "display_position": [
+        6.900000095367432,
+        0.0,
+        0.3100000023841858
+      ]
+    },
+    {
+      "name": "Sylveon",
+      "korean": "님피아",
+      "dex": 700,
+      "vote_2020_rank": 6,
+      "row": 0,
+      "slot": 5,
+      "source": "assets\\PokemonPopular\\Sylveon\\Sylveon.blend",
+      "source_sha256": "38314a5d43516e7aa230a39713a9bf4ee7479ef807664b322e5945c5e03bdabe",
+      "triangles": 392264,
+      "display_scale": 1.0481796268426493,
+      "display_position": [
+        11.5,
+        0.0,
+        0.3100000023841858
+      ]
+    },
+    {
+      "name": "Garchomp",
+      "korean": "한카리아스",
+      "dex": 445,
+      "vote_2020_rank": 7,
+      "row": 1,
+      "slot": 0,
+      "source": "assets\\PokemonPopular\\Garchomp\\Garchomp.blend",
+      "source_sha256": "816f91c9865e3fcef5267d3a708b3f45088a345ab40da6b513e9bf77b0d68e47",
+      "triangles": 451112,
+      "display_scale": 1.4750344504401134,
+      "display_position": [
+        -11.5,
+        6.0,
+        0.3100000023841858
+      ]
+    },
+    {
+      "name": "Rayquaza",
+      "korean": "레쿠쟈",
+      "dex": 384,
+      "vote_2020_rank": 8,
+      "row": 1,
+      "slot": 1,
+      "source": "assets\\PokemonPopular\\Rayquaza\\Rayquaza.blend",
+      "source_sha256": "950fb670404c420e55da3ce57e3c9b264b5f1e2c7084f3832359274de3f8e329",
+      "triangles": 148892,
+      "display_scale": 0.7220225835809021,
+      "display_position": [
+        -6.900000095367432,
+        6.0,
+        0.3100000023841858
+      ]
+    },
+    {
+      "name": "Gardevoir",
+      "korean": "가디안",
+      "dex": 282,
+      "vote_2020_rank": 9,
+      "row": 1,
+      "slot": 2,
+      "source": "assets\\PokemonPopular\\Gardevoir\\Gardevoir.blend",
+      "source_sha256": "408486517a33b1fb77d678228ee756fab243f2bb2fd242194ed5eb94da275d30",
+      "triangles": 807876,
+      "display_scale": 2.0312498183921144,
+      "display_position": [
+        -2.299999952316284,
+        6.0,
+        0.3100000023841858
+      ]
+    },
+    {
+      "name": "Gengar",
+      "korean": "팬텀",
+      "dex": 94,
+      "vote_2020_rank": 10,
+      "row": 1,
+      "slot": 3,
+      "source": "assets\\PokemonPopular\\Gengar\\Gengar.blend",
+      "source_sha256": "1d4fa3b35beeb4b06f04005e0d06b095c56b79a854f0f09c0fa29a2d6a136a06",
+      "triangles": 404804,
+      "display_scale": 0.9613701698103672,
+      "display_position": [
+        2.299999952316284,
+        6.0,
+        0.3100000023841858
+      ]
+    },
+    {
+      "name": "Tyranitar",
+      "korean": "마기라스",
+      "dex": 248,
+      "vote_2020_rank": 12,
+      "row": 1,
+      "slot": 4,
+      "source": "assets\\PokemonPopular\\Tyranitar\\Tyranitar.blend",
+      "source_sha256": "194608c2be58e1ce990d3937247f2eed2f7ed512e423d4a1e04877482c9eb87c",
+      "triangles": 431368,
+      "display_scale": 1.6244312578911273,
+      "display_position": [
+        6.900000095367432,
+        6.0,
+        0.3100000023841858
+      ]
+    },
+    {
+      "name": "Lugia",
+      "korean": "루기아",
+      "dex": 249,
+      "vote_2020_rank": 15,
+      "row": 1,
+      "slot": 5,
+      "source": "assets\\PokemonPopular\\Lugia\\Lugia.blend",
+      "source_sha256": "70cd49af8dd588a6cff31a07d2833921db09407c3d3a2a96679871ba97fca3de",
+      "triangles": 603192,
+      "display_scale": 0.4475206799828256,
+      "display_position": [
+        11.5,
+        6.0,
+        0.3100000023841858
+      ]
+    },
+    {
+      "name": "Pikachu",
+      "korean": "피카츄",
+      "dex": 25,
+      "vote_2020_rank": 19,
+      "row": 2,
+      "slot": 0,
+      "source": "assets\\PokemonPopular\\Pikachu\\Pikachu.blend",
+      "source_sha256": "116d8db7815fc82c6b48d444e5520aa970dea3dd7e118f8fa72a14359756933f",
+      "triangles": 342994,
+      "display_scale": 1.096890658456844,
+      "display_position": [
+        -11.5,
+        12.0,
+        0.3100000023841858
+      ]
+    },
+    {
+      "name": "Eevee",
+      "korean": "이브이",
+      "dex": 133,
+      "vote_2020_rank": 20,
+      "row": 2,
+      "slot": 1,
+      "source": "assets\\PokemonPopular\\Eevee\\Eevee.blend",
+      "source_sha256": "57c94e8d01bbc3bf3b53c3433c34d2645cac16de25727ab2f1adb0ea8e061997",
+      "triangles": 1052552,
+      "display_scale": 1.129005949617708,
+      "display_position": [
+        -6.900000095367432,
+        12.0,
+        0.3100000023841858
+      ]
+    },
+    {
+      "name": "Luxray",
+      "korean": "렌트라",
+      "dex": 405,
+      "vote_2020_rank": 21,
+      "row": 2,
+      "slot": 2,
+      "source": "assets\\PokemonPopular\\Luxray\\Luxray.blend",
+      "source_sha256": "fcaefb34d012312697a14db6ac9487c3eff5fc28dec03485f48e2281a37c1715",
+      "triangles": 1186948,
+      "display_scale": 1.0801394480348512,
+      "display_position": [
+        -2.299999952316284,
+        12.0,
+        0.3100000023841858
+      ]
+    },
+    {
+      "name": "Snom",
+      "korean": "누니머기",
+      "dex": 872,
+      "vote_2020_rank": 30,
+      "row": 2,
+      "slot": 3,
+      "source": "assets\\PokemonPopular\\Snom\\Snom.blend",
+      "source_sha256": "b63664e5ef92aa0fbebde5f93d49d34c2368db24fbc553fa23fa1b30c35391e2",
+      "triangles": 185526,
+      "display_scale": 2.162339100938163,
+      "display_position": [
+        2.299999952316284,
+        12.0,
+        0.3100000023841858
+      ]
+    },
+    {
+      "name": "Dragonite",
+      "korean": "망나뇽",
+      "dex": 149,
+      "vote_2020_rank": null,
+      "row": 2,
+      "slot": 4,
+      "source": "assets\\PokemonPopular\\Dragonite\\Dragonite.blend",
+      "source_sha256": "95625d222c190b0d3c8868081fc69a72ff39eb235db57b4debc51a041f195f7d",
+      "triangles": 812408,
+      "display_scale": 0.9703592243611455,
+      "display_position": [
+        6.900000095367432,
+        12.0,
+        0.3100000023841858
+      ]
+    },
+    {
+      "name": "Mewtwo",
+      "korean": "뮤츠",
+      "dex": 150,
+      "vote_2020_rank": null,
+      "row": 2,
+      "slot": 5,
+      "source": "assets\\PokemonPopular\\Mewtwo\\Mewtwo.blend",
+      "source_sha256": "a90472d5f57a914d3035444cee82547e012857069e2693e44c8632112d8d33d3",
+      "triangles": 770922,
+      "display_scale": 0.7576679802220775,
+      "display_position": [
+        11.5,
+        12.0,
+        0.3100000023841858
+      ]
+    },
+    {
+      "name": "Snorlax",
+      "korean": "잠만보",
+      "dex": 143,
+      "vote_2020_rank": null,
+      "row": 3,
+      "slot": 0,
+      "source": "assets\\PokemonPopular\\Snorlax\\Snorlax.blend",
+      "source_sha256": "a0ea1225503275926295dd01442c56d63ac6662c6ba1e7eb2f9a2cbfb2d59680",
+      "triangles": 365712,
+      "display_scale": 0.9721226526791737,
+      "display_position": [
+        -4.599999904632568,
+        18.0,
+        0.3100000023841858
+      ]
+    },
+    {
+      "name": "Mew",
+      "korean": "뮤",
+      "dex": 151,
+      "vote_2020_rank": null,
+      "row": 3,
+      "slot": 1,
+      "source": "assets\\PokemonPopular\\Mew\\Mew.blend",
+      "source_sha256": "a9085940f59054d3209764ce783a9eec3e4a8fb5d7d08eb05cb5df8f91c70ca0",
+      "triangles": 304552,
+      "display_scale": 1.0656318475789033,
+      "display_position": [
+        0.0,
+        18.0,
+        0.3100000023841858
+      ]
+    },
+    {
+      "name": "Chandelure",
+      "korean": "샹델라",
+      "dex": 609,
+      "vote_2020_rank": 18,
+      "row": 3,
+      "slot": 2,
+      "source": "assets\\PokemonPopular\\Chandelure\\Chandelure.blend",
+      "source_sha256": "457762b3c365c88fe9456f8859d11a3214f4491c30860a45792dadcdcaa79e17",
+      "triangles": 94552,
+      "display_scale": 1.0968279063712147,
+      "display_position": [
+        4.599999904632568,
+        18.0,
+        0.3100000023841858
+      ]
+    }
+  ],
+  "count": 21,
+  "total_triangles": 10226182,
+  "original_source_files_modified": false,
+  "note": "Native sources appended; each display normalized independently; no rigs or animations."
+}

@@ -1,0 +1,95 @@
+{
+  "passed": true,
+  "source": {
+    "objects": 3119,
+    "triangles": 826826,
+    "materials": 27,
+    "bounds_m": {
+      "min": [
+        -42.02704849080419,
+        -9.36456945668786,
+        -4.759253025054932
+      ],
+      "max": [
+        28.87964329019166,
+        9.364571174288159,
+        44.43000076711178
+      ],
+      "size": [
+        70.90669178099586,
+        18.72914063097602,
+        49.18925379216671
+      ]
+    },
+    "degenerate_triangles": [],
+    "nonmanifold_edges": [],
+    "inconsistent_winding": [],
+    "packed_images": 12,
+    "cannons": 48,
+    "sails": 9,
+    "masts": 3
+  },
+  "glb": {
+    "objects": 9,
+    "triangles": 826826,
+    "materials": 27,
+    "bounds_m": {
+      "min": [
+        -42.02705001831055,
+        -9.364569664001465,
+        -4.759253025054932
+      ],
+      "max": [
+        28.8796443939209,
+        9.364571571350098,
+        44.43000030517578
+      ],
+      "size": [
+        70.90669441223145,
+        18.729141235351562,
+        49.18925333023071
+      ]
+    },
+    "degenerate_triangles": [],
+    "nonmanifold_edges": [],
+    "inconsistent_winding": [],
+    "max_bounds_difference_m": 1.5275063560693525e-06,
+    "embedded_images": 15,
+    "file_bytes": 36890940
+  },
+  "renders": {
+    "hero.png": [
+      1800,
+      1300
+    ],
+    "stern_detail.png": [
+      1600,
+      1200
+    ],
+    "deck_detail.png": [
+      1600,
+      1200
+    ],
+    "profile.png": [
+      1900,
+      1200
+    ],
+    "figurehead_detail.png": [
+      1400,
+      1200
+    ],
+    "figurehead_front.png": [
+      1400,
+      1400
+    ]
+  },
+  "errors": [],
+  "warnings": [],
+  "limits": [
+    "Static exterior and exposed decks; no walkable cabin interior or sailing simulation.",
+    "Independent closed parts overlap intentionally; not a single watertight union.",
+    "Tiled UVs; no lightmap UV, engine LOD, collision or runtime performance test.",
+    "Base color images embedded in GLB; Blender procedural micro-bump is not baked.",
+    "Presentation water is static and excluded from GLB."
+  ]
+}

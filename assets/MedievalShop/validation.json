@@ -1,0 +1,62 @@
+{
+  "passed": true,
+  "source": {
+    "mesh_objects": 1600,
+    "unique_base_meshes": 376,
+    "linked_mesh_instances_saved": 1224,
+    "evaluated_triangles": 167792,
+    "materials": 21,
+    "packed_base_color_images": 13,
+    "bounds_m": {
+      "min": [
+        -4.519999980926514,
+        -4.416999816894531,
+        0.0
+      ],
+      "max": [
+        5.440386772155762,
+        3.429999828338623,
+        10.310999870300293
+      ],
+      "size": [
+        9.960386753082275,
+        7.846999645233154,
+        10.310999870300293
+      ]
+    },
+    "degenerate_faces": 0,
+    "nonmanifold_edges": 0,
+    "inconsistent_normal_edges": 0
+  },
+  "glb": {
+    "mesh_objects": 6,
+    "triangles": 167792,
+    "bounds_m": {
+      "min": [
+        -4.520000457763672,
+        -4.416999816894531,
+        0.0
+      ],
+      "max": [
+        5.440386772155762,
+        3.429999828338623,
+        10.31100082397461
+      ],
+      "size": [
+        9.960387229919434,
+        7.846999645233154,
+        10.31100082397461
+      ]
+    },
+    "max_bounds_difference_m": 9.5367431640625e-07,
+    "embedded_images": 13,
+    "file_bytes": 17659780
+  },
+  "errors": [],
+  "limits": [
+    "Exterior only; no interiors or architectural construction validation.",
+    "Tiled surface UVs; no lightmap UV, LOD, collision, engine runtime test.",
+    "GLB base color/metallic/roughness exported; Blender bump not baked.",
+    "Separate intersecting closed parts are intentional; no watertight union claim."
+  ]
+}

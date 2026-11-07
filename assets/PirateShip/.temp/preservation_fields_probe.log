@@ -1,0 +1,190 @@
+00:01.953  blend            | Read blend: "C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\Revisions\Skull_v01\BlackOath.blend"
+00:02.984  blend            | Read blend: "C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\BlackOath.blend"
+00:04.000  blend            | Read blend: "C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\Revisions\Skull_v01\BlackOath.blend"
+00:05.094  blend            | Read blend: "C:\Users\saenu\Documents\ChatGPT\모델링\assets\PirateShip\BlackOath.blend"
+{
+  "changed_objects": 217,
+  "different_fields": {
+    "evaluated:uv:SurfaceUV": 217
+  },
+  "all_base_data_exact": true,
+  "all_oriented_topology_equal": true,
+  "all_corresponding_uv_numeric_equal": false,
+  "max_corresponding_uv_abs_difference": 2.384185791015625e-07,
+  "max_uv_ulp": 1,
+  "all_modifier_properties_equal": true,
+  "same_file_repeat_differences": {
+    "original": [],
+    "current": []
+  }
+}
+[
+  {
+    "name": "Main_deck_rail_baluster.001",
+    "modifiers": [
+      [
+        "Small edge wear",
+        "BEVEL"
+      ]
+    ],
+    "modifier_list_equal": true,
+    "fields": {
+      "evaluated:uv:SurfaceUV": {
+        "unequal_values": 16,
+        "unequal_bytes": 16,
+        "max_abs": 2.9802322387695312e-08,
+        "examples": [
+          [
+            3,
+            -0.3591000437736511,
+            -0.35910001397132874
+          ],
+          [
+            15,
+            -0.3591000437736511,
+            -0.35910001397132874
+          ],
+          [
+            51,
+            -0.3591000437736511,
+            -0.35910001397132874
+          ],
+          [
+            63,
+            -0.3591000437736511,
+            -0.35910001397132874
+          ],
+          [
+            99,
+            0.3590998649597168,
+            0.3590998947620392
+          ],
+          [
+            111,
+            0.3590998649597168,
+            0.3590998947620392
+          ]
+        ],
+        "max_ulp": 1
+      }
+    },
+    "base_exact": true,
+    "modifier_properties_equal": true,
+    "oriented_face_topology_equal": true,
+    "uv_delta_by_corresponding_corner": 2.9802322387695312e-08,
+    "uv_numeric_equal": false
+  },
+  {
+    "name": "Main_deck_rail_baluster.005",
+    "modifiers": [
+      [
+        "Small edge wear",
+        "BEVEL"
+      ]
+    ],
+    "modifier_list_equal": true,
+    "fields": {
+      "evaluated:uv:SurfaceUV": {
+        "unequal_values": 16,
+        "unequal_bytes": 16,
+        "max_abs": 2.9802322387695312e-08,
+        "examples": [
+          [
+            3,
+            -0.3591000437736511,
+            -0.35910001397132874
+          ],
+          [
+            15,
+            -0.3591000437736511,
+            -0.35910001397132874
+          ],
+          [
+            51,
+            -0.3591000437736511,
+            -0.35910001397132874
+          ],
+          [
+            63,
+            -0.3591000437736511,
+            -0.35910001397132874
+          ],
+          [
+            99,
+            0.3590998649597168,
+            0.3590998947620392
+          ],
+          [
+            111,
+            0.3590998649597168,
+            0.3590998947620392
+          ]
+        ],
+        "max_ulp": 1
+      }
+    },
+    "base_exact": true,
+    "modifier_properties_equal": true,
+    "oriented_face_topology_equal": true,
+    "uv_delta_by_corresponding_corner": 2.9802322387695312e-08,
+    "uv_numeric_equal": false
+  },
+  {
+    "name": "Main_deck_rail_baluster.009",
+    "modifiers": [
+      [
+        "Small edge wear",
+        "BEVEL"
+      ]
+    ],
+    "modifier_list_equal": true,
+    "fields": {
+      "evaluated:uv:SurfaceUV": {
+        "unequal_values": 16,
+        "unequal_bytes": 16,
+        "max_abs": 2.9802322387695312e-08,
+        "examples": [
+          [
+            3,
+            -0.3591000437736511,
+            -0.35910001397132874
+          ],
+          [
+            15,
+            -0.3591000437736511,
+            -0.35910001397132874
+          ],
+          [
+            51,
+            -0.3591000437736511,
+            -0.35910001397132874
+          ],
+          [
+            63,
+            -0.3591000437736511,
+            -0.35910001397132874
+          ],
+          [
+            99,
+            0.3590998649597168,
+            0.3590998947620392
+          ],
+          [
+            111,
+            0.3590998649597168,
+            0.3590998947620392
+          ]
+        ],
+        "max_ulp": 1
+      }
+    },
+    "base_exact": true,
+    "modifier_properties_equal": true,
+    "oriented_face_topology_equal": true,
+    "uv_delta_by_corresponding_corner": 2.9802322387695312e-08,
+    "uv_numeric_equal": false
+  }
+]
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

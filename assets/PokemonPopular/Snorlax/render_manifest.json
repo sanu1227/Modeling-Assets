@@ -1,0 +1,18 @@
+{
+  "source_sha256": "a0ea1225503275926295dd01442c56d63ac6662c6ba1e7eb2f9a2cbfb2d59680",
+  "source": "Snorlax.blend",
+  "rendered_at": "2026-11-04T06:23:16.104574+00:00",
+  "views": [
+    "hero",
+    "front",
+    "side",
+    "back",
+    "clay"
+  ],
+  "draft": false,
+  "pixels": [
+    1400,
+    1400
+  ],
+  "samples": 48
+}

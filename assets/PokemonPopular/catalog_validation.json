@@ -1,0 +1,1707 @@
+{
+  "passed": true,
+  "checked_at": "2026-11-04T06:29:10.004360+00:00",
+  "new_models": 20,
+  "gallery_models": 21,
+  "models": [
+    {
+      "name": "Greninja",
+      "korean": "개굴닌자",
+      "dex": 658,
+      "vote_2020_rank": 1,
+      "errors": [],
+      "source": "assets\\PokemonPopular\\Greninja\\Greninja.blend",
+      "source_sha256": "138169ed3cc5d0d9b6a346f840c46ae0fb2fce90b80ad99fbbf47c60a8ca714e",
+      "source_bytes": 10968907,
+      "embedded_images": 2,
+      "glb_meshes": 41,
+      "glb_sha256": "aeecd2618191a3f1b894050a46daf992d1da6b5d126b0989c231576e33ad40bb",
+      "glb_bytes": 11054660,
+      "geometry_passed": true,
+      "renders": [
+        {
+          "view": "hero",
+          "path": "assets\\PokemonPopular\\Greninja\\renders\\preview.png",
+          "pixels": [
+            1600,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "front",
+          "path": "assets\\PokemonPopular\\Greninja\\renders\\front.png",
+          "pixels": [
+            1600,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "side",
+          "path": "assets\\PokemonPopular\\Greninja\\renders\\side.png",
+          "pixels": [
+            1600,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "back",
+          "path": "assets\\PokemonPopular\\Greninja\\renders\\back.png",
+          "pixels": [
+            1600,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "clay",
+          "path": "assets\\PokemonPopular\\Greninja\\renders\\clay.png",
+          "pixels": [
+            1600,
+            1600
+          ],
+          "fresh": true
+        }
+      ]
+    },
+    {
+      "name": "Lucario",
+      "korean": "루카리오",
+      "dex": 448,
+      "vote_2020_rank": 2,
+      "errors": [],
+      "source": "assets\\PokemonPopular\\Lucario\\Lucario.blend",
+      "source_sha256": "d06c28a763ebab8b7bd34ac0608bf863d4191c1e85a78e7fe8db0e33f56839f2",
+      "source_bytes": 11981088,
+      "embedded_images": 1,
+      "glb_meshes": 33,
+      "glb_sha256": "0507f7118446f5ec5aebd41a8bb620274c542e5e7a224c57a713c3a8de848476",
+      "glb_bytes": 11773952,
+      "geometry_passed": true,
+      "renders": [
+        {
+          "view": "hero",
+          "path": "assets\\PokemonPopular\\Lucario\\renders\\Lucario_preview.png",
+          "pixels": [
+            1400,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "front",
+          "path": "assets\\PokemonPopular\\Lucario\\renders\\Lucario_front.png",
+          "pixels": [
+            1400,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "side",
+          "path": "assets\\PokemonPopular\\Lucario\\renders\\Lucario_side.png",
+          "pixels": [
+            1400,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "back",
+          "path": "assets\\PokemonPopular\\Lucario\\renders\\Lucario_back.png",
+          "pixels": [
+            1400,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "clay",
+          "path": "assets\\PokemonPopular\\Lucario\\renders\\Lucario_clay.png",
+          "pixels": [
+            1400,
+            1600
+          ],
+          "fresh": true
+        }
+      ]
+    },
+    {
+      "name": "Mimikyu",
+      "korean": "따라큐",
+      "dex": 778,
+      "vote_2020_rank": 3,
+      "errors": [],
+      "source": "assets\\PokemonPopular\\Mimikyu\\Mimikyu.blend",
+      "source_sha256": "cbdd8d2ac547825e23845d639a331b6dc281276207b7300d477d81f837d595f1",
+      "source_bytes": 5961219,
+      "embedded_images": 2,
+      "glb_meshes": 8,
+      "glb_sha256": "43883aed2a5cc4e9c2564dabfb3a1f7f15ae497b5bd1acbfadd54f0e4aaed592",
+      "glb_bytes": 6638744,
+      "geometry_passed": true,
+      "renders": [
+        {
+          "view": "hero",
+          "path": "assets\\PokemonPopular\\Mimikyu\\renders\\hero.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "front",
+          "path": "assets\\PokemonPopular\\Mimikyu\\renders\\front.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "side",
+          "path": "assets\\PokemonPopular\\Mimikyu\\renders\\side.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "back",
+          "path": "assets\\PokemonPopular\\Mimikyu\\renders\\back.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "clay",
+          "path": "assets\\PokemonPopular\\Mimikyu\\renders\\clay.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        }
+      ]
+    },
+    {
+      "name": "Charizard",
+      "korean": "리자몽",
+      "dex": 6,
+      "vote_2020_rank": 4,
+      "errors": [],
+      "source": "assets\\Charizard\\Charizard.blend",
+      "source_sha256": "c2d67c1ce50a66d43ba6f306bf9989fa070715c9d3f6e54883bcb8abf8df6244",
+      "source_bytes": 5066921,
+      "embedded_images": 1,
+      "glb_meshes": 52,
+      "glb_sha256": "d2815c31942dfc88e69d49279acf71e101dfec240b6112c89cda74dcc38fbaca",
+      "glb_bytes": 6868596,
+      "geometry_passed": true,
+      "renders": [
+        {
+          "view": "hero",
+          "path": "assets\\Charizard\\Charizard_preview.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "front",
+          "path": "assets\\Charizard\\Charizard_front.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "back",
+          "path": "assets\\Charizard\\Charizard_back.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "clay",
+          "path": "assets\\Charizard\\Charizard_clay.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        }
+      ]
+    },
+    {
+      "name": "Umbreon",
+      "korean": "블래키",
+      "dex": 197,
+      "vote_2020_rank": 5,
+      "errors": [],
+      "source": "assets\\PokemonPopular\\Umbreon\\Umbreon.blend",
+      "source_sha256": "d55354d4ba20e9ca78dd4e3cf71c46b1b08ad71b14971754d8722125583f6d60",
+      "source_bytes": 8874020,
+      "embedded_images": 0,
+      "glb_meshes": 23,
+      "glb_sha256": "3fe80b062459b936f24a8f7c440c4b4a7e357b97b16f08359f5fae7629400908",
+      "glb_bytes": 11053692,
+      "geometry_passed": true,
+      "renders": [
+        {
+          "view": "hero",
+          "path": "assets\\PokemonPopular\\Umbreon\\renders\\hero.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        },
+        {
+          "view": "front",
+          "path": "assets\\PokemonPopular\\Umbreon\\renders\\front.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        },
+        {
+          "view": "side",
+          "path": "assets\\PokemonPopular\\Umbreon\\renders\\side.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        },
+        {
+          "view": "back",
+          "path": "assets\\PokemonPopular\\Umbreon\\renders\\back.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        },
+        {
+          "view": "clay",
+          "path": "assets\\PokemonPopular\\Umbreon\\renders\\clay.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        }
+      ]
+    },
+    {
+      "name": "Sylveon",
+      "korean": "님피아",
+      "dex": 700,
+      "vote_2020_rank": 6,
+      "errors": [],
+      "source": "assets\\PokemonPopular\\Sylveon\\Sylveon.blend",
+      "source_sha256": "38314a5d43516e7aa230a39713a9bf4ee7479ef807664b322e5945c5e03bdabe",
+      "source_bytes": 8077580,
+      "embedded_images": 1,
+      "glb_meshes": 38,
+      "glb_sha256": "a134b54fbbbe9a1a9c7efe60814b59395e43413dff1382eed91c18d9320b05e4",
+      "glb_bytes": 10586480,
+      "geometry_passed": true,
+      "renders": [
+        {
+          "view": "hero",
+          "path": "assets\\PokemonPopular\\Sylveon\\renders\\hero.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        },
+        {
+          "view": "front",
+          "path": "assets\\PokemonPopular\\Sylveon\\renders\\front.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        },
+        {
+          "view": "side",
+          "path": "assets\\PokemonPopular\\Sylveon\\renders\\side.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        },
+        {
+          "view": "back",
+          "path": "assets\\PokemonPopular\\Sylveon\\renders\\back.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        },
+        {
+          "view": "clay",
+          "path": "assets\\PokemonPopular\\Sylveon\\renders\\clay.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        }
+      ]
+    },
+    {
+      "name": "Garchomp",
+      "korean": "한카리아스",
+      "dex": 445,
+      "vote_2020_rank": 7,
+      "errors": [],
+      "source": "assets\\PokemonPopular\\Garchomp\\Garchomp.blend",
+      "source_sha256": "816f91c9865e3fcef5267d3a708b3f45088a345ab40da6b513e9bf77b0d68e47",
+      "source_bytes": 15342223,
+      "embedded_images": 2,
+      "glb_meshes": 44,
+      "glb_sha256": "cf42bc44d8f137127db3995c5d88e6a42706923484bb1a0c46d7b85f5ece78e8",
+      "glb_bytes": 14385696,
+      "geometry_passed": true,
+      "renders": [
+        {
+          "view": "hero",
+          "path": "assets\\PokemonPopular\\Garchomp\\renders\\preview.png",
+          "pixels": [
+            1600,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "front",
+          "path": "assets\\PokemonPopular\\Garchomp\\renders\\front.png",
+          "pixels": [
+            1600,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "side",
+          "path": "assets\\PokemonPopular\\Garchomp\\renders\\side.png",
+          "pixels": [
+            1600,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "back",
+          "path": "assets\\PokemonPopular\\Garchomp\\renders\\back.png",
+          "pixels": [
+            1600,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "clay",
+          "path": "assets\\PokemonPopular\\Garchomp\\renders\\clay.png",
+          "pixels": [
+            1600,
+            1600
+          ],
+          "fresh": true
+        }
+      ]
+    },
+    {
+      "name": "Rayquaza",
+      "korean": "레쿠쟈",
+      "dex": 384,
+      "vote_2020_rank": 8,
+      "errors": [],
+      "source": "assets\\PokemonPopular\\Rayquaza\\Rayquaza.blend",
+      "source_sha256": "950fb670404c420e55da3ce57e3c9b264b5f1e2c7084f3832359274de3f8e329",
+      "source_bytes": 2891001,
+      "embedded_images": 1,
+      "glb_meshes": 55,
+      "glb_sha256": "d9939a0894495e2886e98e876569450a9b23a81bc8d043fee8fb3c279057205d",
+      "glb_bytes": 3485580,
+      "geometry_passed": true,
+      "renders": [
+        {
+          "view": "hero",
+          "path": "assets\\PokemonPopular\\Rayquaza\\renders\\hero.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "front",
+          "path": "assets\\PokemonPopular\\Rayquaza\\renders\\front.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "side",
+          "path": "assets\\PokemonPopular\\Rayquaza\\renders\\side.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "back",
+          "path": "assets\\PokemonPopular\\Rayquaza\\renders\\back.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "clay",
+          "path": "assets\\PokemonPopular\\Rayquaza\\renders\\clay.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        }
+      ]
+    },
+    {
+      "name": "Gardevoir",
+      "korean": "가디안",
+      "dex": 282,
+      "vote_2020_rank": 9,
+      "errors": [],
+      "source": "assets\\PokemonPopular\\Gardevoir\\Gardevoir.blend",
+      "source_sha256": "408486517a33b1fb77d678228ee756fab243f2bb2fd242194ed5eb94da275d30",
+      "source_bytes": 18595493,
+      "embedded_images": 1,
+      "glb_meshes": 18,
+      "glb_sha256": "7e65d86a4676aee91decaf863c5cd7e1fcdf754234cbf37eb1fe5d7421601c56",
+      "glb_bytes": 21448952,
+      "geometry_passed": true,
+      "renders": [
+        {
+          "view": "hero",
+          "path": "assets\\PokemonPopular\\Gardevoir\\renders\\Gardevoir_preview.png",
+          "pixels": [
+            1400,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "front",
+          "path": "assets\\PokemonPopular\\Gardevoir\\renders\\Gardevoir_front.png",
+          "pixels": [
+            1400,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "side",
+          "path": "assets\\PokemonPopular\\Gardevoir\\renders\\Gardevoir_side.png",
+          "pixels": [
+            1400,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "back",
+          "path": "assets\\PokemonPopular\\Gardevoir\\renders\\Gardevoir_back.png",
+          "pixels": [
+            1400,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "clay",
+          "path": "assets\\PokemonPopular\\Gardevoir\\renders\\Gardevoir_clay.png",
+          "pixels": [
+            1400,
+            1600
+          ],
+          "fresh": true
+        }
+      ]
+    },
+    {
+      "name": "Gengar",
+      "korean": "팬텀",
+      "dex": 94,
+      "vote_2020_rank": 10,
+      "errors": [],
+      "source": "assets\\PokemonPopular\\Gengar\\Gengar.blend",
+      "source_sha256": "1d4fa3b35beeb4b06f04005e0d06b095c56b79a854f0f09c0fa29a2d6a136a06",
+      "source_bytes": 10259339,
+      "embedded_images": 1,
+      "glb_meshes": 1,
+      "glb_sha256": "d043500ca46d6bdb8331227ef938230da4fef10a59e5e2f2207c16aa03749bb0",
+      "glb_bytes": 11731852,
+      "geometry_passed": true,
+      "renders": [
+        {
+          "view": "hero",
+          "path": "assets\\PokemonPopular\\Gengar\\renders\\hero.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "front",
+          "path": "assets\\PokemonPopular\\Gengar\\renders\\front.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "side",
+          "path": "assets\\PokemonPopular\\Gengar\\renders\\side.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "back",
+          "path": "assets\\PokemonPopular\\Gengar\\renders\\back.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "clay",
+          "path": "assets\\PokemonPopular\\Gengar\\renders\\clay.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        }
+      ]
+    },
+    {
+      "name": "Tyranitar",
+      "korean": "마기라스",
+      "dex": 248,
+      "vote_2020_rank": 12,
+      "errors": [],
+      "source": "assets\\PokemonPopular\\Tyranitar\\Tyranitar.blend",
+      "source_sha256": "194608c2be58e1ce990d3937247f2eed2f7ed512e423d4a1e04877482c9eb87c",
+      "source_bytes": 9628321,
+      "embedded_images": 4,
+      "glb_meshes": 47,
+      "glb_sha256": "d6b1867b2fdb97534f390187988d591d441ffa5998af44dd600277478e4c2011",
+      "glb_bytes": 9574352,
+      "geometry_passed": true,
+      "renders": [
+        {
+          "view": "hero",
+          "path": "assets\\PokemonPopular\\Tyranitar\\renders\\Tyranitar_preview.png",
+          "pixels": [
+            1600,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "front",
+          "path": "assets\\PokemonPopular\\Tyranitar\\renders\\Tyranitar_front.png",
+          "pixels": [
+            1600,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "side",
+          "path": "assets\\PokemonPopular\\Tyranitar\\renders\\Tyranitar_side.png",
+          "pixels": [
+            1600,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "back",
+          "path": "assets\\PokemonPopular\\Tyranitar\\renders\\Tyranitar_back.png",
+          "pixels": [
+            1600,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "clay",
+          "path": "assets\\PokemonPopular\\Tyranitar\\renders\\Tyranitar_clay.png",
+          "pixels": [
+            1600,
+            1600
+          ],
+          "fresh": true
+        }
+      ]
+    },
+    {
+      "name": "Lugia",
+      "korean": "루기아",
+      "dex": 249,
+      "vote_2020_rank": 15,
+      "errors": [],
+      "source": "assets\\PokemonPopular\\Lugia\\Lugia.blend",
+      "source_sha256": "70cd49af8dd588a6cff31a07d2833921db09407c3d3a2a96679871ba97fca3de",
+      "source_bytes": 15848116,
+      "embedded_images": 2,
+      "glb_meshes": 22,
+      "glb_sha256": "9a483cade95563834a8eb81da463df37e367a285a6d152e519997aa628755cea",
+      "glb_bytes": 16089976,
+      "geometry_passed": true,
+      "renders": [
+        {
+          "view": "hero",
+          "path": "assets\\PokemonPopular\\Lugia\\renders\\preview.png",
+          "pixels": [
+            1600,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "front",
+          "path": "assets\\PokemonPopular\\Lugia\\renders\\front.png",
+          "pixels": [
+            1600,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "side",
+          "path": "assets\\PokemonPopular\\Lugia\\renders\\side.png",
+          "pixels": [
+            1600,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "back",
+          "path": "assets\\PokemonPopular\\Lugia\\renders\\back.png",
+          "pixels": [
+            1600,
+            1600
+          ],
+          "fresh": true
+        },
+        {
+          "view": "clay",
+          "path": "assets\\PokemonPopular\\Lugia\\renders\\clay.png",
+          "pixels": [
+            1600,
+            1600
+          ],
+          "fresh": true
+        }
+      ]
+    },
+    {
+      "name": "Pikachu",
+      "korean": "피카츄",
+      "dex": 25,
+      "vote_2020_rank": 19,
+      "errors": [],
+      "source": "assets\\PokemonPopular\\Pikachu\\Pikachu.blend",
+      "source_sha256": "116d8db7815fc82c6b48d444e5520aa970dea3dd7e118f8fa72a14359756933f",
+      "source_bytes": 10489086,
+      "embedded_images": 1,
+      "glb_meshes": 3,
+      "glb_sha256": "aa48fcbb79b426b1338441bcf06ca668c27573dcd16d7f10cb9d239ed6219813",
+      "glb_bytes": 9949336,
+      "geometry_passed": true,
+      "renders": [
+        {
+          "view": "hero",
+          "path": "assets\\PokemonPopular\\Pikachu\\renders\\hero.png",
+          "pixels": [
+            1400,
+            1400
+          ],
+          "fresh": true
+        },
+        {
+          "view": "front",
+          "path": "assets\\PokemonPopular\\Pikachu\\renders\\front.png",
+          "pixels": [
+            1400,
+            1400
+          ],
+          "fresh": true
+        },
+        {
+          "view": "side",
+          "path": "assets\\PokemonPopular\\Pikachu\\renders\\side.png",
+          "pixels": [
+            1400,
+            1400
+          ],
+          "fresh": true
+        },
+        {
+          "view": "back",
+          "path": "assets\\PokemonPopular\\Pikachu\\renders\\back.png",
+          "pixels": [
+            1400,
+            1400
+          ],
+          "fresh": true
+        },
+        {
+          "view": "clay",
+          "path": "assets\\PokemonPopular\\Pikachu\\renders\\clay.png",
+          "pixels": [
+            1400,
+            1400
+          ],
+          "fresh": true
+        }
+      ]
+    },
+    {
+      "name": "Eevee",
+      "korean": "이브이",
+      "dex": 133,
+      "vote_2020_rank": 20,
+      "errors": [],
+      "source": "assets\\PokemonPopular\\Eevee\\Eevee.blend",
+      "source_sha256": "57c94e8d01bbc3bf3b53c3433c34d2645cac16de25727ab2f1adb0ea8e061997",
+      "source_bytes": 24435661,
+      "embedded_images": 1,
+      "glb_meshes": 23,
+      "glb_sha256": "7fbf3154a4f354718b4c09f69f1895d93737335582f3df69db00728c7211174b",
+      "glb_bytes": 29513288,
+      "geometry_passed": true,
+      "renders": [
+        {
+          "view": "hero",
+          "path": "assets\\PokemonPopular\\Eevee\\renders\\hero.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        },
+        {
+          "view": "front",
+          "path": "assets\\PokemonPopular\\Eevee\\renders\\front.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        },
+        {
+          "view": "side",
+          "path": "assets\\PokemonPopular\\Eevee\\renders\\side.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        },
+        {
+          "view": "back",
+          "path": "assets\\PokemonPopular\\Eevee\\renders\\back.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        },
+        {
+          "view": "clay",
+          "path": "assets\\PokemonPopular\\Eevee\\renders\\clay.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        }
+      ]
+    },
+    {
+      "name": "Luxray",
+      "korean": "렌트라",
+      "dex": 405,
+      "vote_2020_rank": 21,
+      "errors": [],
+      "source": "assets\\PokemonPopular\\Luxray\\Luxray.blend",
+      "source_sha256": "fcaefb34d012312697a14db6ac9487c3eff5fc28dec03485f48e2281a37c1715",
+      "source_bytes": 27306752,
+      "embedded_images": 0,
+      "glb_meshes": 40,
+      "glb_sha256": "128c42c6641b06199b823ac82bc0daf20db156edf16eb6abe66294b6fadbbd99",
+      "glb_bytes": 32208204,
+      "geometry_passed": true,
+      "renders": [
+        {
+          "view": "hero",
+          "path": "assets\\PokemonPopular\\Luxray\\renders\\hero.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        },
+        {
+          "view": "front",
+          "path": "assets\\PokemonPopular\\Luxray\\renders\\front.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        },
+        {
+          "view": "side",
+          "path": "assets\\PokemonPopular\\Luxray\\renders\\side.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        },
+        {
+          "view": "back",
+          "path": "assets\\PokemonPopular\\Luxray\\renders\\back.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        },
+        {
+          "view": "clay",
+          "path": "assets\\PokemonPopular\\Luxray\\renders\\clay.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        }
+      ]
+    },
+    {
+      "name": "Snom",
+      "korean": "누니머기",
+      "dex": 872,
+      "vote_2020_rank": 30,
+      "errors": [],
+      "source": "assets\\PokemonPopular\\Snom\\Snom.blend",
+      "source_sha256": "b63664e5ef92aa0fbebde5f93d49d34c2368db24fbc553fa23fa1b30c35391e2",
+      "source_bytes": 4605760,
+      "embedded_images": 0,
+      "glb_meshes": 19,
+      "glb_sha256": "5004d62b81addc6a22bf4361921a8052cdae66f56a0b55522d9b8f3901ca710a",
+      "glb_bytes": 4052880,
+      "geometry_passed": true,
+      "renders": [
+        {
+          "view": "hero",
+          "path": "assets\\PokemonPopular\\Snom\\renders\\hero.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "front",
+          "path": "assets\\PokemonPopular\\Snom\\renders\\front.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "side",
+          "path": "assets\\PokemonPopular\\Snom\\renders\\side.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "back",
+          "path": "assets\\PokemonPopular\\Snom\\renders\\back.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "clay",
+          "path": "assets\\PokemonPopular\\Snom\\renders\\clay.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        }
+      ]
+    },
+    {
+      "name": "Dragonite",
+      "korean": "망나뇽",
+      "dex": 149,
+      "vote_2020_rank": null,
+      "errors": [],
+      "source": "assets\\PokemonPopular\\Dragonite\\Dragonite.blend",
+      "source_sha256": "95625d222c190b0d3c8868081fc69a72ff39eb235db57b4debc51a041f195f7d",
+      "source_bytes": 18236253,
+      "embedded_images": 1,
+      "glb_meshes": 36,
+      "glb_sha256": "8760ea8ecba51dd30c6a1b56206dff6e819349ebbc22c4236b8dcf2ba1fc6878",
+      "glb_bytes": 21326284,
+      "geometry_passed": true,
+      "renders": [
+        {
+          "view": "hero",
+          "path": "assets\\PokemonPopular\\Dragonite\\renders\\hero.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        },
+        {
+          "view": "front",
+          "path": "assets\\PokemonPopular\\Dragonite\\renders\\front.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        },
+        {
+          "view": "side",
+          "path": "assets\\PokemonPopular\\Dragonite\\renders\\side.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        },
+        {
+          "view": "back",
+          "path": "assets\\PokemonPopular\\Dragonite\\renders\\back.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        },
+        {
+          "view": "clay",
+          "path": "assets\\PokemonPopular\\Dragonite\\renders\\clay.png",
+          "pixels": [
+            1000,
+            1100
+          ],
+          "fresh": true
+        }
+      ]
+    },
+    {
+      "name": "Mewtwo",
+      "korean": "뮤츠",
+      "dex": 150,
+      "vote_2020_rank": null,
+      "errors": [],
+      "source": "assets\\PokemonPopular\\Mewtwo\\Mewtwo.blend",
+      "source_sha256": "a90472d5f57a914d3035444cee82547e012857069e2693e44c8632112d8d33d3",
+      "source_bytes": 22344463,
+      "embedded_images": 1,
+      "glb_meshes": 17,
+      "glb_sha256": "e656e79741faeac7b775b9a09bcde19c9672d2c9532003619736b1ea699bbe39",
+      "glb_bytes": 21032044,
+      "geometry_passed": true,
+      "renders": [
+        {
+          "view": "hero",
+          "path": "assets\\PokemonPopular\\Mewtwo\\renders\\hero.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "front",
+          "path": "assets\\PokemonPopular\\Mewtwo\\renders\\front.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "side",
+          "path": "assets\\PokemonPopular\\Mewtwo\\renders\\side.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "back",
+          "path": "assets\\PokemonPopular\\Mewtwo\\renders\\back.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "clay",
+          "path": "assets\\PokemonPopular\\Mewtwo\\renders\\clay.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        }
+      ]
+    },
+    {
+      "name": "Snorlax",
+      "korean": "잠만보",
+      "dex": 143,
+      "vote_2020_rank": null,
+      "errors": [],
+      "source": "assets\\PokemonPopular\\Snorlax\\Snorlax.blend",
+      "source_sha256": "a0ea1225503275926295dd01442c56d63ac6662c6ba1e7eb2f9a2cbfb2d59680",
+      "source_bytes": 9185796,
+      "embedded_images": 1,
+      "glb_meshes": 19,
+      "glb_sha256": "f922ca4d87b876459c74d43fc37b65b0b11b7bb6cdfcc8c994e9238e4ab7f7a8",
+      "glb_bytes": 10327912,
+      "geometry_passed": true,
+      "renders": [
+        {
+          "view": "hero",
+          "path": "assets\\PokemonPopular\\Snorlax\\renders\\hero.png",
+          "pixels": [
+            1400,
+            1400
+          ],
+          "fresh": true
+        },
+        {
+          "view": "front",
+          "path": "assets\\PokemonPopular\\Snorlax\\renders\\front.png",
+          "pixels": [
+            1400,
+            1400
+          ],
+          "fresh": true
+        },
+        {
+          "view": "side",
+          "path": "assets\\PokemonPopular\\Snorlax\\renders\\side.png",
+          "pixels": [
+            1400,
+            1400
+          ],
+          "fresh": true
+        },
+        {
+          "view": "back",
+          "path": "assets\\PokemonPopular\\Snorlax\\renders\\back.png",
+          "pixels": [
+            1400,
+            1400
+          ],
+          "fresh": true
+        },
+        {
+          "view": "clay",
+          "path": "assets\\PokemonPopular\\Snorlax\\renders\\clay.png",
+          "pixels": [
+            1400,
+            1400
+          ],
+          "fresh": true
+        }
+      ]
+    },
+    {
+      "name": "Mew",
+      "korean": "뮤",
+      "dex": 151,
+      "vote_2020_rank": null,
+      "errors": [],
+      "source": "assets\\PokemonPopular\\Mew\\Mew.blend",
+      "source_sha256": "a9085940f59054d3209764ce783a9eec3e4a8fb5d7d08eb05cb5df8f91c70ca0",
+      "source_bytes": 8202297,
+      "embedded_images": 1,
+      "glb_meshes": 2,
+      "glb_sha256": "f8263ce233f6827b805cd0b40066eb69fa449115a4004a79bc68ad00efc9175c",
+      "glb_bytes": 8732268,
+      "geometry_passed": true,
+      "renders": [
+        {
+          "view": "hero",
+          "path": "assets\\PokemonPopular\\Mew\\renders\\hero.png",
+          "pixels": [
+            1400,
+            1400
+          ],
+          "fresh": true
+        },
+        {
+          "view": "front",
+          "path": "assets\\PokemonPopular\\Mew\\renders\\front.png",
+          "pixels": [
+            1400,
+            1400
+          ],
+          "fresh": true
+        },
+        {
+          "view": "side",
+          "path": "assets\\PokemonPopular\\Mew\\renders\\side.png",
+          "pixels": [
+            1400,
+            1400
+          ],
+          "fresh": true
+        },
+        {
+          "view": "back",
+          "path": "assets\\PokemonPopular\\Mew\\renders\\back.png",
+          "pixels": [
+            1400,
+            1400
+          ],
+          "fresh": true
+        },
+        {
+          "view": "clay",
+          "path": "assets\\PokemonPopular\\Mew\\renders\\clay.png",
+          "pixels": [
+            1400,
+            1400
+          ],
+          "fresh": true
+        }
+      ]
+    },
+    {
+      "name": "Chandelure",
+      "korean": "샹델라",
+      "dex": 609,
+      "vote_2020_rank": 18,
+      "errors": [],
+      "source": "assets\\PokemonPopular\\Chandelure\\Chandelure.blend",
+      "source_sha256": "457762b3c365c88fe9456f8859d11a3214f4491c30860a45792dadcdcaa79e17",
+      "source_bytes": 1152822,
+      "embedded_images": 1,
+      "glb_meshes": 38,
+      "glb_sha256": "40d90ff793f2959a626af82afdef7d58dd916f531eff3ab7c691c5e4f1838ebc",
+      "glb_bytes": 1768732,
+      "geometry_passed": true,
+      "renders": [
+        {
+          "view": "hero",
+          "path": "assets\\PokemonPopular\\Chandelure\\renders\\hero.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "front",
+          "path": "assets\\PokemonPopular\\Chandelure\\renders\\front.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "side",
+          "path": "assets\\PokemonPopular\\Chandelure\\renders\\side.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "back",
+          "path": "assets\\PokemonPopular\\Chandelure\\renders\\back.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        },
+        {
+          "view": "clay",
+          "path": "assets\\PokemonPopular\\Chandelure\\renders\\clay.png",
+          "pixels": [
+            1500,
+            1500
+          ],
+          "fresh": true
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "warnings": [
+    "Documented prior build changed initial snapshot: assets\\Buizel\\Buizel.glb",
+    "Documented prior build changed initial snapshot: assets\\Buizel\\Buizel.blend"
+  ],
+  "previous_assets": {
+    "assets\\Charizard\\Charizard.blend": {
+      "unchanged": true,
+      "expected": "c2d67c1ce50a66d43ba6f306bf9989fa070715c9d3f6e54883bcb8abf8df6244",
+      "actual": "c2d67c1ce50a66d43ba6f306bf9989fa070715c9d3f6e54883bcb8abf8df6244"
+    },
+    "assets\\Buizel\\Buizel.glb": {
+      "unchanged": false,
+      "expected": "4939a0f1987fa07d528256cfa8ad6a775e8d8fc95ab66e3cef08347a3bbd2b81",
+      "actual": "a973a81826a1b1c929ccfdc29ed8c419885427b39b889ac07c9d0217ef6c850a",
+      "documented_exception": "observed_prior_asset_changes.json"
+    },
+    "assets\\Buizel\\Buizel.blend": {
+      "unchanged": false,
+      "expected": "5915a7b69eb8825d3fc1061be3a7396957a259ed74374c3d01058a18e6990cea",
+      "actual": "009f7a566b4522b1d15d0d27175a7739490eac849d1cd501c1a2b5b296c3ffc2",
+      "documented_exception": "observed_prior_asset_changes.json"
+    },
+    "assets\\PokemonStarters\\Pokemon_Starters.blend": {
+      "unchanged": true,
+      "expected": "0caa08b408733504ee7b1849dec3c8b3de9ad5d5906f7a3a157fb8b11e654157",
+      "actual": "0caa08b408733504ee7b1849dec3c8b3de9ad5d5906f7a3a157fb8b11e654157"
+    },
+    "assets\\Charizard\\Charizard.glb": {
+      "unchanged": true,
+      "expected": "d2815c31942dfc88e69d49279acf71e101dfec240b6112c89cda74dcc38fbaca",
+      "actual": "d2815c31942dfc88e69d49279acf71e101dfec240b6112c89cda74dcc38fbaca"
+    }
+  },
+  "previous_assets_unchanged": false,
+  "gallery": {
+    "built_at": "2026-11-04T06:17:15.427640+00:00",
+    "models": [
+      {
+        "name": "Greninja",
+        "korean": "개굴닌자",
+        "dex": 658,
+        "vote_2020_rank": 1,
+        "row": 0,
+        "slot": 0,
+        "source": "assets\\PokemonPopular\\Greninja\\Greninja.blend",
+        "source_sha256": "138169ed3cc5d0d9b6a346f840c46ae0fb2fce90b80ad99fbbf47c60a8ca714e",
+        "triangles": 391918,
+        "display_scale": 1.3730634658897232,
+        "display_position": [
+          -11.5,
+          0.0,
+          0.3100000023841858
+        ]
+      },
+      {
+        "name": "Lucario",
+        "korean": "루카리오",
+        "dex": 448,
+        "vote_2020_rank": 2,
+        "row": 0,
+        "slot": 1,
+        "source": "assets\\PokemonPopular\\Lucario\\Lucario.blend",
+        "source_sha256": "d06c28a763ebab8b7bd34ac0608bf863d4191c1e85a78e7fe8db0e33f56839f2",
+        "triangles": 537816,
+        "display_scale": 2.708892962714559,
+        "display_position": [
+          -6.900000095367432,
+          0.0,
+          0.3100000023841858
+        ]
+      },
+      {
+        "name": "Mimikyu",
+        "korean": "따라큐",
+        "dex": 778,
+        "vote_2020_rank": 3,
+        "row": 0,
+        "slot": 2,
+        "source": "assets\\PokemonPopular\\Mimikyu\\Mimikyu.blend",
+        "source_sha256": "cbdd8d2ac547825e23845d639a331b6dc281276207b7300d477d81f837d595f1",
+        "triangles": 224294,
+        "display_scale": 1.1670587687358622,
+        "display_position": [
+          -2.299999952316284,
+          0.0,
+          0.3100000023841858
+        ]
+      },
+      {
+        "name": "Charizard",
+        "korean": "리자몽",
+        "dex": 6,
+        "vote_2020_rank": 4,
+        "row": 0,
+        "slot": 3,
+        "source": "assets\\Charizard\\Charizard.blend",
+        "source_sha256": "c2d67c1ce50a66d43ba6f306bf9989fa070715c9d3f6e54883bcb8abf8df6244",
+        "triangles": 319768,
+        "display_scale": 1.3996386874739926,
+        "display_position": [
+          2.299999952316284,
+          0.0,
+          0.3100000023841858
+        ]
+      },
+      {
+        "name": "Umbreon",
+        "korean": "블래키",
+        "dex": 197,
+        "vote_2020_rank": 5,
+        "row": 0,
+        "slot": 4,
+        "source": "assets\\PokemonPopular\\Umbreon\\Umbreon.blend",
+        "source_sha256": "d55354d4ba20e9ca78dd4e3cf71c46b1b08ad71b14971754d8722125583f6d60",
+        "triangles": 396712,
+        "display_scale": 1.157114791592675,
+        "display_position": [
+          6.900000095367432,
+          0.0,
+          0.3100000023841858
+        ]
+      },
+      {
+        "name": "Sylveon",
+        "korean": "님피아",
+        "dex": 700,
+        "vote_2020_rank": 6,
+        "row": 0,
+        "slot": 5,
+        "source": "assets\\PokemonPopular\\Sylveon\\Sylveon.blend",
+        "source_sha256": "38314a5d43516e7aa230a39713a9bf4ee7479ef807664b322e5945c5e03bdabe",
+        "triangles": 392264,
+        "display_scale": 1.0481796268426493,
+        "display_position": [
+          11.5,
+          0.0,
+          0.3100000023841858
+        ]
+      },
+      {
+        "name": "Garchomp",
+        "korean": "한카리아스",
+        "dex": 445,
+        "vote_2020_rank": 7,
+        "row": 1,
+        "slot": 0,
+        "source": "assets\\PokemonPopular\\Garchomp\\Garchomp.blend",
+        "source_sha256": "816f91c9865e3fcef5267d3a708b3f45088a345ab40da6b513e9bf77b0d68e47",
+        "triangles": 451112,
+        "display_scale": 1.4750344504401134,
+        "display_position": [
+          -11.5,
+          6.0,
+          0.3100000023841858
+        ]
+      },
+      {
+        "name": "Rayquaza",
+        "korean": "레쿠쟈",
+        "dex": 384,
+        "vote_2020_rank": 8,
+        "row": 1,
+        "slot": 1,
+        "source": "assets\\PokemonPopular\\Rayquaza\\Rayquaza.blend",
+        "source_sha256": "950fb670404c420e55da3ce57e3c9b264b5f1e2c7084f3832359274de3f8e329",
+        "triangles": 148892,
+        "display_scale": 0.7220225835809021,
+        "display_position": [
+          -6.900000095367432,
+          6.0,
+          0.3100000023841858
+        ]
+      },
+      {
+        "name": "Gardevoir",
+        "korean": "가디안",
+        "dex": 282,
+        "vote_2020_rank": 9,
+        "row": 1,
+        "slot": 2,
+        "source": "assets\\PokemonPopular\\Gardevoir\\Gardevoir.blend",
+        "source_sha256": "408486517a33b1fb77d678228ee756fab243f2bb2fd242194ed5eb94da275d30",
+        "triangles": 807876,
+        "display_scale": 2.0312498183921144,
+        "display_position": [
+          -2.299999952316284,
+          6.0,
+          0.3100000023841858
+        ]
+      },
+      {
+        "name": "Gengar",
+        "korean": "팬텀",
+        "dex": 94,
+        "vote_2020_rank": 10,
+        "row": 1,
+        "slot": 3,
+        "source": "assets\\PokemonPopular\\Gengar\\Gengar.blend",
+        "source_sha256": "1d4fa3b35beeb4b06f04005e0d06b095c56b79a854f0f09c0fa29a2d6a136a06",
+        "triangles": 404804,
+        "display_scale": 0.9613701698103672,
+        "display_position": [
+          2.299999952316284,
+          6.0,
+          0.3100000023841858
+        ]
+      },
+      {
+        "name": "Tyranitar",
+        "korean": "마기라스",
+        "dex": 248,
+        "vote_2020_rank": 12,
+        "row": 1,
+        "slot": 4,
+        "source": "assets\\PokemonPopular\\Tyranitar\\Tyranitar.blend",
+        "source_sha256": "194608c2be58e1ce990d3937247f2eed2f7ed512e423d4a1e04877482c9eb87c",
+        "triangles": 431368,
+        "display_scale": 1.6244312578911273,
+        "display_position": [
+          6.900000095367432,
+          6.0,
+          0.3100000023841858
+        ]
+      },
+      {
+        "name": "Lugia",
+        "korean": "루기아",
+        "dex": 249,
+        "vote_2020_rank": 15,
+        "row": 1,
+        "slot": 5,
+        "source": "assets\\PokemonPopular\\Lugia\\Lugia.blend",
+        "source_sha256": "70cd49af8dd588a6cff31a07d2833921db09407c3d3a2a96679871ba97fca3de",
+        "triangles": 603192,
+        "display_scale": 0.4475206799828256,
+        "display_position": [
+          11.5,
+          6.0,
+          0.3100000023841858
+        ]
+      },
+      {
+        "name": "Pikachu",
+        "korean": "피카츄",
+        "dex": 25,
+        "vote_2020_rank": 19,
+        "row": 2,
+        "slot": 0,
+        "source": "assets\\PokemonPopular\\Pikachu\\Pikachu.blend",
+        "source_sha256": "116d8db7815fc82c6b48d444e5520aa970dea3dd7e118f8fa72a14359756933f",
+        "triangles": 342994,
+        "display_scale": 1.096890658456844,
+        "display_position": [
+          -11.5,
+          12.0,
+          0.3100000023841858
+        ]
+      },
+      {
+        "name": "Eevee",
+        "korean": "이브이",
+        "dex": 133,
+        "vote_2020_rank": 20,
+        "row": 2,
+        "slot": 1,
+        "source": "assets\\PokemonPopular\\Eevee\\Eevee.blend",
+        "source_sha256": "57c94e8d01bbc3bf3b53c3433c34d2645cac16de25727ab2f1adb0ea8e061997",
+        "triangles": 1052552,
+        "display_scale": 1.129005949617708,
+        "display_position": [
+          -6.900000095367432,
+          12.0,
+          0.3100000023841858
+        ]
+      },
+      {
+        "name": "Luxray",
+        "korean": "렌트라",
+        "dex": 405,
+        "vote_2020_rank": 21,
+        "row": 2,
+        "slot": 2,
+        "source": "assets\\PokemonPopular\\Luxray\\Luxray.blend",
+        "source_sha256": "fcaefb34d012312697a14db6ac9487c3eff5fc28dec03485f48e2281a37c1715",
+        "triangles": 1186948,
+        "display_scale": 1.0801394480348512,
+        "display_position": [
+          -2.299999952316284,
+          12.0,
+          0.3100000023841858
+        ]
+      },
+      {
+        "name": "Snom",
+        "korean": "누니머기",
+        "dex": 872,
+        "vote_2020_rank": 30,
+        "row": 2,
+        "slot": 3,
+        "source": "assets\\PokemonPopular\\Snom\\Snom.blend",
+        "source_sha256": "b63664e5ef92aa0fbebde5f93d49d34c2368db24fbc553fa23fa1b30c35391e2",
+        "triangles": 185526,
+        "display_scale": 2.162339100938163,
+        "display_position": [
+          2.299999952316284,
+          12.0,
+          0.3100000023841858
+        ]
+      },
+      {
+        "name": "Dragonite",
+        "korean": "망나뇽",
+        "dex": 149,
+        "vote_2020_rank": null,
+        "row": 2,
+        "slot": 4,
+        "source": "assets\\PokemonPopular\\Dragonite\\Dragonite.blend",
+        "source_sha256": "95625d222c190b0d3c8868081fc69a72ff39eb235db57b4debc51a041f195f7d",
+        "triangles": 812408,
+        "display_scale": 0.9703592243611455,
+        "display_position": [
+          6.900000095367432,
+          12.0,
+          0.3100000023841858
+        ]
+      },
+      {
+        "name": "Mewtwo",
+        "korean": "뮤츠",
+        "dex": 150,
+        "vote_2020_rank": null,
+        "row": 2,
+        "slot": 5,
+        "source": "assets\\PokemonPopular\\Mewtwo\\Mewtwo.blend",
+        "source_sha256": "a90472d5f57a914d3035444cee82547e012857069e2693e44c8632112d8d33d3",
+        "triangles": 770922,
+        "display_scale": 0.7576679802220775,
+        "display_position": [
+          11.5,
+          12.0,
+          0.3100000023841858
+        ]
+      },
+      {
+        "name": "Snorlax",
+        "korean": "잠만보",
+        "dex": 143,
+        "vote_2020_rank": null,
+        "row": 3,
+        "slot": 0,
+        "source": "assets\\PokemonPopular\\Snorlax\\Snorlax.blend",
+        "source_sha256": "a0ea1225503275926295dd01442c56d63ac6662c6ba1e7eb2f9a2cbfb2d59680",
+        "triangles": 365712,
+        "display_scale": 0.9721226526791737,
+        "display_position": [
+          -4.599999904632568,
+          18.0,
+          0.3100000023841858
+        ]
+      },
+      {
+        "name": "Mew",
+        "korean": "뮤",
+        "dex": 151,
+        "vote_2020_rank": null,
+        "row": 3,
+        "slot": 1,
+        "source": "assets\\PokemonPopular\\Mew\\Mew.blend",
+        "source_sha256": "a9085940f59054d3209764ce783a9eec3e4a8fb5d7d08eb05cb5df8f91c70ca0",
+        "triangles": 304552,
+        "display_scale": 1.0656318475789033,
+        "display_position": [
+          0.0,
+          18.0,
+          0.3100000023841858
+        ]
+      },
+      {
+        "name": "Chandelure",
+        "korean": "샹델라",
+        "dex": 609,
+        "vote_2020_rank": 18,
+        "row": 3,
+        "slot": 2,
+        "source": "assets\\PokemonPopular\\Chandelure\\Chandelure.blend",
+        "source_sha256": "457762b3c365c88fe9456f8859d11a3214f4491c30860a45792dadcdcaa79e17",
+        "triangles": 94552,
+        "display_scale": 1.0968279063712147,
+        "display_position": [
+          4.599999904632568,
+          18.0,
+          0.3100000023841858
+        ]
+      }
+    ],
+    "count": 21,
+    "total_triangles": 10226182,
+    "original_source_files_modified": false,
+    "note": "Native sources appended; each display normalized independently; no rigs or animations."
+  },
+  "limits": [
+    "Static fan models, no rigs or animations.",
+    "No game-engine runtime or deformation test. Components may intersect.",
+    "Display scale is normalized independently; canonical relative heights are not asserted."
+  ]
+}

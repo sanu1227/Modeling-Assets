@@ -1,0 +1,122 @@
+[
+  {
+    "name": "LICENSE.md",
+    "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/LICENSE.md",
+    "bytes": 3598,
+    "sha256": "EDD99571CA62698F78C943FD4FFFB159A413C315FA0D4819D3CEC5CADAF8B4F1"
+  },
+  {
+    "name": "LICENSE.ASSETS.md",
+    "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/LICENSE.ASSETS.md",
+    "bytes": 6962,
+    "sha256": "F6089CBA01CB570A24712B41AB8A586CCD3CC5EF53DC266CA50B95C288956D2C"
+  },
+  {
+    "name": "base.obj",
+    "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/3dobjs/base.obj",
+    "bytes": 1749303,
+    "sha256": "8E761E6624B8F54536409135D1636DA63B32486A90D4897F84E121D144F6FB4C"
+  },
+  {
+    "name": "african-female-young.target",
+    "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/targets/macrodetails/african-female-young.target",
+    "bytes": 411735,
+    "sha256": "92D61EEB3C164B421FD5A7C3537EE45E7E1A51DE4D49BF312E19C3DF2BE1D8FC"
+  },
+  {
+    "name": "asian-female-young.target",
+    "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/targets/macrodetails/asian-female-young.target",
+    "bytes": 435553,
+    "sha256": "095FE79694FA19E1FE98D93009EC116199BD524E081C640351A10ECCF2CCA1EB"
+  },
+  {
+    "name": "caucasian-female-young.target",
+    "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/targets/macrodetails/caucasian-female-young.target",
+    "bytes": 420559,
+    "sha256": "118379F6E8BA9266247FDB8788A20E1DF40A239F97CED0B9905BCBCC74F6E820"
+  },
+  {
+    "name": "universal-female-young-averagemuscle-averageweight.target",
+    "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/targets/macrodetails/universal-female-young-averagemuscle-averageweight.target",
+    "bytes": 604,
+    "sha256": "4BA5396DDABDA448ECE15650A566FBEBFBB10239256CCB201E8F883429E12249"
+  },
+  {
+    "name": "universal-female-young-averagemuscle-minweight.target",
+    "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/targets/macrodetails/universal-female-young-averagemuscle-minweight.target",
+    "bytes": 147131,
+    "sha256": "E53A4AFC87AC2703460A59E8290B1111478AEEE5C02ECE6735328C1F8C62EB63"
+  },
+  {
+    "name": "universal-female-young-maxmuscle-averageweight.target",
+    "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/targets/macrodetails/universal-female-young-maxmuscle-averageweight.target",
+    "bytes": 138225,
+    "sha256": "2E56B09B44A8497B927585447FDAAC5EA7293521D1F3A3DF1059495873C53F4E"
+  },
+  {
+    "name": "female-young-averagemuscle-averageweight-idealproportions.target",
+    "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/targets/macrodetails/proportions/female-young-averagemuscle-averageweight-idealproportions.target",
+    "bytes": 349563,
+    "sha256": "0A3BD099B7A88150D56D68B69C07D3D3538CB57279E0E775D13F19D3DC3E339D"
+  },
+  {
+    "name": "l-eye-scale-incr.target",
+    "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/targets/eyes/l-eye-scale-incr.target",
+    "bytes": 13397,
+    "sha256": "F35550DC3170CA1C0AACAE0B598CA139E4F1F913F2CCEA146EC6EA5B4E050DBB"
+  },
+  {
+    "name": "r-eye-scale-incr.target",
+    "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/targets/eyes/r-eye-scale-incr.target",
+    "bytes": 12192,
+    "sha256": "E1F4CB48575B60A46589635B99A8B87587BA82D7524A8AC1445ACE0BA002E918"
+  },
+  {
+    "name": "chin-width-decr.target",
+    "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/targets/chin/chin-width-decr.target",
+    "bytes": 2853,
+    "sha256": "AC081BD1652C203FC8973F20988A868A423A49F1FE6449CB974727FD46C26AF1"
+  },
+  {
+    "name": "chin-height-decr.target",
+    "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/targets/chin/chin-height-decr.target",
+    "bytes": 4603,
+    "sha256": "ACF83B5B7F2D6665F19D0D91205472878C23AB78B3F43D48420F75AFE8E82818"
+  },
+  {
+    "name": "high-poly.obj",
+    "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/eyes/high-poly/high-poly.obj",
+    "bytes": 100882,
+    "sha256": "DA2493215B708A344C33DC72F2A9A5B8FA985DCC5A70AD3B208995CF871DA8E1"
+  },
+  {
+    "name": "high-poly.mhclo",
+    "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/a8bc2d54ff0ac92e78ff71431b1023eda42bf482/makehuman/data/eyes/high-poly/high-poly.mhclo",
+    "bytes": 72490,
+    "sha256": "B183CFE37120AB726F9B3F2EA6CD3A64C44CE7B4BD91A77C841CF70C04F83A0D"
+  },
+  {
+    "name": "basemesh_vertex_groups.json",
+    "url": "https://raw.githubusercontent.com/makehumancommunity/mpfb2/b1a2dc98776da9d1eea751b159d42cf61778fe2e/src/mpfb/data/mesh_metadata/basemesh_vertex_groups.json",
+    "bytes": 81984,
+    "sha256": "8CB1417BC55AE5EC8AA99F90734E81ED5FBB556511FF6A2C00E0534B70911444"
+  },
+  {
+    "name": "MPFB_LICENSE.md",
+    "url": "https://raw.githubusercontent.com/makehumancommunity/mpfb2/b1a2dc98776da9d1eea751b159d42cf61778fe2e/LICENSE.md",
+    "bytes": 3188,
+    "sha256": "5CEFB60680CB9EFD4550A2E65D719021CFBEC9DAD3658481D11D48AE863CE04D"
+  },
+  {
+    "name": "MPFB_LICENSE.ASSETS.md",
+    "url": "https://raw.githubusercontent.com/makehumancommunity/mpfb2/b1a2dc98776da9d1eea751b159d42cf61778fe2e/LICENSE.ASSETS.md",
+    "bytes": 6962,
+    "sha256": "F6089CBA01CB570A24712B41AB8A586CCD3CC5EF53DC266CA50B95C288956D2C"
+  },
+  {
+    "name": "hm08_config.json",
+    "url": "https://raw.githubusercontent.com/makehumancommunity/mpfb2/b1a2dc98776da9d1eea751b159d42cf61778fe2e/src/mpfb/data/mesh_metadata/hm08_config.json",
+    "bytes": 3600,
+    "sha256": "0EBAB5F8BA35E56F3BE49E3DE241746552BCE57FE8E079B72B00A362BE246A29"
+  }
+]

@@ -1,0 +1,4347 @@
+{
+  "changed_count": 217,
+  "changed": [
+    {
+      "name": "Main_deck_rail_baluster.001",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.005",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.009",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.010",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.015",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.016",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.020",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.026",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.031",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.035",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.038",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.045",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.046",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.049",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.052",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.053",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.056",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.057",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.058",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.060",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.062",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.063",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.065",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.066",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.067",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.071",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.072",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.073",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.076",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.077",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.081",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.085",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.086",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Main_deck_rail_baluster.087",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Forecastle_rail_baluster.005",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Forecastle_rail_baluster.006",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Forecastle_rail_baluster.013",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Forecastle_rail_baluster.018",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Quarterdeck_gallery_baluster",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Quarterdeck_gallery_baluster.001",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Quarterdeck_gallery_baluster.004",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Quarterdeck_gallery_baluster.005",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Quarterdeck_gallery_baluster.007",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Quarterdeck_gallery_baluster.010",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Quarterdeck_gallery_baluster.013",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Quarterdeck_gallery_baluster.016",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Quarterdeck_gallery_baluster.018",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Quarterdeck_gallery_baluster.019",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Quarterdeck_gallery_baluster.021",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Quarterdeck_gallery_baluster.024",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Quarterdeck_gallery_baluster.025",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Quarterdeck_gallery_baluster.026",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Quarterdeck_gallery_baluster.027",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Quarterdeck_gallery_baluster.030",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Poop_deck_gallery_baluster",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Poop_deck_gallery_baluster.003",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Poop_deck_gallery_baluster.006",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Poop_deck_gallery_baluster.008",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Poop_deck_gallery_baluster.009",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Poop_deck_gallery_baluster.010",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Poop_deck_gallery_baluster.012",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Poop_deck_gallery_baluster.013",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Poop_deck_gallery_baluster.015",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Poop_deck_gallery_baluster.017",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Poop_deck_gallery_baluster.018",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Poop_deck_gallery_baluster.020",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Poop_deck_gallery_baluster.021",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Cabin_bronze_cornice.001",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Cabin_bronze_cornice.002",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Cabin_bronze_cornice.003",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Upper_pilaster",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Upper_pilaster.002",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Upper_pilaster.004",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Cabin_bronze_cornice.005",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Cabin_bronze_cornice.006",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Upper_pilaster.005",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Upper_pilaster.006",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Upper_pilaster.008",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Upper_pilaster.009",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Lower_gallery_window_diamond",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Lower_gallery_window_diamond.001",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Lower_gallery_window_diamond.002",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Lower_gallery_window_diamond.003",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Lower_gallery_window_diamond.004",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Lower_gallery_window_transom.003",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Lower_gallery_window_diamond.006",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Lower_gallery_window_diamond.007",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Lower_gallery_window_transom.004",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Lower_gallery_window_diamond.009",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Lower_gallery_window_transom.005",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Lower_gallery_window_diamond.010",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Lower_gallery_window_diamond.011",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Upper_gallery_window_transom",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Upper_gallery_window_diamond.001",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Upper_gallery_window_transom.001",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Upper_gallery_window_diamond.003",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Upper_gallery_window_transom.002",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Upper_gallery_window_diamond.004",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Lower_gallery_window_diamond.013",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Lower_gallery_window_transom.007",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Lower_gallery_window_diamond.014",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Lower_gallery_window_transom.008",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Lower_gallery_window_diamond.018",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Lower_gallery_window_diamond.020",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Lower_gallery_window_transom.011",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Lower_gallery_window_diamond.023",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Upper_gallery_window_transom.003",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Upper_gallery_window_diamond.006",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Upper_gallery_window_transom.004",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Upper_gallery_window_transom.005",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Stern_transom_window_transom.002",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Stern_transom_window_transom.003",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Stern_transom_window_diamond.011",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Stern_transom_window_transom.006",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Stern_transom_window_diamond.013",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Stern_transom_window_transom.007",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Stern_transom_window_transom.008",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Stern_transom_window_diamond.016",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Stern_transom_window_transom.009",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Door_jamb.001",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Quarterdeck_stairs_stringer",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Quarterdeck_stairs_handrail",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Poop_stairs_stringer",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Poop_stairs_stringer.001",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Quarterdeck_stairs_stringer.002",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Quarterdeck_stairs_stringer.003",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Poop_stairs_stringer.002",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Poop_stairs_stringer.003",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Forecastle_stairs_stringer",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_side_frame",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.001",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_lintel.002",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.002",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.003",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.004",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_side_frame.009",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_side_frame.015",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.014",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.015",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.017",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_lintel.018",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.018",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.019",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.020",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.021",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.023",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.024",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.025",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.026",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.027",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_side_frame.028",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.028",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.029",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.031",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_side_frame.033",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_lintel.033",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.032",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.033",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.034",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.035",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.037",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_side_frame.039",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.038",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.039",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.041",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_side_frame.042",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.042",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.043",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.044",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.045",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.046",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.047",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_side_frame.049",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.048",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.049",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_lintel.050",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.050",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.051",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.052",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.053",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.054",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_side_frame.057",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_lintel.057",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.057",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.058",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.059",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.060",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.061",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_side_frame.063",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.062",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.063",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_side_frame.064",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.064",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.065",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_side_frame.066",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_lintel.066",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.066",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.070",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.071",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_side_frame.072",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_side_frame.073",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.072",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_side_frame.076",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.078",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_side_frame.081",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.081",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.083",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.084",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_side_frame.087",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.087",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.088",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.090",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.091",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.093",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.094",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    },
+    {
+      "name": "Gunport_hinge.095",
+      "matrix_delta": 0.0,
+      "collections_equal": true,
+      "hide_equal": true,
+      "counts": [
+        [
+          56,
+          54,
+          216
+        ],
+        [
+          56,
+          54,
+          216
+        ]
+      ],
+      "vertex_delta": 0.0,
+      "materials_equal": true
+    }
+  ],
+  "materials_equal": true,
+  "names_equal": true
+}
